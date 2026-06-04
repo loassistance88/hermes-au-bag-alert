@@ -379,6 +379,12 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
         action="store_true",
         help="Send a sample product alert email without changing state.",
     )
+    parser.add_argument(
+        "--sample-limit",
+        type=int,
+        default=3,
+        help="Number of products to include in --sample-alert. Use 0 for all products.",
+    )
     return parser.parse_args(argv)
 
 
@@ -420,7 +426,7 @@ def main(argv: list[str]) -> int:
         raise RuntimeError("No products were parsed. The Hermes page layout may have changed.")
 
     if args.sample_alert:
-        sample_products = products[:3]
+        sample_products = products if args.sample_limit == 0 else products[: args.sample_limit]
         plain_body, html_body = build_email_body(sample_products, args.url)
         send_email(
             f"[Sample] Hermes AU new bag alert: {len(sample_products)} item preview",
