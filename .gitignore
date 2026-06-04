@@ -1,0 +1,6 @@
+.env
+*.log
+hermes_debug.html
+__pycache__/
+*.py[cod]
+

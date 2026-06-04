@@ -1,0 +1,56 @@
+name: Hermes AU bag alert
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hermes-au-bag-alert
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    env:
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      SMTP_HOST: smtp.gmail.com
+      SMTP_PORT: "465"
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      SMTP_FROM: ${{ secrets.SMTP_FROM }}
+      HERMES_URL: https://www.hermes.com/au/en/category/leather-goods/bags-and-clutches/womens-bags-and-clutches/
+      WATCH_TERMS: Neo Garden 23,Herbag Zip 20 bag
+      STATE_FILE: hermes_au_bag_state.json
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check Hermes AU bags
+        run: python hermes_au_bag_alert.py
+
+      - name: Save updated product state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add hermes_au_bag_state.json
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "Update Hermes AU bag state"
+            git push
+          fi
+
