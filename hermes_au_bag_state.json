@@ -1,27 +1,27 @@
 {
-  "last_checked_at": "2026-06-04T20:54:00.770160+00:00",
+  "last_checked_at": "2026-06-05T08:58:52.435801+00:00",
   "seen_ids": [
     "9c382453477d42ae",
     "7b282a17bd180603",
-    "465d8465c3f5990a",
+    "e9599f03ef3a10e8",
     "00bdb46345363977",
     "1d28377bcf834adb",
     "18aba5d7031a4e45",
-    "d1f8c70754e37d82",
-    "95659c170a65c88f",
     "a137075558a349b5",
+    "05ae918f6495bf4f",
     "4a69d9c05430966e",
     "3508b941e89850b7",
     "e99526799212ec47",
-    "d17dd9c38c7ee25e",
     "eca42c69c49bee9c",
     "7e526ea69f596b32",
     "3c0aea8853194188",
     "638a0c5147027a23",
     "08cbdc7460ad3722",
+    "d367b27caba2d26f",
     "b2eedae3277a8680",
     "9ff7a6859f1d051c",
     "2e15d4fe47f44e43",
+    "1dd12c90c2084d85",
     "5279376f4fdb7e68"
   ],
   "products": {
@@ -39,12 +39,12 @@
       "price": "AU$17,460",
       "url": "https://www.hermes.com/au/en/product/plume-28-bag-H087095CK89/"
     },
-    "465d8465c3f5990a": {
-      "product_id": "465d8465c3f5990a",
-      "name": "Medor bag",
+    "e9599f03ef3a10e8": {
+      "product_id": "e9599f03ef3a10e8",
+      "name": "Herbag Zip 31 bag",
       "color": "",
-      "price": "AU$18,015",
-      "url": "https://www.hermes.com/au/en/product/medor-bag-H085055CKAH/"
+      "price": "AU$5,640",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H072069CKAA/"
     },
     "00bdb46345363977": {
       "product_id": "00bdb46345363977",
@@ -67,26 +67,19 @@
       "price": "AU$8,400",
       "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAS/"
     },
-    "d1f8c70754e37d82": {
-      "product_id": "d1f8c70754e37d82",
-      "name": "Plume mini bag",
-      "color": "",
-      "price": "AU$12,270",
-      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CKV8/"
-    },
-    "95659c170a65c88f": {
-      "product_id": "95659c170a65c88f",
-      "name": "Medor Clous bag",
-      "color": "",
-      "price": "AU$18,015",
-      "url": "https://www.hermes.com/au/en/product/medor-clous-bag-H088002CKAA/"
-    },
     "a137075558a349b5": {
       "product_id": "a137075558a349b5",
       "name": "Evelyne III 29 bag",
       "color": "",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC37/"
+    },
+    "05ae918f6495bf4f": {
+      "product_id": "05ae918f6495bf4f",
+      "name": "Plume mini bag",
+      "color": "",
+      "price": "AU$12,270",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK3Q/"
     },
     "4a69d9c05430966e": {
       "product_id": "4a69d9c05430966e",
@@ -108,13 +101,6 @@
       "color": "",
       "price": "AU$8,730",
       "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CKAO/"
-    },
-    "d17dd9c38c7ee25e": {
-      "product_id": "d17dd9c38c7ee25e",
-      "name": "P'tit Arcon bag",
-      "color": "",
-      "price": "AU$8,730",
-      "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085668CKAX/"
     },
     "eca42c69c49bee9c": {
       "product_id": "eca42c69c49bee9c",
@@ -151,6 +137,13 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086717CKAC/"
     },
+    "d367b27caba2d26f": {
+      "product_id": "d367b27caba2d26f",
+      "name": "Herbag Zip 31 bag",
+      "color": "",
+      "price": "AU$5,640",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H072069CKBI/"
+    },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
       "name": "Neo Garden Voyage 41 bag",
@@ -171,6 +164,13 @@
       "color": "",
       "price": "AU$7,650",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H088914CKQ0/"
+    },
+    "1dd12c90c2084d85": {
+      "product_id": "1dd12c90c2084d85",
+      "name": "Plume mini bag",
+      "color": "",
+      "price": "AU$12,270",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CKI8/"
     },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
