@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-06-08T14:40:21.708245+00:00",
+  "last_checked_at": "2026-06-08T21:26:49.183839+00:00",
   "seen_ids": [
     "4a69d9c05430966e",
     "05ae918f6495bf4f",
@@ -7,7 +7,6 @@
     "9ff7a6859f1d051c",
     "7e526ea69f596b32",
     "9c382453477d42ae",
-    "7b282a17bd180603",
     "e9599f03ef3a10e8",
     "00bdb46345363977",
     "1d28377bcf834adb",
@@ -16,9 +15,9 @@
     "e99526799212ec47",
     "eca42c69c49bee9c",
     "1dd12c90c2084d85",
+    "3c0aea8853194188",
     "d367b27caba2d26f",
     "a137075558a349b5",
-    "3c0aea8853194188",
     "08cbdc7460ad3722",
     "b2eedae3277a8680",
     "5279376f4fdb7e68"
@@ -65,13 +64,6 @@
       "color": "",
       "price": "AU$12,490",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK89/"
-    },
-    "7b282a17bd180603": {
-      "product_id": "7b282a17bd180603",
-      "name": "Plume 28 bag",
-      "color": "",
-      "price": "AU$17,460",
-      "url": "https://www.hermes.com/au/en/product/plume-28-bag-H087095CK89/"
     },
     "e9599f03ef3a10e8": {
       "product_id": "e9599f03ef3a10e8",
@@ -129,6 +121,13 @@
       "price": "AU$12,270",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CKI8/"
     },
+    "3c0aea8853194188": {
+      "product_id": "3c0aea8853194188",
+      "name": "Petit Tour 34 bag",
+      "color": "",
+      "price": "AU$19,670",
+      "url": "https://www.hermes.com/au/en/product/petit-tour-34-bag-H087026CC89/"
+    },
     "d367b27caba2d26f": {
       "product_id": "d367b27caba2d26f",
       "name": "Herbag Zip 31 bag",
@@ -142,13 +141,6 @@
       "color": "",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC37/"
-    },
-    "3c0aea8853194188": {
-      "product_id": "3c0aea8853194188",
-      "name": "Petit Tour 34 bag",
-      "color": "",
-      "price": "AU$19,670",
-      "url": "https://www.hermes.com/au/en/product/petit-tour-34-bag-H087026CC89/"
     },
     "08cbdc7460ad3722": {
       "product_id": "08cbdc7460ad3722",
