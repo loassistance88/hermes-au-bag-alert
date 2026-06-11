@@ -1,8 +1,9 @@
 {
-  "last_checked_at": "2026-06-10T21:25:25.155375+00:00",
+  "last_checked_at": "2026-06-11T12:30:44.371972+00:00",
   "seen_ids": [
     "93f1856b818b1798",
     "431190de461a1184",
+    "c694ba6854dafc9f",
     "0e06a49c7bf27965",
     "24564fea3542716f",
     "4a69d9c05430966e",
@@ -22,14 +23,14 @@
     "75a78a371a72362d",
     "1beb9e290bd6b794",
     "eeea19812868bb82",
-    "3c0aea8853194188",
     "5279376f4fdb7e68",
+    "81b9b6ff5747f085",
+    "59d8550ec1322227",
+    "3c0aea8853194188",
     "5cbbb1eb1c4cf3a3",
     "08cbdc7460ad3722",
     "b2eedae3277a8680",
-    "82975bcb9d3de804",
-    "59d8550ec1322227",
-    "81b9b6ff5747f085"
+    "82975bcb9d3de804"
   ],
   "products": {
     "93f1856b818b1798": {
@@ -45,6 +46,13 @@
       "color": "",
       "price": "AU$13,040",
       "url": "https://www.hermes.com/au/en/product/hermes-della-cavalleria-elan-bag-H084658CP1C/"
+    },
+    "c694ba6854dafc9f": {
+      "product_id": "c694ba6854dafc9f",
+      "name": "Petit Tour 34 bag",
+      "color": "",
+      "price": "AU$19,670",
+      "url": "https://www.hermes.com/au/en/product/petit-tour-34-bag-H087026CK1C/"
     },
     "0e06a49c7bf27965": {
       "product_id": "0e06a49c7bf27965",
@@ -179,19 +187,33 @@
       "price": "AU$8,955",
       "url": "https://www.hermes.com/au/en/product/neo-double-sens-35-unicolor-bag-H087188CA89/"
     },
-    "3c0aea8853194188": {
-      "product_id": "3c0aea8853194188",
-      "name": "Petit Tour 34 bag",
-      "color": "",
-      "price": "AU$19,670",
-      "url": "https://www.hermes.com/au/en/product/petit-tour-34-bag-H087026CC89/"
-    },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
       "name": "Neo Garden Voyage 41 bag",
       "color": "",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "81b9b6ff5747f085": {
+      "product_id": "81b9b6ff5747f085",
+      "name": "Herbag Zip 31 hobnailed bag",
+      "color": "",
+      "price": "AU$9,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-hobnailed-bag-H085131CKAB/"
+    },
+    "59d8550ec1322227": {
+      "product_id": "59d8550ec1322227",
+      "name": "Hermès Videpoches bag",
+      "color": "",
+      "price": "AU$5,535",
+      "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CKD2/"
+    },
+    "3c0aea8853194188": {
+      "product_id": "3c0aea8853194188",
+      "name": "Petit Tour 34 bag",
+      "color": "",
+      "price": "AU$19,670",
+      "url": "https://www.hermes.com/au/en/product/petit-tour-34-bag-H087026CC89/"
     },
     "5cbbb1eb1c4cf3a3": {
       "product_id": "5cbbb1eb1c4cf3a3",
@@ -220,20 +242,6 @@
       "color": "",
       "price": "AU$5,970",
       "url": "https://www.hermes.com/au/en/product/herbag-zip-31-laque-bag-H079093CCAB/"
-    },
-    "59d8550ec1322227": {
-      "product_id": "59d8550ec1322227",
-      "name": "Hermès Videpoches bag",
-      "color": "",
-      "price": "AU$5,535",
-      "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CKD2/"
-    },
-    "81b9b6ff5747f085": {
-      "product_id": "81b9b6ff5747f085",
-      "name": "Herbag Zip 31 hobnailed bag",
-      "color": "",
-      "price": "AU$9,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-hobnailed-bag-H085131CKAB/"
     }
   }
 }
