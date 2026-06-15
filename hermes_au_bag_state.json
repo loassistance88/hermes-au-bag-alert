@@ -1,34 +1,32 @@
 {
-  "last_checked_at": "2026-06-14T20:42:04.471786+00:00",
+  "last_checked_at": "2026-06-15T16:22:52.142909+00:00",
   "seen_ids": [
-    "1f6d250306d35084",
-    "00bdb46345363977",
-    "9c382453477d42ae",
-    "81b9b6ff5747f085",
+    "3508b941e89850b7",
     "d626165ff7e91fe4",
-    "4a69d9c05430966e",
+    "00bdb46345363977",
     "11a5d65166852b26",
-    "05ae918f6495bf4f",
+    "81b9b6ff5747f085",
+    "1f6d250306d35084",
+    "9c382453477d42ae",
     "2054dff4f343dfe9",
-    "9ff7a6859f1d051c",
+    "05ae918f6495bf4f",
     "e3514e5b4f5f2ced",
-    "1beb9e290bd6b794",
+    "89bc19914974f9d0",
     "8d3a33005b47bbfe",
     "93f1856b818b1798",
     "247fa85d11c4c74b",
-    "eeea19812868bb82",
     "0e06a49c7bf27965",
     "24564fea3542716f",
-    "d6408e8ba367d950",
     "431190de461a1184",
     "a137075558a349b5",
     "7e526ea69f596b32",
     "c694ba6854dafc9f",
     "803c5aee57b81c9b",
     "1dd12c90c2084d85",
-    "3508b941e89850b7",
+    "465d8465c3f5990a",
+    "64ebf936699d2e7d",
     "af2da451e9a2f45e",
-    "75a78a371a72362d",
+    "09863bf39ab86131",
     "5279376f4fdb7e68",
     "59d8550ec1322227",
     "3c0aea8853194188",
@@ -37,33 +35,12 @@
     "b2eedae3277a8680"
   ],
   "products": {
-    "1f6d250306d35084": {
-      "product_id": "1f6d250306d35084",
-      "name": "Faubourg Express bag",
+    "3508b941e89850b7": {
+      "product_id": "3508b941e89850b7",
+      "name": "In-the-Loop plush belt bag",
       "color": "",
-      "price": "AU$17,460",
-      "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086409CC89/"
-    },
-    "00bdb46345363977": {
-      "product_id": "00bdb46345363977",
-      "name": "Roulis mini bag",
-      "color": "",
-      "price": "AU$15,805",
-      "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H071205CK89/"
-    },
-    "9c382453477d42ae": {
-      "product_id": "9c382453477d42ae",
-      "name": "Plume mini bag",
-      "color": "",
-      "price": "AU$12,490",
-      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK89/"
-    },
-    "81b9b6ff5747f085": {
-      "product_id": "81b9b6ff5747f085",
-      "name": "Herbag Zip 31 hobnailed bag",
-      "color": "",
-      "price": "AU$9,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-hobnailed-bag-H085131CKAB/"
+      "price": "AU$12,710",
+      "url": "https://www.hermes.com/au/en/product/in-the-loop-plush-belt-bag-H084987CKAC/"
     },
     "d626165ff7e91fe4": {
       "product_id": "d626165ff7e91fe4",
@@ -72,12 +49,12 @@
       "price": "AU$11,715",
       "url": "https://www.hermes.com/au/en/product/hermes-geta-slim-bag-H086984CKAC/"
     },
-    "4a69d9c05430966e": {
-      "product_id": "4a69d9c05430966e",
+    "00bdb46345363977": {
+      "product_id": "00bdb46345363977",
       "name": "Roulis mini bag",
       "color": "",
-      "price": "AU$15,470",
-      "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H079195CK8W/"
+      "price": "AU$15,805",
+      "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H071205CK89/"
     },
     "11a5d65166852b26": {
       "product_id": "11a5d65166852b26",
@@ -86,12 +63,26 @@
       "price": "AU$9,725",
       "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087967CKI2/"
     },
-    "05ae918f6495bf4f": {
-      "product_id": "05ae918f6495bf4f",
+    "81b9b6ff5747f085": {
+      "product_id": "81b9b6ff5747f085",
+      "name": "Herbag Zip 31 hobnailed bag",
+      "color": "",
+      "price": "AU$9,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-hobnailed-bag-H085131CKAB/"
+    },
+    "1f6d250306d35084": {
+      "product_id": "1f6d250306d35084",
+      "name": "Faubourg Express bag",
+      "color": "",
+      "price": "AU$17,460",
+      "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086409CC89/"
+    },
+    "9c382453477d42ae": {
+      "product_id": "9c382453477d42ae",
       "name": "Plume mini bag",
       "color": "",
-      "price": "AU$12,270",
-      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK3Q/"
+      "price": "AU$12,490",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK89/"
     },
     "2054dff4f343dfe9": {
       "product_id": "2054dff4f343dfe9",
@@ -100,12 +91,12 @@
       "price": "AU$8,070",
       "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA10/"
     },
-    "9ff7a6859f1d051c": {
-      "product_id": "9ff7a6859f1d051c",
-      "name": "Herbag Zip 31 bag",
+    "05ae918f6495bf4f": {
+      "product_id": "05ae918f6495bf4f",
+      "name": "Plume mini bag",
       "color": "",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAP/"
+      "price": "AU$12,270",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK3Q/"
     },
     "e3514e5b4f5f2ced": {
       "product_id": "e3514e5b4f5f2ced",
@@ -114,12 +105,12 @@
       "price": "AU$7,185",
       "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAE/"
     },
-    "1beb9e290bd6b794": {
-      "product_id": "1beb9e290bd6b794",
-      "name": "Collier d'Attelage bag",
+    "89bc19914974f9d0": {
+      "product_id": "89bc19914974f9d0",
+      "name": "Evelyne III 29 bag",
       "color": "",
-      "price": "AU$19,780",
-      "url": "https://www.hermes.com/au/en/product/collier-d-attelage-bag-H086342CK18/"
+      "price": "AU$6,745",
+      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
     },
     "8d3a33005b47bbfe": {
       "product_id": "8d3a33005b47bbfe",
@@ -142,13 +133,6 @@
       "price": "AU$5,970",
       "url": "https://www.hermes.com/au/en/product/herbag-zip-31-laque-bag-H084267CCAH/"
     },
-    "eeea19812868bb82": {
-      "product_id": "eeea19812868bb82",
-      "name": "Neo Double Sens 35 unicolor bag",
-      "color": "",
-      "price": "AU$8,955",
-      "url": "https://www.hermes.com/au/en/product/neo-double-sens-35-unicolor-bag-H087188CA89/"
-    },
     "0e06a49c7bf27965": {
       "product_id": "0e06a49c7bf27965",
       "name": "Garden Party 36 bag",
@@ -162,13 +146,6 @@
       "color": "",
       "price": "AU$17,460",
       "url": "https://www.hermes.com/au/en/product/plume-28-bag-H087095CK7U/"
-    },
-    "d6408e8ba367d950": {
-      "product_id": "d6408e8ba367d950",
-      "name": "Poche Cliquetis bag",
-      "color": "",
-      "price": "AU$12,380",
-      "url": "https://www.hermes.com/au/en/product/poche-cliquetis-bag-H086915CK1C/"
     },
     "431190de461a1184": {
       "product_id": "431190de461a1184",
@@ -212,12 +189,19 @@
       "price": "AU$12,270",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CKI8/"
     },
-    "3508b941e89850b7": {
-      "product_id": "3508b941e89850b7",
-      "name": "In-the-Loop plush belt bag",
+    "465d8465c3f5990a": {
+      "product_id": "465d8465c3f5990a",
+      "name": "Medor bag",
       "color": "",
-      "price": "AU$12,710",
-      "url": "https://www.hermes.com/au/en/product/in-the-loop-plush-belt-bag-H084987CKAC/"
+      "price": "AU$18,015",
+      "url": "https://www.hermes.com/au/en/product/medor-bag-H085055CKAH/"
+    },
+    "64ebf936699d2e7d": {
+      "product_id": "64ebf936699d2e7d",
+      "name": "Le Petit Sac bag",
+      "color": "",
+      "price": "AU$13,485",
+      "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087968CC89/"
     },
     "af2da451e9a2f45e": {
       "product_id": "af2da451e9a2f45e",
@@ -226,12 +210,12 @@
       "price": "AU$8,730",
       "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CPAE/"
     },
-    "75a78a371a72362d": {
-      "product_id": "75a78a371a72362d",
-      "name": "Arcon bag",
+    "09863bf39ab86131": {
+      "product_id": "09863bf39ab86131",
+      "name": "Evelyne III 29 bag",
       "color": "",
-      "price": "AU$10,170",
-      "url": "https://www.hermes.com/au/en/product/arcon-bag-H085336CPAA/"
+      "price": "AU$6,745",
+      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK89/"
     },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
