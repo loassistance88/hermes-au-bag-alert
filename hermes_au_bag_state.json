@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-06-18T11:57:20.837070+00:00",
+  "last_checked_at": "2026-06-18T21:14:39.432681+00:00",
   "seen_ids": [
     "3508b941e89850b7",
     "d626165ff7e91fe4",
@@ -24,6 +24,7 @@
     "1dd12c90c2084d85",
     "431190de461a1184",
     "64ebf936699d2e7d",
+    "247fa85d11c4c74b",
     "05ae918f6495bf4f",
     "93f1856b818b1798",
     "0e06a49c7bf27965",
@@ -193,6 +194,13 @@
       "color": "",
       "price": "AU$13,485",
       "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087968CC89/"
+    },
+    "247fa85d11c4c74b": {
+      "product_id": "247fa85d11c4c74b",
+      "name": "Herbag Zip 31 laque bag",
+      "color": "",
+      "price": "AU$5,970",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-laque-bag-H084267CCAH/"
     },
     "05ae918f6495bf4f": {
       "product_id": "05ae918f6495bf4f",
