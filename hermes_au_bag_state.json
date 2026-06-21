@@ -1,9 +1,8 @@
 {
-  "last_checked_at": "2026-06-20T20:51:45.309540+00:00",
+  "last_checked_at": "2026-06-21T10:46:06.644970+00:00",
   "seen_ids": [
     "60b4f6b15a68ae8d",
     "81b9b6ff5747f085",
-    "64ebf936699d2e7d",
     "6cd77c6465ab25a1",
     "d626165ff7e91fe4",
     "3508b941e89850b7",
@@ -14,7 +13,6 @@
     "eafb0963309287f7",
     "5cbbb1eb1c4cf3a3",
     "09863bf39ab86131",
-    "0c5b5e17a6de0714",
     "af2da451e9a2f45e",
     "7e526ea69f596b32",
     "a137075558a349b5",
@@ -24,8 +22,8 @@
     "4e2a2210add07673",
     "93f1856b818b1798",
     "ecbf672eb8bf171d",
-    "5279376f4fdb7e68",
     "59d8550ec1322227",
+    "5279376f4fdb7e68",
     "08cbdc7460ad3722",
     "b2eedae3277a8680"
   ],
@@ -43,13 +41,6 @@
       "color": "",
       "price": "AU$9,395",
       "url": "https://www.hermes.com/au/en/product/herbag-zip-31-hobnailed-bag-H085131CKAB/"
-    },
-    "64ebf936699d2e7d": {
-      "product_id": "64ebf936699d2e7d",
-      "name": "Le Petit Sac bag",
-      "color": "",
-      "price": "AU$13,485",
-      "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087968CC89/"
     },
     "6cd77c6465ab25a1": {
       "product_id": "6cd77c6465ab25a1",
@@ -121,13 +112,6 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK89/"
     },
-    "0c5b5e17a6de0714": {
-      "product_id": "0c5b5e17a6de0714",
-      "name": "Roulis mini bag",
-      "color": "",
-      "price": "AU$15,360",
-      "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H070510CP37/"
-    },
     "af2da451e9a2f45e": {
       "product_id": "af2da451e9a2f45e",
       "name": "P'tit Arcon bag",
@@ -191,19 +175,19 @@
       "price": "AU$7,650",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H088914CKP0/"
     },
-    "5279376f4fdb7e68": {
-      "product_id": "5279376f4fdb7e68",
-      "name": "Neo Garden Voyage 41 bag",
-      "color": "",
-      "price": "AU$8,010",
-      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
     "59d8550ec1322227": {
       "product_id": "59d8550ec1322227",
       "name": "Hermès Videpoches bag",
       "color": "",
       "price": "AU$5,535",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CKD2/"
+    },
+    "5279376f4fdb7e68": {
+      "product_id": "5279376f4fdb7e68",
+      "name": "Neo Garden Voyage 41 bag",
+      "color": "",
+      "price": "AU$8,010",
+      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
     },
     "08cbdc7460ad3722": {
       "product_id": "08cbdc7460ad3722",
