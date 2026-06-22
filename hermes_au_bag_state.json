@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-06-21T22:00:01.984305+00:00",
+  "last_checked_at": "2026-06-22T16:15:21.546650+00:00",
   "seen_ids": [
     "60b4f6b15a68ae8d",
     "81b9b6ff5747f085",
@@ -16,10 +16,10 @@
     "af2da451e9a2f45e",
     "7e526ea69f596b32",
     "a137075558a349b5",
-    "e3514e5b4f5f2ced",
     "89bc19914974f9d0",
     "465d8465c3f5990a",
     "4e2a2210add07673",
+    "e3514e5b4f5f2ced",
     "93f1856b818b1798",
     "ecbf672eb8bf171d",
     "59d8550ec1322227",
@@ -133,13 +133,6 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC37/"
     },
-    "e3514e5b4f5f2ced": {
-      "product_id": "e3514e5b4f5f2ced",
-      "name": "Lassoie Hermès bag",
-      "color": "",
-      "price": "AU$7,185",
-      "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAE/"
-    },
     "89bc19914974f9d0": {
       "product_id": "89bc19914974f9d0",
       "name": "Evelyne III 29 bag",
@@ -160,6 +153,13 @@
       "color": "",
       "price": "AU$8,730",
       "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CKAD/"
+    },
+    "e3514e5b4f5f2ced": {
+      "product_id": "e3514e5b4f5f2ced",
+      "name": "Lassoie Hermès bag",
+      "color": "",
+      "price": "AU$7,185",
+      "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAE/"
     },
     "93f1856b818b1798": {
       "product_id": "93f1856b818b1798",
