@@ -1,17 +1,16 @@
 {
-  "last_checked_at": "2026-06-22T22:27:34.721975+00:00",
+  "last_checked_at": "2026-06-23T10:48:13.761910+00:00",
   "seen_ids": [
-    "60b4f6b15a68ae8d",
-    "81b9b6ff5747f085",
-    "6cd77c6465ab25a1",
+    "11a5d65166852b26",
     "d626165ff7e91fe4",
+    "6cd77c6465ab25a1",
+    "81b9b6ff5747f085",
     "3508b941e89850b7",
+    "1f6d250306d35084",
     "5442147f7e425e4d",
     "51c5c910e99aaaff",
-    "11a5d65166852b26",
-    "1f6d250306d35084",
-    "eafb0963309287f7",
     "5cbbb1eb1c4cf3a3",
+    "eafb0963309287f7",
     "09863bf39ab86131",
     "af2da451e9a2f45e",
     "7e526ea69f596b32",
@@ -20,6 +19,7 @@
     "465d8465c3f5990a",
     "4e2a2210add07673",
     "e3514e5b4f5f2ced",
+    "60b4f6b15a68ae8d",
     "93f1856b818b1798",
     "ecbf672eb8bf171d",
     "59d8550ec1322227",
@@ -28,26 +28,12 @@
     "b2eedae3277a8680"
   ],
   "products": {
-    "60b4f6b15a68ae8d": {
-      "product_id": "60b4f6b15a68ae8d",
+    "11a5d65166852b26": {
+      "product_id": "11a5d65166852b26",
       "name": "Le Petit Sac bag",
       "color": "",
       "price": "AU$9,725",
-      "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087916CK9T/"
-    },
-    "81b9b6ff5747f085": {
-      "product_id": "81b9b6ff5747f085",
-      "name": "Herbag Zip 31 hobnailed bag",
-      "color": "",
-      "price": "AU$9,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-hobnailed-bag-H085131CKAB/"
-    },
-    "6cd77c6465ab25a1": {
-      "product_id": "6cd77c6465ab25a1",
-      "name": "Jypsiere mini bag",
-      "color": "",
-      "price": "AU$14,810",
-      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H084047CCAI/"
+      "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087967CKI2/"
     },
     "d626165ff7e91fe4": {
       "product_id": "d626165ff7e91fe4",
@@ -56,12 +42,33 @@
       "price": "AU$11,715",
       "url": "https://www.hermes.com/au/en/product/hermes-geta-slim-bag-H086984CKAC/"
     },
+    "6cd77c6465ab25a1": {
+      "product_id": "6cd77c6465ab25a1",
+      "name": "Jypsiere mini bag",
+      "color": "",
+      "price": "AU$14,810",
+      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H084047CCAI/"
+    },
+    "81b9b6ff5747f085": {
+      "product_id": "81b9b6ff5747f085",
+      "name": "Herbag Zip 31 hobnailed bag",
+      "color": "",
+      "price": "AU$9,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-hobnailed-bag-H085131CKAB/"
+    },
     "3508b941e89850b7": {
       "product_id": "3508b941e89850b7",
       "name": "In-the-Loop plush belt bag",
       "color": "",
       "price": "AU$12,710",
       "url": "https://www.hermes.com/au/en/product/in-the-loop-plush-belt-bag-H084987CKAC/"
+    },
+    "1f6d250306d35084": {
+      "product_id": "1f6d250306d35084",
+      "name": "Faubourg Express bag",
+      "color": "",
+      "price": "AU$17,460",
+      "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086409CC89/"
     },
     "5442147f7e425e4d": {
       "product_id": "5442147f7e425e4d",
@@ -77,19 +84,12 @@
       "price": "AU$15,495",
       "url": "https://www.hermes.com/au/en/product/seau-mousqueton-bag-H085751CKAA/"
     },
-    "11a5d65166852b26": {
-      "product_id": "11a5d65166852b26",
-      "name": "Le Petit Sac bag",
+    "5cbbb1eb1c4cf3a3": {
+      "product_id": "5cbbb1eb1c4cf3a3",
+      "name": "Hermès Della Cavalleria mini bag II",
       "color": "",
-      "price": "AU$9,725",
-      "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087967CKI2/"
-    },
-    "1f6d250306d35084": {
-      "product_id": "1f6d250306d35084",
-      "name": "Faubourg Express bag",
-      "color": "",
-      "price": "AU$17,460",
-      "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086409CC89/"
+      "price": "AU$11,935",
+      "url": "https://www.hermes.com/au/en/product/hermes-della-cavalleria-mini-bag-ii-H085367CC89/"
     },
     "eafb0963309287f7": {
       "product_id": "eafb0963309287f7",
@@ -97,13 +97,6 @@
       "color": "",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/herbag-zip-31-pocket-bag-H087943CKAB/"
-    },
-    "5cbbb1eb1c4cf3a3": {
-      "product_id": "5cbbb1eb1c4cf3a3",
-      "name": "Hermès Della Cavalleria mini bag II",
-      "color": "",
-      "price": "AU$11,935",
-      "url": "https://www.hermes.com/au/en/product/hermes-della-cavalleria-mini-bag-ii-H085367CC89/"
     },
     "09863bf39ab86131": {
       "product_id": "09863bf39ab86131",
@@ -160,6 +153,13 @@
       "color": "",
       "price": "AU$7,185",
       "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAE/"
+    },
+    "60b4f6b15a68ae8d": {
+      "product_id": "60b4f6b15a68ae8d",
+      "name": "Le Petit Sac bag",
+      "color": "",
+      "price": "AU$9,725",
+      "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087916CK9T/"
     },
     "93f1856b818b1798": {
       "product_id": "93f1856b818b1798",
