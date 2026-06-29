@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-06-28T23:54:59.107659+00:00",
+  "last_checked_at": "2026-06-29T14:50:51.808921+00:00",
   "seen_ids": [
     "1f6d250306d35084",
     "5442147f7e425e4d",
@@ -13,8 +13,10 @@
     "24fb4d277806d8fe",
     "ecbf672eb8bf171d",
     "59d8550ec1322227",
+    "1aeea02d2e365f32",
     "08cbdc7460ad3722",
     "b2eedae3277a8680",
+    "f54f3cd627e36ec3",
     "5279376f4fdb7e68"
   ],
   "products": {
@@ -102,6 +104,13 @@
       "price": "AU$5,535",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CKD2/"
     },
+    "1aeea02d2e365f32": {
+      "product_id": "1aeea02d2e365f32",
+      "name": "Neo Garden Voyage 41 bredies bag",
+      "color": "",
+      "price": "AU$14,590",
+      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
+    },
     "08cbdc7460ad3722": {
       "product_id": "08cbdc7460ad3722",
       "name": "Neo Garden Voyage 41 bag",
@@ -115,6 +124,13 @@
       "color": "",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAB/"
+    },
+    "f54f3cd627e36ec3": {
+      "product_id": "f54f3cd627e36ec3",
+      "name": "Neo Garden Voyage 41 bredies bag",
+      "color": "",
+      "price": "AU$14,590",
+      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
     },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
