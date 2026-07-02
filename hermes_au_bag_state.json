@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-01T22:50:21.580372+00:00",
+  "last_checked_at": "2026-07-02T10:15:28.200923+00:00",
   "seen_ids": [
     "c74b6ce29588f4e6",
     "1f6d250306d35084",
@@ -16,13 +16,13 @@
     "24fb4d277806d8fe",
     "c267714efa0b533c",
     "ecbf672eb8bf171d",
+    "f54f3cd627e36ec3",
+    "510b68e26be23566",
     "59d8550ec1322227",
     "1aeea02d2e365f32",
     "6e47ef0942d84943",
     "08cbdc7460ad3722",
     "b2eedae3277a8680",
-    "f54f3cd627e36ec3",
-    "510b68e26be23566",
     "5279376f4fdb7e68"
   ],
   "products": {
@@ -131,6 +131,20 @@
       "price": "AU$7,650",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H088914CKP0/"
     },
+    "f54f3cd627e36ec3": {
+      "product_id": "f54f3cd627e36ec3",
+      "name": "Neo Garden Voyage 41 bredies bag",
+      "color": "",
+      "price": "AU$14,590",
+      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
+    },
+    "510b68e26be23566": {
+      "product_id": "510b68e26be23566",
+      "name": "Neo Garden Voyage 41 bag",
+      "color": "",
+      "price": "AU$8,010",
+      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086717CKAI/"
+    },
     "59d8550ec1322227": {
       "product_id": "59d8550ec1322227",
       "name": "Hermès Videpoches bag",
@@ -165,20 +179,6 @@
       "color": "",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAB/"
-    },
-    "f54f3cd627e36ec3": {
-      "product_id": "f54f3cd627e36ec3",
-      "name": "Neo Garden Voyage 41 bredies bag",
-      "color": "",
-      "price": "AU$14,590",
-      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
-    },
-    "510b68e26be23566": {
-      "product_id": "510b68e26be23566",
-      "name": "Neo Garden Voyage 41 bag",
-      "color": "",
-      "price": "AU$8,010",
-      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086717CKAI/"
     },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
