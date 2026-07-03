@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-03T08:37:07.659441+00:00",
+  "last_checked_at": "2026-07-03T15:54:29.783731+00:00",
   "seen_ids": [
     "6b5e8cd2dae3b72c",
     "c267714efa0b533c",
@@ -7,10 +7,8 @@
     "465d8465c3f5990a",
     "7e526ea69f596b32",
     "af2da451e9a2f45e",
-    "762b047ef7876a83",
     "24fb4d277806d8fe",
     "e2f5425a50813a74",
-    "f5b4a8cc7d1ffbbd",
     "c74b6ce29588f4e6",
     "3508b941e89850b7",
     "1f6d250306d35084",
@@ -24,7 +22,6 @@
     "93f1856b818b1798",
     "247fa85d11c4c74b",
     "7b282a17bd180603",
-    "1fc40742140387a0",
     "ecbf672eb8bf171d",
     "5279376f4fdb7e68",
     "f54f3cd627e36ec3",
@@ -78,13 +75,6 @@
       "price": "AU$8,730",
       "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CPAE/"
     },
-    "762b047ef7876a83": {
-      "product_id": "762b047ef7876a83",
-      "name": "Picotin Lock 18 pocket bag",
-      "color": "",
-      "price": "AU$7,405",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CCBH/"
-    },
     "24fb4d277806d8fe": {
       "product_id": "24fb4d277806d8fe",
       "name": "Hermès In-the-Loop 18 bag",
@@ -98,13 +88,6 @@
       "color": "",
       "price": "AU$12,490",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK80/"
-    },
-    "f5b4a8cc7d1ffbbd": {
-      "product_id": "f5b4a8cc7d1ffbbd",
-      "name": "Evelyne 23 Poche III bag",
-      "color": "",
-      "price": "AU$6,520",
-      "url": "https://www.hermes.com/au/en/product/evelyne-23-poche-iii-bag-H087941CC89/"
     },
     "c74b6ce29588f4e6": {
       "product_id": "c74b6ce29588f4e6",
@@ -196,13 +179,6 @@
       "color": "",
       "price": "AU$17,460",
       "url": "https://www.hermes.com/au/en/product/plume-28-bag-H087095CK89/"
-    },
-    "1fc40742140387a0": {
-      "product_id": "1fc40742140387a0",
-      "name": "Picotin Lock 22 bag",
-      "color": "",
-      "price": "AU$6,520",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CK37/"
     },
     "ecbf672eb8bf171d": {
       "product_id": "ecbf672eb8bf171d",
