@@ -1,7 +1,6 @@
 {
-  "last_checked_at": "2026-07-05T01:11:18.621777+00:00",
+  "last_checked_at": "2026-07-05T05:09:27.400773+00:00",
   "seen_ids": [
-    "6b5e8cd2dae3b72c",
     "c267714efa0b533c",
     "89bc19914974f9d0",
     "465d8465c3f5990a",
@@ -33,13 +32,6 @@
     "b2eedae3277a8680"
   ],
   "products": {
-    "6b5e8cd2dae3b72c": {
-      "product_id": "6b5e8cd2dae3b72c",
-      "name": "Jypsiere mini bag",
-      "color": "",
-      "price": "AU$15,140",
-      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CK18/"
-    },
     "c267714efa0b533c": {
       "product_id": "c267714efa0b533c",
       "name": "Plume mini bag",
