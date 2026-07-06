@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-06T01:23:17.047652+00:00",
+  "last_checked_at": "2026-07-06T05:55:06.849510+00:00",
   "seen_ids": [
     "c267714efa0b533c",
     "89bc19914974f9d0",
@@ -27,20 +27,16 @@
     "7b282a17bd180603",
     "c9784283e7446871",
     "ecbf672eb8bf171d",
-    "6d61f6b3752029e6",
     "bb2b4a129049a88e",
     "5279376f4fdb7e68",
     "f54f3cd627e36ec3",
     "510b68e26be23566",
     "59d8550ec1322227",
-    "bd4eb3f296fb6783",
     "1aeea02d2e365f32",
     "6e47ef0942d84943",
-    "723e4b24acf952c1",
     "08cbdc7460ad3722",
     "ce03c83a6e68d543",
-    "b2eedae3277a8680",
-    "55d699b32fd6de63"
+    "b2eedae3277a8680"
   ],
   "products": {
     "c267714efa0b533c": {
@@ -225,13 +221,6 @@
       "price": "AU$7,650",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H088914CKP0/"
     },
-    "6d61f6b3752029e6": {
-      "product_id": "6d61f6b3752029e6",
-      "name": "Picotin Lock 18 bag",
-      "color": "",
-      "price": "AU$6,745",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H077913CK34/"
-    },
     "bb2b4a129049a88e": {
       "product_id": "bb2b4a129049a88e",
       "name": "Garden Party 30 bag",
@@ -267,13 +256,6 @@
       "price": "AU$5,535",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CKD2/"
     },
-    "bd4eb3f296fb6783": {
-      "product_id": "bd4eb3f296fb6783",
-      "name": "Lindy 26 bag",
-      "color": "",
-      "price": "AU$16,910",
-      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073430CC18/"
-    },
     "1aeea02d2e365f32": {
       "product_id": "1aeea02d2e365f32",
       "name": "Neo Garden Voyage 41 bredies bag",
@@ -287,13 +269,6 @@
       "color": "",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086717CKAA/"
-    },
-    "723e4b24acf952c1": {
-      "product_id": "723e4b24acf952c1",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKEQ/"
     },
     "08cbdc7460ad3722": {
       "product_id": "08cbdc7460ad3722",
@@ -315,13 +290,6 @@
       "color": "",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAB/"
-    },
-    "55d699b32fd6de63": {
-      "product_id": "55d699b32fd6de63",
-      "name": "Herbag Zip 20 bag",
-      "color": "",
-      "price": "AU$4,885",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAA/"
     }
   }
 }
