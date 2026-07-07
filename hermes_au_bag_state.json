@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-07T01:22:46.477001+00:00",
+  "last_checked_at": "2026-07-07T05:34:25.961751+00:00",
   "seen_ids": [
     "ce03c83a6e68d543",
     "89bc19914974f9d0",
@@ -27,13 +27,11 @@
     "5279376f4fdb7e68",
     "f54f3cd627e36ec3",
     "510b68e26be23566",
-    "221179372a8d3537",
     "59d8550ec1322227",
     "1aeea02d2e365f32",
     "6e47ef0942d84943",
     "08cbdc7460ad3722",
-    "b2eedae3277a8680",
-    "404c33f87e3b26f6"
+    "b2eedae3277a8680"
   ],
   "products": {
     "ce03c83a6e68d543": {
@@ -218,13 +216,6 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086717CKAI/"
     },
-    "221179372a8d3537": {
-      "product_id": "221179372a8d3537",
-      "name": "Picotin Lock 18 pocket bag",
-      "color": "",
-      "price": "AU$7,405",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBL/"
-    },
     "59d8550ec1322227": {
       "product_id": "59d8550ec1322227",
       "name": "Hermès Videpoches bag",
@@ -259,13 +250,6 @@
       "color": "",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAB/"
-    },
-    "404c33f87e3b26f6": {
-      "product_id": "404c33f87e3b26f6",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKCI/"
     }
   }
 }
