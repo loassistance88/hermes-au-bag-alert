@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-09T11:45:14.996328+00:00",
+  "last_checked_at": "2026-07-09T14:17:33.707681+00:00",
   "seen_ids": [
     "6cd77c6465ab25a1",
     "ce03c83a6e68d543",
@@ -34,7 +34,9 @@
     "6e47ef0942d84943",
     "08cbdc7460ad3722",
     "b2eedae3277a8680",
-    "568d7ad514bfc292"
+    "568d7ad514bfc292",
+    "4b32cd6711776b86",
+    "f8a7c549b6a263d2"
   ],
   "products": {
     "6cd77c6465ab25a1": {
@@ -274,6 +276,20 @@
       "color": "",
       "price": "AU$5,535",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087901CKAC/"
+    },
+    "4b32cd6711776b86": {
+      "product_id": "4b32cd6711776b86",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKFI/"
+    },
+    "f8a7c549b6a263d2": {
+      "product_id": "f8a7c549b6a263d2",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKES/"
     }
   }
 }
