@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-10T13:34:25.897293+00:00",
+  "last_checked_at": "2026-07-10T16:02:59.132233+00:00",
   "seen_ids": [
     "6cd77c6465ab25a1",
     "9e8f209907ac16e8",
@@ -36,9 +36,11 @@
     "6e47ef0942d84943",
     "08cbdc7460ad3722",
     "b2eedae3277a8680",
+    "83e2815d5fda02c7",
     "808e4db3280204cf",
     "568d7ad514bfc292",
-    "7ee944a5d46f40cb"
+    "7ee944a5d46f40cb",
+    "877e714c997bd268"
   ],
   "products": {
     "6cd77c6465ab25a1": {
@@ -286,6 +288,13 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAB/"
     },
+    "83e2815d5fda02c7": {
+      "product_id": "83e2815d5fda02c7",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CCAC/"
+    },
     "808e4db3280204cf": {
       "product_id": "808e4db3280204cf",
       "name": "Bolide 1923 - 25 bag",
@@ -306,6 +315,13 @@
       "color": "",
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085957CC55/"
+    },
+    "877e714c997bd268": {
+      "product_id": "877e714c997bd268",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCFS/"
     }
   }
 }
