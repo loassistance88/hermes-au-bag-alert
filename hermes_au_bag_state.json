@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-10T01:15:50.272961+00:00",
+  "last_checked_at": "2026-07-10T05:12:09.105222+00:00",
   "seen_ids": [
     "6cd77c6465ab25a1",
     "ce03c83a6e68d543",
@@ -34,15 +34,11 @@
     "944e6d894b2d4d71",
     "1aeea02d2e365f32",
     "a87b64a78aa48006",
-    "60fad39d3d33c378",
     "6e47ef0942d84943",
     "08cbdc7460ad3722",
     "b2eedae3277a8680",
     "808e4db3280204cf",
-    "b632aa28595c80a5",
-    "74ec277d073749d7",
     "568d7ad514bfc292",
-    "e00542f4f0d83e2e",
     "7ee944a5d46f40cb"
   ],
   "products": {
@@ -277,13 +273,6 @@
       "price": "AU$22,100",
       "url": "https://www.hermes.com/au/en/product/petit-tour-34-bag-H087025CC34/"
     },
-    "60fad39d3d33c378": {
-      "product_id": "60fad39d3d33c378",
-      "name": "Lindy II mini bag",
-      "color": "",
-      "price": "AU$13,815",
-      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085956CC3Y/"
-    },
     "6e47ef0942d84943": {
       "product_id": "6e47ef0942d84943",
       "name": "Neo Garden Voyage 41 bag",
@@ -312,33 +301,12 @@
       "price": "AU$13,485",
       "url": "https://www.hermes.com/au/en/product/bolide-1923-25-bag-H082798CK37/"
     },
-    "b632aa28595c80a5": {
-      "product_id": "b632aa28595c80a5",
-      "name": "Picotin Lock 18 bag",
-      "color": "",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CC18/"
-    },
-    "74ec277d073749d7": {
-      "product_id": "74ec277d073749d7",
-      "name": "Lindy 26 bag",
-      "color": "",
-      "price": "AU$16,465",
-      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073428CC89/"
-    },
     "568d7ad514bfc292": {
       "product_id": "568d7ad514bfc292",
       "name": "Hermès Videpoches bag",
       "color": "",
       "price": "AU$5,535",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087901CKAC/"
-    },
-    "e00542f4f0d83e2e": {
-      "product_id": "e00542f4f0d83e2e",
-      "name": "Herbag Zip 20 bag",
-      "color": "",
-      "price": "AU$4,885",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAJ/"
     },
     "7ee944a5d46f40cb": {
       "product_id": "7ee944a5d46f40cb",
