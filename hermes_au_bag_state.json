@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-12T04:41:05.796687+00:00",
+  "last_checked_at": "2026-07-12T07:17:33.397501+00:00",
   "seen_ids": [
     "6cd77c6465ab25a1",
     "9e8f209907ac16e8",
@@ -29,18 +29,14 @@
     "7b282a17bd180603",
     "ecbf672eb8bf171d",
     "5279376f4fdb7e68",
+    "568d7ad514bfc292",
     "f54f3cd627e36ec3",
     "510b68e26be23566",
     "1aeea02d2e365f32",
     "a87b64a78aa48006",
     "6e47ef0942d84943",
     "08cbdc7460ad3722",
-    "b2eedae3277a8680",
-    "83e2815d5fda02c7",
-    "808e4db3280204cf",
-    "568d7ad514bfc292",
-    "7ee944a5d46f40cb",
-    "877e714c997bd268"
+    "b2eedae3277a8680"
   ],
   "products": {
     "6cd77c6465ab25a1": {
@@ -239,6 +235,13 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
     },
+    "568d7ad514bfc292": {
+      "product_id": "568d7ad514bfc292",
+      "name": "Hermès Videpoches bag",
+      "color": "",
+      "price": "AU$5,535",
+      "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087901CKAC/"
+    },
     "f54f3cd627e36ec3": {
       "product_id": "f54f3cd627e36ec3",
       "name": "Neo Garden Voyage 41 bredies bag",
@@ -287,41 +290,6 @@
       "color": "",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAB/"
-    },
-    "83e2815d5fda02c7": {
-      "product_id": "83e2815d5fda02c7",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CCAC/"
-    },
-    "808e4db3280204cf": {
-      "product_id": "808e4db3280204cf",
-      "name": "Bolide 1923 - 25 bag",
-      "color": "",
-      "price": "AU$13,485",
-      "url": "https://www.hermes.com/au/en/product/bolide-1923-25-bag-H082798CK37/"
-    },
-    "568d7ad514bfc292": {
-      "product_id": "568d7ad514bfc292",
-      "name": "Hermès Videpoches bag",
-      "color": "",
-      "price": "AU$5,535",
-      "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087901CKAC/"
-    },
-    "7ee944a5d46f40cb": {
-      "product_id": "7ee944a5d46f40cb",
-      "name": "Lindy II mini bag",
-      "color": "",
-      "price": "AU$14,590",
-      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085957CC55/"
-    },
-    "877e714c997bd268": {
-      "product_id": "877e714c997bd268",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCFS/"
     }
   }
 }
