@@ -37,6 +37,11 @@ DEFAULT_RECIPIENT = ""
 DEFAULT_WATCH_TERMS = ["Neo Garden 23", "Herbag Zip 20 bag"]
 DEFAULT_STATE_FILE = "hermes_au_bag_state.json"
 REQUEST_TIMEOUT_SECONDS = 30
+TRANSIENT_HTTP_CODES = {403, 408, 425, 429, 500, 502, 503, 504}
+
+
+class TransientFetchError(RuntimeError):
+    pass
 
 
 @dataclass(frozen=True)
@@ -118,7 +123,7 @@ def load_dotenv(dotenv_path: Path) -> None:
             os.environ[key] = value
 
 
-def fetch_page(url: str) -> str:
+def fetch_page(url: str, attempts: int = 3, backoff_seconds: int = 10) -> str:
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -129,15 +134,34 @@ def fetch_page(url: str) -> str:
         "Accept-Language": "en-AU,en;q=0.9",
         "Cache-Control": "no-cache",
     }
-    request = Request(url, headers=headers)
-    try:
-        with urlopen(request, timeout=REQUEST_TIMEOUT_SECONDS) as response:
-            charset = response.headers.get_content_charset() or "utf-8"
-            return response.read().decode(charset, errors="replace")
-    except HTTPError as exc:
-        raise RuntimeError(f"Hermes returned HTTP {exc.code}: {exc.reason}") from exc
-    except URLError as exc:
-        raise RuntimeError(f"Could not reach Hermes: {exc.reason}") from exc
+    last_error: Exception | None = None
+    for attempt in range(1, attempts + 1):
+        request = Request(url, headers=headers)
+        try:
+            with urlopen(request, timeout=REQUEST_TIMEOUT_SECONDS) as response:
+                charset = response.headers.get_content_charset() or "utf-8"
+                return response.read().decode(charset, errors="replace")
+        except HTTPError as exc:
+            last_error = exc
+            if exc.code not in TRANSIENT_HTTP_CODES:
+                raise RuntimeError(f"Hermes returned HTTP {exc.code}: {exc.reason}") from exc
+            print(
+                f"Temporary Hermes HTTP {exc.code}: {exc.reason} "
+                f"(attempt {attempt}/{attempts}).",
+                file=sys.stderr,
+            )
+        except URLError as exc:
+            last_error = exc
+            print(
+                f"Temporary network error reaching Hermes: {exc.reason} "
+                f"(attempt {attempt}/{attempts}).",
+                file=sys.stderr,
+            )
+
+        if attempt < attempts:
+            time.sleep(backoff_seconds * attempt)
+
+    raise TransientFetchError(f"Could not fetch Hermes page after {attempts} attempt(s).") from last_error
 
 
 def parse_products(page_html: str, page_url: str) -> list[Product]:
@@ -365,6 +389,11 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
         help="Save fetched HTML to this file for troubleshooting parser changes.",
     )
     parser.add_argument(
+        "--ignore-fetch-errors",
+        action="store_true",
+        help="Exit successfully when Hermes blocks or times out after retries.",
+    )
+    parser.add_argument(
         "--test-email",
         action="store_true",
         help="Send a test email using the current .env settings, then exit.",
@@ -414,7 +443,13 @@ def main(argv: list[str]) -> int:
         print(f"Test email sent to {recipient}.")
         return 0
 
-    page_html = fetch_page(args.url)
+    try:
+        page_html = fetch_page(args.url)
+    except TransientFetchError as exc:
+        if args.ignore_fetch_errors:
+            print(f"Skipping this run: {exc}")
+            return 0
+        raise
     if args.debug_html:
         debug_path = Path(args.debug_html)
         if not debug_path.is_absolute():
