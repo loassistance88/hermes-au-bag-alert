@@ -18,7 +18,7 @@ import smtplib
 import ssl
 import sys
 import time
-from dataclasses import asdict, dataclass
+from dataclasses import asdict, dataclass, replace
 from datetime import datetime, timezone
 from email.message import EmailMessage
 from html.parser import HTMLParser
@@ -123,7 +123,12 @@ def load_dotenv(dotenv_path: Path) -> None:
             os.environ[key] = value
 
 
-def fetch_page(url: str, attempts: int = 3, backoff_seconds: int = 10) -> str:
+def fetch_page(
+    url: str,
+    attempts: int = 3,
+    backoff_seconds: int = 10,
+    timeout_seconds: int = REQUEST_TIMEOUT_SECONDS,
+) -> str:
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -138,7 +143,7 @@ def fetch_page(url: str, attempts: int = 3, backoff_seconds: int = 10) -> str:
     for attempt in range(1, attempts + 1):
         request = Request(url, headers=headers)
         try:
-            with urlopen(request, timeout=REQUEST_TIMEOUT_SECONDS) as response:
+            with urlopen(request, timeout=timeout_seconds) as response:
                 charset = response.headers.get_content_charset() or "utf-8"
                 return response.read().decode(charset, errors="replace")
         except HTTPError as exc:
@@ -197,7 +202,7 @@ def parse_products(page_html: str, page_url: str) -> list[Product]:
         segment = " ".join(text for text, _ in tokens[idx + 1 : next_link])
 
         color_match = re.search(
-            r"Color:\s*(.*?)(?:,\s*)?Price\b",
+            r"Color\s*:\s*(.*?)(?:,\s*)?Price\b",
             segment,
             flags=re.IGNORECASE,
         )
@@ -244,6 +249,40 @@ def dedupe_products(products: Iterable[Product]) -> list[Product]:
     return result
 
 
+def parse_detail_color(page_html: str) -> str:
+    parser = VisibleTextParser()
+    parser.feed(page_html)
+    tokens = [text for text, _ in parser.tokens]
+    skip_values = {",", "selected"}
+
+    for idx, text in enumerate(tokens):
+        if text.casefold() != "color":
+            continue
+        for candidate in tokens[idx + 1 : idx + 6]:
+            normalized = normalize_space(candidate)
+            if normalized and normalized.casefold() not in skip_values:
+                return normalized
+    return ""
+
+
+def enrich_missing_colors(products: list[Product]) -> list[Product]:
+    enriched: list[Product] = []
+    for idx, product in enumerate(products):
+        if product.color or not product.url:
+            enriched.append(product)
+            continue
+        if idx:
+            time.sleep(2)
+        try:
+            detail_html = fetch_page(product.url, attempts=2, backoff_seconds=3, timeout_seconds=8)
+            color = parse_detail_color(detail_html)
+        except Exception as exc:
+            print(f"Could not fetch color for {product.url}: {exc}", file=sys.stderr)
+            color = ""
+        enriched.append(replace(product, color=color) if color else product)
+    return enriched
+
+
 def load_state(path: Path) -> dict:
     if not path.exists():
         return {"seen_ids": [], "products": {}, "last_checked_at": None}
@@ -270,6 +309,43 @@ def matching_watch_terms(products: Iterable[Product], watch_terms: list[str]) ->
     return matches
 
 
+def product_watch_hits(product: Product, watch_terms: list[str]) -> list[str]:
+    product_name = normalize_for_match(product.name)
+    hits: list[str] = []
+    for term in watch_terms:
+        normalized = normalize_for_match(term)
+        if normalized and normalized in product_name:
+            hits.append(term)
+    return hits
+
+
+def sort_watch_products_first(products: list[Product], watch_terms: list[str]) -> list[Product]:
+    normalized_terms = [normalize_for_match(term) for term in watch_terms if term]
+
+    def priority(product: Product) -> tuple[int, int]:
+        product_name = normalize_for_match(product.name)
+        for term_idx, normalized in enumerate(normalized_terms):
+            if normalized and normalized in product_name:
+                return (0, term_idx)
+        return (1, len(normalized_terms))
+
+    return [
+        product
+        for _, product in sorted(
+            enumerate(products),
+            key=lambda indexed: (*priority(indexed[1]), indexed[0]),
+        )
+    ]
+
+
+def load_watch_terms_from_env() -> list[str]:
+    return [
+        term.strip()
+        for term in os.getenv("WATCH_TERMS", ",".join(DEFAULT_WATCH_TERMS)).split(",")
+        if term.strip()
+    ]
+
+
 def build_subject(new_products: list[Product], watch_hits: list[str]) -> str:
     if watch_hits:
         return f"\u2757 Hermes AU wishlist alert: {', '.join(watch_hits)}"
@@ -277,7 +353,12 @@ def build_subject(new_products: list[Product], watch_hits: list[str]) -> str:
     return f"Hermes AU new bag alert: {count} new item{'s' if count != 1 else ''}"
 
 
-def build_email_body(new_products: list[Product], page_url: str) -> tuple[str, str]:
+def build_email_body(
+    new_products: list[Product],
+    page_url: str,
+    watch_terms: list[str] | None = None,
+) -> tuple[str, str]:
+    watch_terms = watch_terms or []
     checked_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     plain_lines = [
         f"Found {len(new_products)} new Hermes AU bag item(s).",
@@ -287,38 +368,63 @@ def build_email_body(new_products: list[Product], page_url: str) -> tuple[str, s
     ]
     rows = []
     for product in new_products:
+        watch_hits = product_watch_hits(product, watch_terms)
+        alert_prefix = "[WATCH] " if watch_hits else ""
+        color_line = [f"  Color: {product.color}"] if product.color else []
         plain_lines.extend(
             [
-                f"- {product.name}",
-                f"  Color: {product.color or 'N/A'}",
+                f"- {alert_prefix}{product.name}",
                 f"  Price: {product.price}",
+                *color_line,
                 f"  URL: {product.url}",
                 "",
             ]
         )
-        rows.append(
-            "<tr>"
-            f"<td>{html.escape(product.name)}</td>"
-            f"<td>{html.escape(product.color or 'N/A')}</td>"
-            f"<td>{html.escape(product.price)}</td>"
-            f"<td><a href=\"{html.escape(product.url)}\">Open</a></td>"
-            "</tr>"
+        alert_badge = (
+            '<span style="color:#d0021b;font-weight:700;font-size:18px;margin-right:6px;">&#10071;</span>'
+            if watch_hits
+            else ""
         )
+        row_background = "#fff7f7" if watch_hits else "#ffffff"
+        color_html = (
+            f'<div style="margin-top:4px;color:#555;">Color: {html.escape(product.color)}</div>'
+            if product.color
+            else ""
+        )
+        rows.append(f"""\
+<tr>
+  <td style="padding:14px 0;border-bottom:1px solid #e5e5e5;background:{row_background};">
+    <div style="font-size:16px;font-weight:600;line-height:1.35;">
+      {alert_badge}<a href="{html.escape(product.url)}" style="color:#111;text-decoration:none;">{html.escape(product.name)}</a>
+    </div>
+    <div style="margin-top:6px;font-size:15px;font-weight:600;">{html.escape(product.price)}</div>
+    {color_html}
+    <div style="margin-top:8px;font-size:13px;line-height:1.45;word-break:break-all;">
+      Product link: <a href="{html.escape(product.url)}" style="color:#7a3f00;">{html.escape(product.url)}</a>
+    </div>
+    <div style="margin-top:10px;">
+      <a href="{html.escape(product.url)}" style="display:inline-block;background:#111;color:#fff;text-decoration:none;padding:9px 14px;border-radius:3px;font-size:13px;">Open product</a>
+    </div>
+  </td>
+</tr>
+""")
 
     html_body = f"""\
 <html>
   <body>
-    <p>Found {len(new_products)} new Hermes AU bag item(s).</p>
-    <p>Checked at: {html.escape(checked_at)}<br>
-       Category: <a href="{html.escape(page_url)}">{html.escape(page_url)}</a></p>
-    <table border="1" cellpadding="6" cellspacing="0">
-      <thead>
-        <tr><th>Name</th><th>Color</th><th>Price</th><th>Link</th></tr>
-      </thead>
-      <tbody>
-        {''.join(rows)}
-      </tbody>
-    </table>
+    <div style="font-family:Arial,Helvetica,sans-serif;color:#111;max-width:720px;margin:0 auto;">
+      <h2 style="font-size:20px;margin:0 0 8px;">Hermes AU bag alert</h2>
+      <p style="margin:0 0 6px;">Found {len(new_products)} new bag item(s).</p>
+      <p style="margin:0 0 18px;color:#555;font-size:13px;">
+        Checked at: {html.escape(checked_at)}<br>
+        Category: <a href="{html.escape(page_url)}" style="color:#7a3f00;">{html.escape(page_url)}</a>
+      </p>
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+        <tbody>
+          {''.join(rows)}
+        </tbody>
+      </table>
+    </div>
   </body>
 </html>
 """
@@ -462,7 +568,10 @@ def main(argv: list[str]) -> int:
 
     if args.sample_alert:
         sample_products = products if args.sample_limit == 0 else products[: args.sample_limit]
-        plain_body, html_body = build_email_body(sample_products, args.url)
+        sample_products = enrich_missing_colors(sample_products)
+        watch_terms = load_watch_terms_from_env()
+        sample_products = sort_watch_products_first(sample_products, watch_terms)
+        plain_body, html_body = build_email_body(sample_products, args.url, watch_terms)
         send_email(
             f"[Sample] Hermes AU new bag alert: {len(sample_products)} item preview",
             plain_body,
@@ -488,14 +597,12 @@ def main(argv: list[str]) -> int:
         return 0
 
     if new_products:
-        watch_terms = [
-            term.strip()
-            for term in os.getenv("WATCH_TERMS", ",".join(DEFAULT_WATCH_TERMS)).split(",")
-            if term.strip()
-        ]
+        new_products = enrich_missing_colors(new_products)
+        watch_terms = load_watch_terms_from_env()
+        new_products = sort_watch_products_first(new_products, watch_terms)
         watch_hits = matching_watch_terms(new_products, watch_terms)
         subject = build_subject(new_products, watch_hits)
-        plain_body, html_body = build_email_body(new_products, args.url)
+        plain_body, html_body = build_email_body(new_products, args.url, watch_terms)
         send_email(subject, plain_body, html_body)
         print(f"Email sent: {subject}")
     elif first_run:
