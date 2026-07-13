@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-13T22:38:57.104584+00:00",
+  "last_checked_at": "2026-07-13T23:36:06.029653+00:00",
   "seen_ids": [
     "ce03c83a6e68d543",
     "89bc19914974f9d0",
@@ -10,7 +10,6 @@
     "9e8f209907ac16e8",
     "f87bf06d2c4199b8",
     "af2da451e9a2f45e",
-    "793dc094c5145d22",
     "c9784283e7446871",
     "3508b941e89850b7",
     "9c382453477d42ae",
@@ -33,9 +32,7 @@
     "1aeea02d2e365f32",
     "6e47ef0942d84943",
     "08cbdc7460ad3722",
-    "b2eedae3277a8680",
-    "f86eb929784c7dae",
-    "0660271d25a01e2e"
+    "b2eedae3277a8680"
   ],
   "products": {
     "ce03c83a6e68d543": {
@@ -100,13 +97,6 @@
       "color": "Beige/Natural",
       "price": "AU$8,730",
       "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CPAE/"
-    },
-    "793dc094c5145d22": {
-      "product_id": "793dc094c5145d22",
-      "name": "Picotin Lock 18 pocket bag",
-      "color": "Beige/Natural",
-      "price": "AU$7,405",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBJ/"
     },
     "c9784283e7446871": {
       "product_id": "c9784283e7446871",
@@ -268,20 +258,6 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAB/"
-    },
-    "f86eb929784c7dae": {
-      "product_id": "f86eb929784c7dae",
-      "name": "Lindy II mini bag",
-      "color": "Beige/Natural",
-      "price": "AU$13,815",
-      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085956CC18/"
-    },
-    "0660271d25a01e2e": {
-      "product_id": "0660271d25a01e2e",
-      "name": "Lindy 26 bag",
-      "color": "Black",
-      "price": "AU$16,465",
-      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073428CK89/"
     }
   }
 }
