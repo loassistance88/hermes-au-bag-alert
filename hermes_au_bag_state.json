@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-12T23:31:38.674703+00:00",
+  "last_checked_at": "2026-07-13T01:10:49.599258+00:00",
   "seen_ids": [
     "6cd77c6465ab25a1",
     "9e8f209907ac16e8",
@@ -15,21 +15,15 @@
     "c74b6ce29588f4e6",
     "60b4f6b15a68ae8d",
     "51c5c910e99aaaff",
-    "1f6d250306d35084",
-    "e9599f03ef3a10e8",
     "bb2b4a129049a88e",
-    "07e7fea0152328c2",
-    "247fa85d11c4c74b",
     "59d8550ec1322227",
     "217d60d61dd7922b",
-    "00bdb46345363977",
     "9c382453477d42ae",
-    "5442147f7e425e4d",
     "6d9984748f3d03d6",
     "7b282a17bd180603",
     "ecbf672eb8bf171d",
-    "5279376f4fdb7e68",
     "568d7ad514bfc292",
+    "5279376f4fdb7e68",
     "f54f3cd627e36ec3",
     "510b68e26be23566",
     "1aeea02d2e365f32",
@@ -137,40 +131,12 @@
       "price": "AU$15,495",
       "url": "https://www.hermes.com/au/en/product/seau-mousqueton-bag-H085751CKAA/"
     },
-    "1f6d250306d35084": {
-      "product_id": "1f6d250306d35084",
-      "name": "Faubourg Express bag",
-      "color": "Black",
-      "price": "AU$17,460",
-      "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086409CC89/"
-    },
-    "e9599f03ef3a10e8": {
-      "product_id": "e9599f03ef3a10e8",
-      "name": "Herbag Zip 31 bag",
-      "color": "Black",
-      "price": "AU$5,640",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H072069CKAA/"
-    },
     "bb2b4a129049a88e": {
       "product_id": "bb2b4a129049a88e",
       "name": "Garden Party 30 bag",
       "color": "Brown",
       "price": "AU$7,295",
       "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK6C/"
-    },
-    "07e7fea0152328c2": {
-      "product_id": "07e7fea0152328c2",
-      "name": "Herbag Zip 31 bag",
-      "color": "Blue",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CKCK/"
-    },
-    "247fa85d11c4c74b": {
-      "product_id": "247fa85d11c4c74b",
-      "name": "Herbag Zip 31 laque bag",
-      "color": "Blue",
-      "price": "AU$5,970",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-laque-bag-H084267CCAH/"
     },
     "59d8550ec1322227": {
       "product_id": "59d8550ec1322227",
@@ -186,26 +152,12 @@
       "price": "AU$8,400",
       "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAC/"
     },
-    "00bdb46345363977": {
-      "product_id": "00bdb46345363977",
-      "name": "Roulis mini bag",
-      "color": "Black",
-      "price": "AU$15,805",
-      "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H071205CK89/"
-    },
     "9c382453477d42ae": {
       "product_id": "9c382453477d42ae",
       "name": "Plume mini bag",
       "color": "Black",
       "price": "AU$12,490",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK89/"
-    },
-    "5442147f7e425e4d": {
-      "product_id": "5442147f7e425e4d",
-      "name": "Herbag Zip 31 bag",
-      "color": "Black",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAI/"
     },
     "6d9984748f3d03d6": {
       "product_id": "6d9984748f3d03d6",
@@ -228,19 +180,19 @@
       "price": "AU$7,650",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H088914CKP0/"
     },
-    "5279376f4fdb7e68": {
-      "product_id": "5279376f4fdb7e68",
-      "name": "Neo Garden Voyage 41 bag",
-      "color": "Beige/Natural",
-      "price": "AU$8,010",
-      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
     "568d7ad514bfc292": {
       "product_id": "568d7ad514bfc292",
       "name": "Hermès Videpoches bag",
       "color": "Black",
       "price": "AU$5,535",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087901CKAC/"
+    },
+    "5279376f4fdb7e68": {
+      "product_id": "5279376f4fdb7e68",
+      "name": "Neo Garden Voyage 41 bag",
+      "color": "Beige/Natural",
+      "price": "AU$8,010",
+      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
     },
     "f54f3cd627e36ec3": {
       "product_id": "f54f3cd627e36ec3",
