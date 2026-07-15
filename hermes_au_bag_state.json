@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-15T00:53:27.075884+00:00",
+  "last_checked_at": "2026-07-15T03:56:46.013204+00:00",
   "seen_ids": [
     "ce03c83a6e68d543",
     "89bc19914974f9d0",
@@ -8,7 +8,9 @@
     "6541c4ba4baff2a0",
     "6cd77c6465ab25a1",
     "9e8f209907ac16e8",
+    "f87bf06d2c4199b8",
     "af2da451e9a2f45e",
+    "793dc094c5145d22",
     "c9784283e7446871",
     "3508b941e89850b7",
     "9c382453477d42ae",
@@ -41,7 +43,6 @@
     "44e8d20cb415a032",
     "02802aa49caec196",
     "cbf03e0c2893213b",
-    "4037cedc3a561f9d",
     "77357eedd871c4ce",
     "77d1a13667b6fcda",
     "835704c7490e05ad",
@@ -97,12 +98,26 @@
       "price": "AU$15,140",
       "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CC4B/"
     },
+    "f87bf06d2c4199b8": {
+      "product_id": "f87bf06d2c4199b8",
+      "name": "Herbag Zip 31 laque bag",
+      "color": "Grey",
+      "price": "AU$5,970",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-laque-bag-H079093CCBB/"
+    },
     "af2da451e9a2f45e": {
       "product_id": "af2da451e9a2f45e",
       "name": "P'tit Arcon bag",
       "color": "Beige/Natural",
       "price": "AU$8,730",
       "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CPAE/"
+    },
+    "793dc094c5145d22": {
+      "product_id": "793dc094c5145d22",
+      "name": "Picotin Lock 18 pocket bag",
+      "color": "Beige/Natural",
+      "price": "AU$7,405",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBJ/"
     },
     "c9784283e7446871": {
       "product_id": "c9784283e7446871",
@@ -327,13 +342,6 @@
       "color": "Beige/Natural",
       "price": "AU$6,080",
       "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK37/"
-    },
-    "4037cedc3a561f9d": {
-      "product_id": "4037cedc3a561f9d",
-      "name": "Picotin Lock 22 bag",
-      "color": "Beige/Natural",
-      "price": "AU$6,520",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CC18/"
     },
     "77357eedd871c4ce": {
       "product_id": "77357eedd871c4ce",
