@@ -1,20 +1,22 @@
 {
-  "last_checked_at": "2026-07-21T01:10:43.386959+00:00",
+  "last_checked_at": "2026-07-21T04:33:24.767066+00:00",
   "seen_ids": [
     "e3514e5b4f5f2ced",
     "1e5286599e6355a4",
     "86a12abe6c972613",
-    "89bc19914974f9d0",
     "6541c4ba4baff2a0",
     "3508b941e89850b7",
+    "c74b6ce29588f4e6",
     "e9599f03ef3a10e8",
     "85b8836cfa805857",
     "a87b64a78aa48006",
     "59d8550ec1322227",
+    "ec6a65468d30d723",
     "51c5c910e99aaaff",
     "02802aa49caec196",
     "2373a8956a6ca2d0",
     "a47dcd666da28e71",
+    "ddd750616e55a9f8",
     "59d97f18d888215c",
     "35ad82bbf1d22ab6",
     "2f19315d2d34376b",
@@ -24,10 +26,15 @@
     "ecbf672eb8bf171d",
     "7bc11b87b0849338",
     "1aeea02d2e365f32",
+    "12af23f74e4f6000",
+    "10fbe1a8313587c4",
     "6e47ef0942d84943",
+    "95641b32decfd683",
     "08cbdc7460ad3722",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "599a3f6f16e0acc8",
+    "ac9641ba7f7161b8"
   ],
   "products": {
     "e3514e5b4f5f2ced": {
@@ -51,13 +58,6 @@
       "price": "AU$8,730",
       "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-23-bag-H085693CCAB/"
     },
-    "89bc19914974f9d0": {
-      "product_id": "89bc19914974f9d0",
-      "name": "Evelyne III 29 bag",
-      "color": "Beige/Natural",
-      "price": "AU$6,745",
-      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
-    },
     "6541c4ba4baff2a0": {
       "product_id": "6541c4ba4baff2a0",
       "name": "Medor Clous bag",
@@ -71,6 +71,13 @@
       "color": "Beige/Natural",
       "price": "AU$12,710",
       "url": "https://www.hermes.com/au/en/product/in-the-loop-plush-belt-bag-H084987CKAC/"
+    },
+    "c74b6ce29588f4e6": {
+      "product_id": "c74b6ce29588f4e6",
+      "name": "Le Petit Sac bag",
+      "color": "Black",
+      "price": "AU$13,485",
+      "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087968CK89/"
     },
     "e9599f03ef3a10e8": {
       "product_id": "e9599f03ef3a10e8",
@@ -100,6 +107,13 @@
       "price": "AU$5,535",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CKD2/"
     },
+    "ec6a65468d30d723": {
+      "product_id": "ec6a65468d30d723",
+      "name": "Plume mini bag",
+      "color": "Red",
+      "price": "AU$12,490",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CC55/"
+    },
     "51c5c910e99aaaff": {
       "product_id": "51c5c910e99aaaff",
       "name": "Seau Mousqueton bag",
@@ -127,6 +141,13 @@
       "color": "Black",
       "price": "AU$15,140",
       "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CK89/"
+    },
+    "ddd750616e55a9f8": {
+      "product_id": "ddd750616e55a9f8",
+      "name": "Lindy II mini bag Toile & Cuir",
+      "color": "Green",
+      "price": "AU$15,250",
+      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-toile-and-cuir-H087946CKAA/"
     },
     "59d97f18d888215c": {
       "product_id": "59d97f18d888215c",
@@ -191,12 +212,33 @@
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
     },
+    "12af23f74e4f6000": {
+      "product_id": "12af23f74e4f6000",
+      "name": "Hermès Della Cavalleria Elan bag",
+      "color": "Grey",
+      "price": "AU$13,040",
+      "url": "https://www.hermes.com/au/en/product/hermes-della-cavalleria-elan-bag-H084658CKP0/"
+    },
+    "10fbe1a8313587c4": {
+      "product_id": "10fbe1a8313587c4",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "Red",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKDV/"
+    },
     "6e47ef0942d84943": {
       "product_id": "6e47ef0942d84943",
       "name": "Neo Garden Voyage 41 bag",
       "color": "Yellow",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086717CKAA/"
+    },
+    "95641b32decfd683": {
+      "product_id": "95641b32decfd683",
+      "name": "Picotin Lock 18 bag",
+      "color": "Blue",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKP5/"
     },
     "08cbdc7460ad3722": {
       "product_id": "08cbdc7460ad3722",
@@ -218,6 +260,20 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "599a3f6f16e0acc8": {
+      "product_id": "599a3f6f16e0acc8",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "Black",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCAV/"
+    },
+    "ac9641ba7f7161b8": {
+      "product_id": "ac9641ba7f7161b8",
+      "name": "Lindy II mini bag",
+      "color": "Brown",
+      "price": "AU$15,470",
+      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H088632CK46/"
     }
   }
 }
