@@ -1,22 +1,20 @@
 {
-  "last_checked_at": "2026-07-22T06:16:27.853382+00:00",
+  "last_checked_at": "2026-07-22T09:03:26.407237+00:00",
   "seen_ids": [
-    "2f19315d2d34376b",
     "6541c4ba4baff2a0",
     "02802aa49caec196",
     "2373a8956a6ca2d0",
-    "a87b64a78aa48006",
     "c74b6ce29588f4e6",
     "1e5286599e6355a4",
     "e9599f03ef3a10e8",
     "a47dcd666da28e71",
     "86a12abe6c972613",
+    "9c382453477d42ae",
     "3508b941e89850b7",
     "e3514e5b4f5f2ced",
     "12af23f74e4f6000",
     "35ad82bbf1d22ab6",
     "85b8836cfa805857",
-    "59d97f18d888215c",
     "59d8550ec1322227",
     "51c5c910e99aaaff",
     "4a5a141eddf727f5",
@@ -26,19 +24,17 @@
     "ecbf672eb8bf171d",
     "1aeea02d2e365f32",
     "6e47ef0942d84943",
-    "95641b32decfd683",
     "08cbdc7460ad3722",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "064c4c76fbd2492e",
+    "30608297d7a390e8",
+    "091962f2877a1f73",
+    "6097fb8fec10a020",
+    "74ec277d073749d7",
+    "8a9e29c065e6d03f"
   ],
   "products": {
-    "2f19315d2d34376b": {
-      "product_id": "2f19315d2d34376b",
-      "name": "Hermès Della Cavalleria mini bag II",
-      "color": "Beige/Natural",
-      "price": "AU$11,935",
-      "url": "https://www.hermes.com/au/en/product/hermes-della-cavalleria-mini-bag-ii-H085367CC37/"
-    },
     "6541c4ba4baff2a0": {
       "product_id": "6541c4ba4baff2a0",
       "name": "Medor Clous bag",
@@ -59,13 +55,6 @@
       "color": "Beige/Natural",
       "price": "AU$5,970",
       "url": "https://www.hermes.com/au/en/product/herbag-zip-31-laque-bag-H084267CCAJ/"
-    },
-    "a87b64a78aa48006": {
-      "product_id": "a87b64a78aa48006",
-      "name": "Petit Tour 34 bag",
-      "color": "Beige/Natural",
-      "price": "AU$22,100",
-      "url": "https://www.hermes.com/au/en/product/petit-tour-34-bag-H087025CC34/"
     },
     "c74b6ce29588f4e6": {
       "product_id": "c74b6ce29588f4e6",
@@ -102,6 +91,13 @@
       "price": "AU$8,730",
       "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-23-bag-H085693CCAB/"
     },
+    "9c382453477d42ae": {
+      "product_id": "9c382453477d42ae",
+      "name": "Plume mini bag",
+      "color": "Black",
+      "price": "AU$12,490",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK89/"
+    },
     "3508b941e89850b7": {
       "product_id": "3508b941e89850b7",
       "name": "In-the-Loop plush belt bag",
@@ -136,13 +132,6 @@
       "color": "White",
       "price": "AU$5,535",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK10/"
-    },
-    "59d97f18d888215c": {
-      "product_id": "59d97f18d888215c",
-      "name": "Evelyne III 29 bag",
-      "color": "White",
-      "price": "AU$6,745",
-      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC10/"
     },
     "59d8550ec1322227": {
       "product_id": "59d8550ec1322227",
@@ -207,13 +196,6 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086717CKAA/"
     },
-    "95641b32decfd683": {
-      "product_id": "95641b32decfd683",
-      "name": "Picotin Lock 18 bag",
-      "color": "Blue",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKP5/"
-    },
     "08cbdc7460ad3722": {
       "product_id": "08cbdc7460ad3722",
       "name": "Neo Garden Voyage 41 bag",
@@ -234,6 +216,48 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "064c4c76fbd2492e": {
+      "product_id": "064c4c76fbd2492e",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "White",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCFI/"
+    },
+    "30608297d7a390e8": {
+      "product_id": "30608297d7a390e8",
+      "name": "Picotin Lock 18 bag",
+      "color": "Grey",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKH0/"
+    },
+    "091962f2877a1f73": {
+      "product_id": "091962f2877a1f73",
+      "name": "Jige Elan 29 touch clutch",
+      "color": "Black",
+      "price": "AU$11,935",
+      "url": "https://www.hermes.com/au/en/product/jige-elan-29-touch-clutch-H076258CAAA/"
+    },
+    "6097fb8fec10a020": {
+      "product_id": "6097fb8fec10a020",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "Beige/Natural",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCCI/"
+    },
+    "74ec277d073749d7": {
+      "product_id": "74ec277d073749d7",
+      "name": "Lindy 26 bag",
+      "color": "Black",
+      "price": "AU$16,465",
+      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073428CC89/"
+    },
+    "8a9e29c065e6d03f": {
+      "product_id": "8a9e29c065e6d03f",
+      "name": "Hermès Della Cavalleria mini bag II",
+      "color": "Brown",
+      "price": "AU$11,935",
+      "url": "https://www.hermes.com/au/en/product/hermes-della-cavalleria-mini-bag-ii-H085367CP46/"
     }
   }
 }
