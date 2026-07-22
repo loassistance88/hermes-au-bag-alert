@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-22T09:03:26.407237+00:00",
+  "last_checked_at": "2026-07-22T11:16:54.391605+00:00",
   "seen_ids": [
     "6541c4ba4baff2a0",
     "02802aa49caec196",
@@ -20,18 +20,15 @@
     "4a5a141eddf727f5",
     "568d7ad514bfc292",
     "f54f3cd627e36ec3",
-    "510b68e26be23566",
     "ecbf672eb8bf171d",
     "1aeea02d2e365f32",
     "6e47ef0942d84943",
     "08cbdc7460ad3722",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
-    "064c4c76fbd2492e",
-    "30608297d7a390e8",
     "091962f2877a1f73",
     "6097fb8fec10a020",
-    "74ec277d073749d7",
+    "4a5403925acef52f",
     "8a9e29c065e6d03f"
   ],
   "products": {
@@ -168,13 +165,6 @@
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
     },
-    "510b68e26be23566": {
-      "product_id": "510b68e26be23566",
-      "name": "Neo Garden Voyage 41 bag",
-      "color": "Green",
-      "price": "AU$8,010",
-      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086717CKAI/"
-    },
     "ecbf672eb8bf171d": {
       "product_id": "ecbf672eb8bf171d",
       "name": "Hermès Videpoches bag",
@@ -217,20 +207,6 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
     },
-    "064c4c76fbd2492e": {
-      "product_id": "064c4c76fbd2492e",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "White",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCFI/"
-    },
-    "30608297d7a390e8": {
-      "product_id": "30608297d7a390e8",
-      "name": "Picotin Lock 18 bag",
-      "color": "Grey",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKH0/"
-    },
     "091962f2877a1f73": {
       "product_id": "091962f2877a1f73",
       "name": "Jige Elan 29 touch clutch",
@@ -245,12 +221,12 @@
       "price": "AU$3,870",
       "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCCI/"
     },
-    "74ec277d073749d7": {
-      "product_id": "74ec277d073749d7",
-      "name": "Lindy 26 bag",
-      "color": "Black",
-      "price": "AU$16,465",
-      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073428CC89/"
+    "4a5403925acef52f": {
+      "product_id": "4a5403925acef52f",
+      "name": "Roulis mini bag",
+      "color": "Blue",
+      "price": "AU$27,405",
+      "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H073611CP3Y/"
     },
     "8a9e29c065e6d03f": {
       "product_id": "8a9e29c065e6d03f",
