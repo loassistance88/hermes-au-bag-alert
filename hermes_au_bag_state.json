@@ -1,11 +1,12 @@
 {
-  "last_checked_at": "2026-07-22T23:44:40.589639+00:00",
+  "last_checked_at": "2026-07-23T01:17:05.833547+00:00",
   "seen_ids": [
     "6541c4ba4baff2a0",
     "02802aa49caec196",
     "2373a8956a6ca2d0",
     "c74b6ce29588f4e6",
     "1e5286599e6355a4",
+    "e9599f03ef3a10e8",
     "a47dcd666da28e71",
     "86a12abe6c972613",
     "9c382453477d42ae",
@@ -63,6 +64,13 @@
       "color": "Beige/Natural",
       "price": "AU$14,255",
       "url": "https://www.hermes.com/au/en/product/jypsiere-mini-toile-and-cuir-bag-H087119CCAB/"
+    },
+    "e9599f03ef3a10e8": {
+      "product_id": "e9599f03ef3a10e8",
+      "name": "Herbag Zip 31 bag",
+      "color": "Black",
+      "price": "AU$5,640",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H072069CKAA/"
     },
     "a47dcd666da28e71": {
       "product_id": "a47dcd666da28e71",
