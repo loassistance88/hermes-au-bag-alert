@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-26T06:44:54.068367+00:00",
+  "last_checked_at": "2026-07-26T09:04:07.560345+00:00",
   "seen_ids": [
     "9c382453477d42ae",
     "c74b6ce29588f4e6",
@@ -19,6 +19,7 @@
     "247fa85d11c4c74b",
     "59d8550ec1322227",
     "51c5c910e99aaaff",
+    "0c5b5e17a6de0714",
     "5442147f7e425e4d",
     "568d7ad514bfc292",
     "f54f3cd627e36ec3",
@@ -155,6 +156,13 @@
       "color": "Black",
       "price": "AU$15,495",
       "url": "https://www.hermes.com/au/en/product/seau-mousqueton-bag-H085751CKAA/"
+    },
+    "0c5b5e17a6de0714": {
+      "product_id": "0c5b5e17a6de0714",
+      "name": "Roulis mini bag",
+      "color": "Beige/Natural",
+      "price": "AU$15,360",
+      "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H070510CP37/"
     },
     "5442147f7e425e4d": {
       "product_id": "5442147f7e425e4d",
