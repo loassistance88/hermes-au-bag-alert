@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-27T22:37:21.182976+00:00",
+  "last_checked_at": "2026-07-27T23:44:00.978619+00:00",
   "seen_ids": [
     "c74b6ce29588f4e6",
     "313dce6d53dbd411",
@@ -17,10 +17,8 @@
     "ecbf672eb8bf171d",
     "1aeea02d2e365f32",
     "6e47ef0942d84943",
-    "08cbdc7460ad3722",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68",
-    "85ffd2aad439f5a5"
+    "5279376f4fdb7e68"
   ],
   "products": {
     "c74b6ce29588f4e6": {
@@ -135,13 +133,6 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086717CKAA/"
     },
-    "08cbdc7460ad3722": {
-      "product_id": "08cbdc7460ad3722",
-      "name": "Neo Garden Voyage 41 bag",
-      "color": "Black",
-      "price": "AU$8,010",
-      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086717CKAC/"
-    },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
       "name": "Neo Garden Voyage 41 bag",
@@ -155,13 +146,6 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "85ffd2aad439f5a5": {
-      "product_id": "85ffd2aad439f5a5",
-      "name": "Picotin Lock 18 bag",
-      "color": "Brown",
-      "price": "AU$6,745",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H077913CK46/"
     }
   }
 }
