@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-28T04:27:22.208663+00:00",
+  "last_checked_at": "2026-07-28T07:18:03.176572+00:00",
   "seen_ids": [
     "313dce6d53dbd411",
     "3508b941e89850b7",
@@ -13,14 +13,24 @@
     "1d28377bcf834adb",
     "18aba5d7031a4e45",
     "d1f8c70754e37d82",
+    "3871b6174f8cc419",
     "568d7ad514bfc292",
     "f54f3cd627e36ec3",
+    "ff50842dacbfc8c8",
     "ecbf672eb8bf171d",
     "1aeea02d2e365f32",
+    "ad25ee575fdb3b8a",
     "6e47ef0942d84943",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
-    "ebc0f675cfe3fe28"
+    "ebc0f675cfe3fe28",
+    "461251eff374c34c",
+    "420b13751893aaef",
+    "42bb6e9000c45f26",
+    "055f37b34a12cf03",
+    "23bbb9c171a42cc6",
+    "fe7f83049a6509b2",
+    "59fecf0ed8bd6ac3"
   ],
   "products": {
     "313dce6d53dbd411": {
@@ -107,6 +117,13 @@
       "price": "AU$12,270",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CKV8/"
     },
+    "3871b6174f8cc419": {
+      "product_id": "3871b6174f8cc419",
+      "name": "Lindy 26 bag",
+      "color": "Grey",
+      "price": "AU$16,910",
+      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073430CCP0/"
+    },
     "568d7ad514bfc292": {
       "product_id": "568d7ad514bfc292",
       "name": "Hermès Videpoches bag",
@@ -121,6 +138,13 @@
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
     },
+    "ff50842dacbfc8c8": {
+      "product_id": "ff50842dacbfc8c8",
+      "name": "Garden Party 30 bag",
+      "color": "Beige/Natural",
+      "price": "AU$7,295",
+      "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK2S/"
+    },
     "ecbf672eb8bf171d": {
       "product_id": "ecbf672eb8bf171d",
       "name": "Hermès Videpoches bag",
@@ -134,6 +158,13 @@
       "color": "Brown",
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
+    },
+    "ad25ee575fdb3b8a": {
+      "product_id": "ad25ee575fdb3b8a",
+      "name": "Herbag Zip 31 bag",
+      "color": "Beige/Natural",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CCAF/"
     },
     "6e47ef0942d84943": {
       "product_id": "6e47ef0942d84943",
@@ -162,6 +193,55 @@
       "color": "Black",
       "price": "AU$13,040",
       "url": "https://www.hermes.com/au/en/product/hermes-della-cavalleria-elan-bag-H084658CK89/"
+    },
+    "461251eff374c34c": {
+      "product_id": "461251eff374c34c",
+      "name": "Bolide 1923 - 25 bag",
+      "color": "Pink",
+      "price": "AU$13,485",
+      "url": "https://www.hermes.com/au/en/product/bolide-1923-25-bag-H082798CK18/"
+    },
+    "420b13751893aaef": {
+      "product_id": "420b13751893aaef",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "Grey",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCCR/"
+    },
+    "42bb6e9000c45f26": {
+      "product_id": "42bb6e9000c45f26",
+      "name": "Bolide 1923 mini bag",
+      "color": "Beige/Natural",
+      "price": "AU$11,165",
+      "url": "https://www.hermes.com/au/en/product/bolide-1923-mini-bag-H075180CK37/"
+    },
+    "055f37b34a12cf03": {
+      "product_id": "055f37b34a12cf03",
+      "name": "Lindy 26 bag",
+      "color": "Beige/Natural",
+      "price": "AU$16,465",
+      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073428CC37/"
+    },
+    "23bbb9c171a42cc6": {
+      "product_id": "23bbb9c171a42cc6",
+      "name": "Picotin Lock 22 bag",
+      "color": "Beige/Natural",
+      "price": "AU$6,520",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CK18/"
+    },
+    "fe7f83049a6509b2": {
+      "product_id": "fe7f83049a6509b2",
+      "name": "Lindy II mini bag",
+      "color": "Green",
+      "price": "AU$13,815",
+      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085956CKV8/"
+    },
+    "59fecf0ed8bd6ac3": {
+      "product_id": "59fecf0ed8bd6ac3",
+      "name": "Picotin Lock 18 bag",
+      "color": "Beige/Natural",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK2D/"
     }
   }
 }
