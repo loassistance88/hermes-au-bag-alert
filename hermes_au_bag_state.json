@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-28T22:44:14.876112+00:00",
+  "last_checked_at": "2026-07-28T23:44:00.459464+00:00",
   "seen_ids": [
     "313dce6d53dbd411",
     "3508b941e89850b7",
@@ -15,15 +15,12 @@
     "d1f8c70754e37d82",
     "568d7ad514bfc292",
     "f54f3cd627e36ec3",
-    "ff50842dacbfc8c8",
     "ecbf672eb8bf171d",
     "1aeea02d2e365f32",
     "6e47ef0942d84943",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
-    "ebc0f675cfe3fe28",
-    "461251eff374c34c",
-    "23bbb9c171a42cc6"
+    "ebc0f675cfe3fe28"
   ],
   "products": {
     "313dce6d53dbd411": {
@@ -124,13 +121,6 @@
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
     },
-    "ff50842dacbfc8c8": {
-      "product_id": "ff50842dacbfc8c8",
-      "name": "Garden Party 30 bag",
-      "color": "Beige/Natural",
-      "price": "AU$7,295",
-      "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK2S/"
-    },
     "ecbf672eb8bf171d": {
       "product_id": "ecbf672eb8bf171d",
       "name": "Hermès Videpoches bag",
@@ -172,20 +162,6 @@
       "color": "Black",
       "price": "AU$13,040",
       "url": "https://www.hermes.com/au/en/product/hermes-della-cavalleria-elan-bag-H084658CK89/"
-    },
-    "461251eff374c34c": {
-      "product_id": "461251eff374c34c",
-      "name": "Bolide 1923 - 25 bag",
-      "color": "Pink",
-      "price": "AU$13,485",
-      "url": "https://www.hermes.com/au/en/product/bolide-1923-25-bag-H082798CK18/"
-    },
-    "23bbb9c171a42cc6": {
-      "product_id": "23bbb9c171a42cc6",
-      "name": "Picotin Lock 22 bag",
-      "color": "Beige/Natural",
-      "price": "AU$6,520",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CK18/"
     }
   }
 }
