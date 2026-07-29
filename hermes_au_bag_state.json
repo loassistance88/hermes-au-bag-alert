@@ -1,7 +1,8 @@
 {
-  "last_checked_at": "2026-07-29T04:32:27.076951+00:00",
+  "last_checked_at": "2026-07-29T07:25:06.683154+00:00",
   "seen_ids": [
     "313dce6d53dbd411",
+    "89bc19914974f9d0",
     "3508b941e89850b7",
     "e3514e5b4f5f2ced",
     "35ad82bbf1d22ab6",
@@ -29,6 +30,13 @@
       "color": "Black",
       "price": "AU$9,175",
       "url": "https://www.hermes.com/au/en/product/petite-course-bag-H084847CC89/"
+    },
+    "89bc19914974f9d0": {
+      "product_id": "89bc19914974f9d0",
+      "name": "Evelyne III 29 bag",
+      "color": "Beige/Natural",
+      "price": "AU$6,745",
+      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
     },
     "3508b941e89850b7": {
       "product_id": "3508b941e89850b7",
