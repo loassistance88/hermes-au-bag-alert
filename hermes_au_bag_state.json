@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-05T07:19:12.991122+00:00",
+  "last_checked_at": "2026-08-05T10:02:36.546840+00:00",
   "seen_ids": [
     "8a9e29c065e6d03f",
     "313dce6d53dbd411",
@@ -25,8 +25,7 @@
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
     "c8f1155717d9a207",
-    "6d61f6b3752029e6",
-    "46df0a50ed898f56"
+    "6d61f6b3752029e6"
   ],
   "products": {
     "8a9e29c065e6d03f": {
@@ -203,13 +202,6 @@
       "color": "Beige/Natural",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H077913CK34/"
-    },
-    "46df0a50ed898f56": {
-      "product_id": "46df0a50ed898f56",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "Blue",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKAT/"
     }
   }
 }
