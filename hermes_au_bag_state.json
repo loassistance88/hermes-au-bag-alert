@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-07T11:57:20.171489+00:00",
+  "last_checked_at": "2026-08-07T13:21:04.168568+00:00",
   "seen_ids": [
     "4a5a141eddf727f5",
     "8a9e29c065e6d03f",
@@ -19,6 +19,7 @@
     "e8c986565aa3546f",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
+    "fe2f626dd05f26ef",
     "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
@@ -155,6 +156,13 @@
       "color": "Black",
       "price": "AU$6,365",
       "url": "https://www.hermes.com/au/en/product/etriviere-shopping-voyage-bag-H088128CKAB/"
+    },
+    "fe2f626dd05f26ef": {
+      "product_id": "fe2f626dd05f26ef",
+      "name": "Herbag Zip 20 bag",
+      "color": "Beige/Natural",
+      "price": "AU$4,885",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H085414CCAE/"
     },
     "f54f3cd627e36ec3": {
       "product_id": "f54f3cd627e36ec3",
