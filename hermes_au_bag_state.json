@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-10T06:17:05.622964+00:00",
+  "last_checked_at": "2026-08-10T08:09:58.358563+00:00",
   "seen_ids": [
     "4a5a141eddf727f5",
     "1d28377bcf834adb",
@@ -16,9 +16,8 @@
     "18aba5d7031a4e45",
     "247fa85d11c4c74b",
     "7b282a17bd180603",
-    "0838c947381a4788",
     "e8c986565aa3546f",
-    "bac441b19b186a08",
+    "593c56c4f6e160b4",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
@@ -26,6 +25,7 @@
     "1aeea02d2e365f32",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
+    "2e2b4f5feab876ff",
     "6c24fb1c22cbc59a",
     "31f65e08d4a95233",
     "3ee6bba54cc2ffc3",
@@ -137,13 +137,6 @@
       "price": "AU$17,460",
       "url": "https://www.hermes.com/au/en/product/plume-28-bag-H087095CK89/"
     },
-    "0838c947381a4788": {
-      "product_id": "0838c947381a4788",
-      "name": "Lindy 26 bag",
-      "color": "Grey",
-      "price": "AU$16,465",
-      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073428CKH0/"
-    },
     "e8c986565aa3546f": {
       "product_id": "e8c986565aa3546f",
       "name": "Evelyne III 29 bag",
@@ -151,12 +144,12 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC18/"
     },
-    "bac441b19b186a08": {
-      "product_id": "bac441b19b186a08",
-      "name": "Bolide 1923 - 25 bag",
-      "color": "Beige/Natural",
-      "price": "AU$13,485",
-      "url": "https://www.hermes.com/au/en/product/bolide-1923-25-bag-H082798CC37/"
+    "593c56c4f6e160b4": {
+      "product_id": "593c56c4f6e160b4",
+      "name": "So Medor bag",
+      "color": "Black",
+      "price": "AU$12,820",
+      "url": "https://www.hermes.com/au/en/product/so-medor-bag-H085054CK89/"
     },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
@@ -206,6 +199,13 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "2e2b4f5feab876ff": {
+      "product_id": "2e2b4f5feab876ff",
+      "name": "Mini Medor bag",
+      "color": "Black",
+      "price": "AU$10,280",
+      "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085003CK89/"
     },
     "6c24fb1c22cbc59a": {
       "product_id": "6c24fb1c22cbc59a",
