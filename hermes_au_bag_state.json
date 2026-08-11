@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-08-11T03:07:17.948170+00:00",
+  "last_checked_at": "2026-08-11T04:38:20.962652+00:00",
   "seen_ids": [
     "4a5a141eddf727f5",
     "1d28377bcf834adb",
     "f8900620d57df623",
     "b41c0ed2753a557d",
-    "80d2796ad4652d56",
     "bab153afe9971f55",
     "51c5c910e99aaaff",
     "5442147f7e425e4d",
@@ -18,12 +17,12 @@
     "18aba5d7031a4e45",
     "247fa85d11c4c74b",
     "59d97f18d888215c",
+    "1dd12c90c2084d85",
     "3fa06fa672e2bd95",
     "e8c986565aa3546f",
     "593c56c4f6e160b4",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
-    "b4c0441465de3500",
     "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
@@ -63,13 +62,6 @@
       "color": "Black",
       "price": "AU$13,040",
       "url": "https://www.hermes.com/au/en/product/hermes-della-cavalleria-elan-bag-H084658CC89/"
-    },
-    "80d2796ad4652d56": {
-      "product_id": "80d2796ad4652d56",
-      "name": "Picotin Lock 22 bag",
-      "color": "Black",
-      "price": "AU$6,520",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CC89/"
     },
     "bab153afe9971f55": {
       "product_id": "bab153afe9971f55",
@@ -155,6 +147,13 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC10/"
     },
+    "1dd12c90c2084d85": {
+      "product_id": "1dd12c90c2084d85",
+      "name": "Plume mini bag",
+      "color": "Yellow",
+      "price": "AU$12,270",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CKI8/"
+    },
     "3fa06fa672e2bd95": {
       "product_id": "3fa06fa672e2bd95",
       "name": "Herbag Zip 31 bag",
@@ -189,13 +188,6 @@
       "color": "Black",
       "price": "AU$6,365",
       "url": "https://www.hermes.com/au/en/product/etriviere-shopping-voyage-bag-H088128CKAB/"
-    },
-    "b4c0441465de3500": {
-      "product_id": "b4c0441465de3500",
-      "name": "Herbag Zip 20 bag",
-      "color": "Green",
-      "price": "AU$4,885",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAQ/"
     },
     "f54f3cd627e36ec3": {
       "product_id": "f54f3cd627e36ec3",
