@@ -1,7 +1,8 @@
 {
-  "last_checked_at": "2026-08-12T10:45:11.434545+00:00",
+  "last_checked_at": "2026-08-12T11:34:20.988411+00:00",
   "seen_ids": [
     "35ad82bbf1d22ab6",
+    "1dbb98739b97e953",
     "59d97f18d888215c",
     "f753743d8fc48de4",
     "bab153afe9971f55",
@@ -32,6 +33,13 @@
       "color": "White",
       "price": "AU$19,780",
       "url": "https://www.hermes.com/au/en/product/collier-d-attelage-bag-H086342CK10/"
+    },
+    "1dbb98739b97e953": {
+      "product_id": "1dbb98739b97e953",
+      "name": "24/24 - 21 bag",
+      "color": "Beige/Natural",
+      "price": "AU$17,020",
+      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CCBH/"
     },
     "59d97f18d888215c": {
       "product_id": "59d97f18d888215c",
