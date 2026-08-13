@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-13T21:56:13.982528+00:00",
+  "last_checked_at": "2026-08-13T22:50:31.440479+00:00",
   "seen_ids": [
     "35ad82bbf1d22ab6",
     "f753743d8fc48de4",
@@ -24,8 +24,7 @@
     "22a445508bc5b89e",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
-    "adc9970b4ba7dd66",
-    "f147e4210c396f42"
+    "adc9970b4ba7dd66"
   ],
   "products": {
     "35ad82bbf1d22ab6": {
@@ -195,13 +194,6 @@
       "color": "Black",
       "price": "AU$6,080",
       "url": "https://www.hermes.com/au/en/product/evelyne-16-sellier-bag-H087080CK89/"
-    },
-    "f147e4210c396f42": {
-      "product_id": "f147e4210c396f42",
-      "name": "Herbag Zip 31 bag",
-      "color": "Black",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCAA/"
     }
   }
 }
