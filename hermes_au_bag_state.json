@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-13T03:15:45.610336+00:00",
+  "last_checked_at": "2026-08-13T05:12:24.815947+00:00",
   "seen_ids": [
     "35ad82bbf1d22ab6",
     "59d97f18d888215c",
@@ -14,6 +14,8 @@
     "6d9984748f3d03d6",
     "eb75f4700eb80e87",
     "1dd12c90c2084d85",
+    "6c24fb1c22cbc59a",
+    "31f65e08d4a95233",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
@@ -21,9 +23,7 @@
     "1aeea02d2e365f32",
     "5db1941520a5aa74",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68",
-    "6c24fb1c22cbc59a",
-    "31f65e08d4a95233"
+    "5279376f4fdb7e68"
   ],
   "products": {
     "35ad82bbf1d22ab6": {
@@ -117,6 +117,20 @@
       "price": "AU$12,270",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CKI8/"
     },
+    "6c24fb1c22cbc59a": {
+      "product_id": "6c24fb1c22cbc59a",
+      "name": "Hermès Videpoches bag",
+      "color": "Brown",
+      "price": "AU$5,535",
+      "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CKT3/"
+    },
+    "31f65e08d4a95233": {
+      "product_id": "31f65e08d4a95233",
+      "name": "Hermès Videpoches bag",
+      "color": "Blue",
+      "price": "AU$5,535",
+      "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK2Z/"
+    },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
       "name": "Hermès Videpoches bag",
@@ -172,20 +186,6 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "6c24fb1c22cbc59a": {
-      "product_id": "6c24fb1c22cbc59a",
-      "name": "Hermès Videpoches bag",
-      "color": "Brown",
-      "price": "AU$5,535",
-      "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CKT3/"
-    },
-    "31f65e08d4a95233": {
-      "product_id": "31f65e08d4a95233",
-      "name": "Hermès Videpoches bag",
-      "color": "Blue",
-      "price": "AU$5,535",
-      "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK2Z/"
     }
   }
 }
