@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-14T03:13:26.205218+00:00",
+  "last_checked_at": "2026-08-14T05:08:33.774950+00:00",
   "seen_ids": [
     "35ad82bbf1d22ab6",
     "f753743d8fc48de4",
@@ -12,6 +12,8 @@
     "4e2a2210add07673",
     "a689160c3fe16be1",
     "64ebf936699d2e7d",
+    "b5300e269b397c84",
+    "3871b6174f8cc419",
     "ff130457426e9b11",
     "6c24fb1c22cbc59a",
     "31f65e08d4a95233",
@@ -22,8 +24,16 @@
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "22a445508bc5b89e",
+    "41a27437877b0f2b",
+    "f9adbb1cd05281e4",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "adc9970b4ba7dd66",
+    "3ec8cc814f5c5d72",
+    "461251eff374c34c",
+    "a04a3dc5297ac00c",
+    "a57544a8f51dcceb",
+    "1c1aff406953e2fb"
   ],
   "products": {
     "35ad82bbf1d22ab6": {
@@ -103,6 +113,20 @@
       "price": "AU$13,485",
       "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087968CC89/"
     },
+    "b5300e269b397c84": {
+      "product_id": "b5300e269b397c84",
+      "name": "Herbag Zip 20 bag",
+      "color": "Black",
+      "price": "AU$4,885",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CKAA/"
+    },
+    "3871b6174f8cc419": {
+      "product_id": "3871b6174f8cc419",
+      "name": "Lindy 26 bag",
+      "color": "Grey",
+      "price": "AU$16,910",
+      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073430CCP0/"
+    },
     "ff130457426e9b11": {
       "product_id": "ff130457426e9b11",
       "name": "Petite Course bag",
@@ -173,6 +197,20 @@
       "price": "AU$10,280",
       "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085003CK37/"
     },
+    "41a27437877b0f2b": {
+      "product_id": "41a27437877b0f2b",
+      "name": "24/24 - 21 bag",
+      "color": "Green",
+      "price": "AU$17,020",
+      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082141CKAH/"
+    },
+    "f9adbb1cd05281e4": {
+      "product_id": "f9adbb1cd05281e4",
+      "name": "Garden Party 30 bag",
+      "color": "Grey",
+      "price": "AU$7,295",
+      "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CKP0/"
+    },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
       "name": "Neo Garden Voyage 41 bag",
@@ -186,6 +224,48 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "adc9970b4ba7dd66": {
+      "product_id": "adc9970b4ba7dd66",
+      "name": "Evelyne 16 Sellier bag",
+      "color": "Black",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-sellier-bag-H087080CK89/"
+    },
+    "3ec8cc814f5c5d72": {
+      "product_id": "3ec8cc814f5c5d72",
+      "name": "Herbag Zip 31 bag",
+      "color": "Black",
+      "price": "AU$5,640",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H072069CKBH/"
+    },
+    "461251eff374c34c": {
+      "product_id": "461251eff374c34c",
+      "name": "Bolide 1923 - 25 bag",
+      "color": "Pink",
+      "price": "AU$13,485",
+      "url": "https://www.hermes.com/au/en/product/bolide-1923-25-bag-H082798CK18/"
+    },
+    "a04a3dc5297ac00c": {
+      "product_id": "a04a3dc5297ac00c",
+      "name": "Picotin Lock 18 bag",
+      "color": "White",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK10/"
+    },
+    "a57544a8f51dcceb": {
+      "product_id": "a57544a8f51dcceb",
+      "name": "Herbag Zip 20 bag",
+      "color": "Purple",
+      "price": "AU$4,885",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CKAS/"
+    },
+    "1c1aff406953e2fb": {
+      "product_id": "1c1aff406953e2fb",
+      "name": "Garden Party 30 bag",
+      "color": "Green",
+      "price": "AU$7,295",
+      "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CKV8/"
     }
   }
 }
