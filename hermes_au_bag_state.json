@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-14T10:28:28.672758+00:00",
+  "last_checked_at": "2026-08-14T11:21:22.546615+00:00",
   "seen_ids": [
     "35ad82bbf1d22ab6",
     "3258134f0b696b6b",
@@ -26,15 +26,9 @@
     "24a856d967b73f17",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
-    "4afd20e6d4d03ae1",
     "41a27437877b0f2b",
-    "ae13ec45ba82eead",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
-    "3ec8cc814f5c5d72",
-    "36cc9a1400018468",
-    "a57544a8f51dcceb",
-    "e939492e17e9ccd1",
     "df1451dcb3549b31"
   ],
   "products": {
@@ -213,26 +207,12 @@
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
     },
-    "4afd20e6d4d03ae1": {
-      "product_id": "4afd20e6d4d03ae1",
-      "name": "Herbag Zip 31 bag",
-      "color": "Brown",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CKBH/"
-    },
     "41a27437877b0f2b": {
       "product_id": "41a27437877b0f2b",
       "name": "24/24 - 21 bag",
       "color": "Green",
       "price": "AU$17,020",
       "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082141CKAH/"
-    },
-    "ae13ec45ba82eead": {
-      "product_id": "ae13ec45ba82eead",
-      "name": "Lindy II mini bag",
-      "color": "Beige/Natural",
-      "price": "AU$14,590",
-      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085957CK18/"
     },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
@@ -247,34 +227,6 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "3ec8cc814f5c5d72": {
-      "product_id": "3ec8cc814f5c5d72",
-      "name": "Herbag Zip 31 bag",
-      "color": "Black",
-      "price": "AU$5,640",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H072069CKBH/"
-    },
-    "36cc9a1400018468": {
-      "product_id": "36cc9a1400018468",
-      "name": "Lindy 26 bag",
-      "color": "Blue",
-      "price": "AU$16,910",
-      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073430CK3Y/"
-    },
-    "a57544a8f51dcceb": {
-      "product_id": "a57544a8f51dcceb",
-      "name": "Herbag Zip 20 bag",
-      "color": "Purple",
-      "price": "AU$4,885",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CKAS/"
-    },
-    "e939492e17e9ccd1": {
-      "product_id": "e939492e17e9ccd1",
-      "name": "24/24 - 21 bag",
-      "color": "Black",
-      "price": "AU$17,020",
-      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082141CKAC/"
     },
     "df1451dcb3549b31": {
       "product_id": "df1451dcb3549b31",
