@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-15T05:29:54.362859+00:00",
+  "last_checked_at": "2026-08-15T05:54:43.532234+00:00",
   "seen_ids": [
     "35ad82bbf1d22ab6",
     "3258134f0b696b6b",
@@ -26,6 +26,7 @@
     "24a856d967b73f17",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
+    "41a27437877b0f2b",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
     "df1451dcb3549b31"
@@ -205,6 +206,13 @@
       "color": "Brown",
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
+    },
+    "41a27437877b0f2b": {
+      "product_id": "41a27437877b0f2b",
+      "name": "24/24 - 21 bag",
+      "color": "Green",
+      "price": "AU$17,020",
+      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082141CKAH/"
     },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
