@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-16T03:11:26.644994+00:00",
+  "last_checked_at": "2026-08-16T04:01:15.173251+00:00",
   "seen_ids": [
     "35ad82bbf1d22ab6",
     "3258134f0b696b6b",
@@ -12,7 +12,6 @@
     "9e275fbd5c55bd6d",
     "593c56c4f6e160b4",
     "51c5c910e99aaaff",
-    "02d56a140af9c2f0",
     "22a445508bc5b89e",
     "02802aa49caec196",
     "4e2a2210add07673",
@@ -26,10 +25,8 @@
     "24a856d967b73f17",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
-    "41a27437877b0f2b",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68",
-    "df1451dcb3549b31"
+    "5279376f4fdb7e68"
   ],
   "products": {
     "35ad82bbf1d22ab6": {
@@ -108,13 +105,6 @@
       "color": "Black",
       "price": "AU$15,495",
       "url": "https://www.hermes.com/au/en/product/seau-mousqueton-bag-H085751CKAA/"
-    },
-    "02d56a140af9c2f0": {
-      "product_id": "02d56a140af9c2f0",
-      "name": "Jypsiere mini bag",
-      "color": "Beige/Natural",
-      "price": "AU$15,140",
-      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CK37/"
     },
     "22a445508bc5b89e": {
       "product_id": "22a445508bc5b89e",
@@ -207,13 +197,6 @@
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
     },
-    "41a27437877b0f2b": {
-      "product_id": "41a27437877b0f2b",
-      "name": "24/24 - 21 bag",
-      "color": "Green",
-      "price": "AU$17,020",
-      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082141CKAH/"
-    },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
       "name": "Neo Garden Voyage 41 bag",
@@ -227,13 +210,6 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "df1451dcb3549b31": {
-      "product_id": "df1451dcb3549b31",
-      "name": "Halzan mini bag",
-      "color": "Grey",
-      "price": "AU$9,945",
-      "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CKCD/"
     }
   }
 }
