@@ -1,8 +1,9 @@
 {
-  "last_checked_at": "2026-08-18T23:51:36.126701+00:00",
+  "last_checked_at": "2026-08-19T00:52:55.348556+00:00",
   "seen_ids": [
     "7d4927d52dc607ff",
     "593c56c4f6e160b4",
+    "e8c986565aa3546f",
     "51c5c910e99aaaff",
     "c0970868db378f00",
     "2f19315d2d34376b",
@@ -19,12 +20,16 @@
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
+    "24a856d967b73f17",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "3f297c6924c5907b",
     "683da0d3f226ce33",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
+    "293019851c1facfc",
+    "db8fa5f052f3ce52",
+    "a6816b0d07bab0dd",
     "9780e89c26778a8f"
   ],
   "products": {
@@ -41,6 +46,13 @@
       "color": "Black",
       "price": "AU$12,820",
       "url": "https://www.hermes.com/au/en/product/so-medor-bag-H085054CK89/"
+    },
+    "e8c986565aa3546f": {
+      "product_id": "e8c986565aa3546f",
+      "name": "Evelyne III 29 bag",
+      "color": "Beige/Natural",
+      "price": "AU$6,745",
+      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC18/"
     },
     "51c5c910e99aaaff": {
       "product_id": "51c5c910e99aaaff",
@@ -154,6 +166,13 @@
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
     },
+    "24a856d967b73f17": {
+      "product_id": "24a856d967b73f17",
+      "name": "Plume mini bag",
+      "color": "Black",
+      "price": "AU$12,490",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CC89/"
+    },
     "068836fdf2bdcd84": {
       "product_id": "068836fdf2bdcd84",
       "name": "Hermès Videpoches bag",
@@ -195,6 +214,27 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "293019851c1facfc": {
+      "product_id": "293019851c1facfc",
+      "name": "Bolide 1923 - 25 bag",
+      "color": "Black",
+      "price": "AU$13,485",
+      "url": "https://www.hermes.com/au/en/product/bolide-1923-25-bag-H082798CK89/"
+    },
+    "db8fa5f052f3ce52": {
+      "product_id": "db8fa5f052f3ce52",
+      "name": "Lindy 26 bag",
+      "color": "Beige/Natural",
+      "price": "AU$16,465",
+      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073428CK37/"
+    },
+    "a6816b0d07bab0dd": {
+      "product_id": "a6816b0d07bab0dd",
+      "name": "Picotin Lock 18 bag",
+      "color": "White",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CC10/"
     },
     "9780e89c26778a8f": {
       "product_id": "9780e89c26778a8f",
