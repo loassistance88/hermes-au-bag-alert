@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-20T16:46:38.762467+00:00",
+  "last_checked_at": "2026-08-20T17:15:06.085892+00:00",
   "seen_ids": [
     "1059a61b3f9a5e89",
     "e8c986565aa3546f",
@@ -14,6 +14,7 @@
     "9e275fbd5c55bd6d",
     "247fa85d11c4c74b",
     "0c5b5e17a6de0714",
+    "7bcc014c042a22b1",
     "6c24fb1c22cbc59a",
     "31f65e08d4a95233",
     "055c204dedd8f01b",
@@ -24,8 +25,7 @@
     "154fcc633566ee55",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
-    "24ea11daf02b2ca1",
-    "7bcc014c042a22b1"
+    "24ea11daf02b2ca1"
   ],
   "products": {
     "1059a61b3f9a5e89": {
@@ -119,6 +119,13 @@
       "price": "AU$15,360",
       "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H070510CP37/"
     },
+    "7bcc014c042a22b1": {
+      "product_id": "7bcc014c042a22b1",
+      "name": "Hermès Geta slim bag",
+      "color": "Black",
+      "price": "AU$12,155",
+      "url": "https://www.hermes.com/au/en/product/hermes-geta-slim-bag-H086983CKAA/"
+    },
     "6c24fb1c22cbc59a": {
       "product_id": "6c24fb1c22cbc59a",
       "name": "Hermès Videpoches bag",
@@ -195,13 +202,6 @@
       "color": "White",
       "price": "AU$10,060",
       "url": "https://www.hermes.com/au/en/product/halzan-25-bag-H082027CK10/"
-    },
-    "7bcc014c042a22b1": {
-      "product_id": "7bcc014c042a22b1",
-      "name": "Hermès Geta slim bag",
-      "color": "Black",
-      "price": "AU$12,155",
-      "url": "https://www.hermes.com/au/en/product/hermes-geta-slim-bag-H086983CKAA/"
     }
   }
 }
