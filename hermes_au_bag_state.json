@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-20T23:11:37.027228+00:00",
+  "last_checked_at": "2026-08-20T23:42:21.736584+00:00",
   "seen_ids": [
     "1059a61b3f9a5e89",
     "e8c986565aa3546f",
@@ -24,8 +24,7 @@
     "1aeea02d2e365f32",
     "154fcc633566ee55",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68",
-    "24ea11daf02b2ca1"
+    "5279376f4fdb7e68"
   ],
   "products": {
     "1059a61b3f9a5e89": {
@@ -195,13 +194,6 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "24ea11daf02b2ca1": {
-      "product_id": "24ea11daf02b2ca1",
-      "name": "Halzan 25 bag",
-      "color": "White",
-      "price": "AU$10,060",
-      "url": "https://www.hermes.com/au/en/product/halzan-25-bag-H082027CK10/"
     }
   }
 }
