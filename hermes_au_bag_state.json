@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-20T10:50:56.494445+00:00",
+  "last_checked_at": "2026-08-20T11:18:34.980297+00:00",
   "seen_ids": [
     "1059a61b3f9a5e89",
     "e8c986565aa3546f",
@@ -24,9 +24,7 @@
     "154fcc633566ee55",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
-    "0fa961db46be2023",
     "24ea11daf02b2ca1",
-    "a04a3dc5297ac00c",
     "7bcc014c042a22b1"
   ],
   "products": {
@@ -191,26 +189,12 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
     },
-    "0fa961db46be2023": {
-      "product_id": "0fa961db46be2023",
-      "name": "Picotin Lock 18 bag",
-      "color": "Brown",
-      "price": "AU$6,745",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H077913CC46/"
-    },
     "24ea11daf02b2ca1": {
       "product_id": "24ea11daf02b2ca1",
       "name": "Halzan 25 bag",
       "color": "White",
       "price": "AU$10,060",
       "url": "https://www.hermes.com/au/en/product/halzan-25-bag-H082027CK10/"
-    },
-    "a04a3dc5297ac00c": {
-      "product_id": "a04a3dc5297ac00c",
-      "name": "Picotin Lock 18 bag",
-      "color": "White",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK10/"
     },
     "7bcc014c042a22b1": {
       "product_id": "7bcc014c042a22b1",
