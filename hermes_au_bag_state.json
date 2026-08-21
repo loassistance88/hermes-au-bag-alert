@@ -1,10 +1,12 @@
 {
-  "last_checked_at": "2026-08-21T00:01:38.113399+00:00",
+  "last_checked_at": "2026-08-21T01:53:38.920853+00:00",
   "seen_ids": [
     "1059a61b3f9a5e89",
     "e8c986565aa3546f",
     "7d4927d52dc607ff",
+    "091962f2877a1f73",
     "9e8f209907ac16e8",
+    "a3212d9265da7288",
     "e9599f03ef3a10e8",
     "5442147f7e425e4d",
     "9780e89c26778a8f",
@@ -13,6 +15,7 @@
     "593c56c4f6e160b4",
     "9e275fbd5c55bd6d",
     "247fa85d11c4c74b",
+    "e1ae6aca5532c1ce",
     "0c5b5e17a6de0714",
     "7bcc014c042a22b1",
     "6c24fb1c22cbc59a",
@@ -22,9 +25,9 @@
     "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
-    "154fcc633566ee55",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "a6816b0d07bab0dd"
   ],
   "products": {
     "1059a61b3f9a5e89": {
@@ -48,12 +51,26 @@
       "price": "AU$34,480",
       "url": "https://www.hermes.com/au/en/product/fonsbelle-chaine-bag-H083939CP89/"
     },
+    "091962f2877a1f73": {
+      "product_id": "091962f2877a1f73",
+      "name": "Jige Elan 29 touch clutch",
+      "color": "Black",
+      "price": "AU$11,935",
+      "url": "https://www.hermes.com/au/en/product/jige-elan-29-touch-clutch-H076258CAAA/"
+    },
     "9e8f209907ac16e8": {
       "product_id": "9e8f209907ac16e8",
       "name": "Jypsiere mini bag",
       "color": "Beige/Natural",
       "price": "AU$15,140",
       "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CC4B/"
+    },
+    "a3212d9265da7288": {
+      "product_id": "a3212d9265da7288",
+      "name": "24/24 - 21 bag",
+      "color": "Beige/Natural",
+      "price": "AU$17,020",
+      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CKAI/"
     },
     "e9599f03ef3a10e8": {
       "product_id": "e9599f03ef3a10e8",
@@ -110,6 +127,13 @@
       "color": "Blue",
       "price": "AU$5,970",
       "url": "https://www.hermes.com/au/en/product/herbag-zip-31-laque-bag-H084267CCAH/"
+    },
+    "e1ae6aca5532c1ce": {
+      "product_id": "e1ae6aca5532c1ce",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "Black",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKAV/"
     },
     "0c5b5e17a6de0714": {
       "product_id": "0c5b5e17a6de0714",
@@ -174,13 +198,6 @@
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
     },
-    "154fcc633566ee55": {
-      "product_id": "154fcc633566ee55",
-      "name": "Hermès Geta bag",
-      "color": "Pink",
-      "price": "AU$11,715",
-      "url": "https://www.hermes.com/au/en/product/hermes-geta-bag-H083052CKBJ/"
-    },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
       "name": "Neo Garden Voyage 41 bag",
@@ -194,6 +211,13 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "a6816b0d07bab0dd": {
+      "product_id": "a6816b0d07bab0dd",
+      "name": "Picotin Lock 18 bag",
+      "color": "White",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CC10/"
     }
   }
 }
