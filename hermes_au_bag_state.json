@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-24T02:21:30.801497+00:00",
+  "last_checked_at": "2026-08-24T03:29:45.262190+00:00",
   "seen_ids": [
     "bab153afe9971f55",
     "11a5d65166852b26",
@@ -23,17 +23,14 @@
     "efbffb22f1474ef5",
     "56b137b7fc6445c7",
     "6c24fb1c22cbc59a",
-    "c4a5af59b783ce2b",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
-    "f3c425dcb264e15b",
+    "40fcbac9f9d46fe7",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
-    "cd0df94a33d8a73e",
-    "c8f1155717d9a207",
     "e68470a2be49fa35",
     "bc8f5afbe88dfa8a",
     "77cc2e2a453b6785"
@@ -193,13 +190,6 @@
       "price": "AU$5,535",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CKT3/"
     },
-    "c4a5af59b783ce2b": {
-      "product_id": "c4a5af59b783ce2b",
-      "name": "Evelyne III 29 bag",
-      "color": "Grey",
-      "price": "AU$6,745",
-      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CKH0/"
-    },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
       "name": "Hermès Videpoches bag",
@@ -235,12 +225,12 @@
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
     },
-    "f3c425dcb264e15b": {
-      "product_id": "f3c425dcb264e15b",
-      "name": "Picotin Lock 18 bag",
-      "color": "Green",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CCQ0/"
+    "40fcbac9f9d46fe7": {
+      "product_id": "40fcbac9f9d46fe7",
+      "name": "Hermès Videpoches bag",
+      "color": "Beige/Natural",
+      "price": "AU$6,845",
+      "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
     },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
@@ -255,20 +245,6 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "cd0df94a33d8a73e": {
-      "product_id": "cd0df94a33d8a73e",
-      "name": "Lindy II mini bag",
-      "color": "Beige/Natural",
-      "price": "AU$13,815",
-      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085956CK18/"
-    },
-    "c8f1155717d9a207": {
-      "product_id": "c8f1155717d9a207",
-      "name": "Picotin Lock 18 bag",
-      "color": "Blue",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK3Y/"
     },
     "e68470a2be49fa35": {
       "product_id": "e68470a2be49fa35",
