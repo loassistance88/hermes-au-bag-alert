@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-24T07:04:03.167050+00:00",
+  "last_checked_at": "2026-08-24T08:02:34.257906+00:00",
   "seen_ids": [
     "0c5b5e17a6de0714",
     "a87b64a78aa48006",
@@ -7,7 +7,6 @@
     "a1f01cb9f3600aac",
     "bab153afe9971f55",
     "e68470a2be49fa35",
-    "bc8f5afbe88dfa8a",
     "77cc2e2a453b6785",
     "7bcc014c042a22b1",
     "4267ed5b06c108a5",
@@ -32,7 +31,8 @@
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "42bb6e9000c45f26"
   ],
   "products": {
     "0c5b5e17a6de0714": {
@@ -76,13 +76,6 @@
       "color": "Yellow",
       "price": "AU$12,490",
       "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H087969CPY9/"
-    },
-    "bc8f5afbe88dfa8a": {
-      "product_id": "bc8f5afbe88dfa8a",
-      "name": "24/24 - 21 bag",
-      "color": "Green",
-      "price": "AU$17,020",
-      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CPCK/"
     },
     "77cc2e2a453b6785": {
       "product_id": "77cc2e2a453b6785",
@@ -258,6 +251,13 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "42bb6e9000c45f26": {
+      "product_id": "42bb6e9000c45f26",
+      "name": "Bolide 1923 mini bag",
+      "color": "Beige/Natural",
+      "price": "AU$11,165",
+      "url": "https://www.hermes.com/au/en/product/bolide-1923-mini-bag-H075180CK37/"
     }
   }
 }
