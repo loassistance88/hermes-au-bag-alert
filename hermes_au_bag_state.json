@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-24T00:53:24.623503+00:00",
+  "last_checked_at": "2026-08-24T02:21:30.801497+00:00",
   "seen_ids": [
     "bab153afe9971f55",
     "11a5d65166852b26",
@@ -23,23 +23,19 @@
     "efbffb22f1474ef5",
     "56b137b7fc6445c7",
     "6c24fb1c22cbc59a",
-    "31f65e08d4a95233",
     "c4a5af59b783ce2b",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
-    "204bfbd981243a2d",
-    "ee622423502c2ef5",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
+    "f3c425dcb264e15b",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
-    "99f923e0d33c29c5",
+    "cd0df94a33d8a73e",
     "c8f1155717d9a207",
-    "599a3f6f16e0acc8",
     "e68470a2be49fa35",
     "bc8f5afbe88dfa8a",
-    "a0026b004b1c956e",
     "77cc2e2a453b6785"
   ],
   "products": {
@@ -197,13 +193,6 @@
       "price": "AU$5,535",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CKT3/"
     },
-    "31f65e08d4a95233": {
-      "product_id": "31f65e08d4a95233",
-      "name": "Hermès Videpoches bag",
-      "color": "Blue",
-      "price": "AU$5,535",
-      "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK2Z/"
-    },
     "c4a5af59b783ce2b": {
       "product_id": "c4a5af59b783ce2b",
       "name": "Evelyne III 29 bag",
@@ -232,20 +221,6 @@
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
     },
-    "204bfbd981243a2d": {
-      "product_id": "204bfbd981243a2d",
-      "name": "Herbag Zip 20 bag",
-      "color": "Green",
-      "price": "AU$4,885",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CKAR/"
-    },
-    "ee622423502c2ef5": {
-      "product_id": "ee622423502c2ef5",
-      "name": "Picotin Lock 18 bag",
-      "color": "Brown",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CCT3/"
-    },
     "068836fdf2bdcd84": {
       "product_id": "068836fdf2bdcd84",
       "name": "Hermès Videpoches bag",
@@ -259,6 +234,13 @@
       "color": "Brown",
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
+    },
+    "f3c425dcb264e15b": {
+      "product_id": "f3c425dcb264e15b",
+      "name": "Picotin Lock 18 bag",
+      "color": "Green",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CCQ0/"
     },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
@@ -274,12 +256,12 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
     },
-    "99f923e0d33c29c5": {
-      "product_id": "99f923e0d33c29c5",
-      "name": "Picotin Lock 18 bag",
-      "color": "Green",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKA8/"
+    "cd0df94a33d8a73e": {
+      "product_id": "cd0df94a33d8a73e",
+      "name": "Lindy II mini bag",
+      "color": "Beige/Natural",
+      "price": "AU$13,815",
+      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085956CK18/"
     },
     "c8f1155717d9a207": {
       "product_id": "c8f1155717d9a207",
@@ -287,13 +269,6 @@
       "color": "Blue",
       "price": "AU$6,080",
       "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK3Y/"
-    },
-    "599a3f6f16e0acc8": {
-      "product_id": "599a3f6f16e0acc8",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "Black",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCAV/"
     },
     "e68470a2be49fa35": {
       "product_id": "e68470a2be49fa35",
@@ -308,13 +283,6 @@
       "color": "Green",
       "price": "AU$17,020",
       "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CPCK/"
-    },
-    "a0026b004b1c956e": {
-      "product_id": "a0026b004b1c956e",
-      "name": "Garden Party 30 bag",
-      "color": "Green",
-      "price": "AU$5,040",
-      "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051551CKCU/"
     },
     "77cc2e2a453b6785": {
       "product_id": "77cc2e2a453b6785",
