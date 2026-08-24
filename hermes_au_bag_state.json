@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-24T08:59:41.165029+00:00",
+  "last_checked_at": "2026-08-24T09:57:15.057569+00:00",
   "seen_ids": [
     "0c5b5e17a6de0714",
     "a87b64a78aa48006",
@@ -31,9 +31,7 @@
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68",
-    "808e4db3280204cf",
-    "6d61f6b3752029e6"
+    "5279376f4fdb7e68"
   ],
   "products": {
     "0c5b5e17a6de0714": {
@@ -252,20 +250,6 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "808e4db3280204cf": {
-      "product_id": "808e4db3280204cf",
-      "name": "Bolide 1923 - 25 bag",
-      "color": "Beige/Natural",
-      "price": "AU$13,485",
-      "url": "https://www.hermes.com/au/en/product/bolide-1923-25-bag-H082798CK37/"
-    },
-    "6d61f6b3752029e6": {
-      "product_id": "6d61f6b3752029e6",
-      "name": "Picotin Lock 18 bag",
-      "color": "Beige/Natural",
-      "price": "AU$6,745",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H077913CK34/"
     }
   }
 }
