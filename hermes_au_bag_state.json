@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-25T05:02:05.464338+00:00",
+  "last_checked_at": "2026-08-25T05:42:30.567746+00:00",
   "seen_ids": [
     "59d97f18d888215c",
     "f753743d8fc48de4",
@@ -25,6 +25,7 @@
     "33e95e6e98ee1618",
     "6c24fb1c22cbc59a",
     "055c204dedd8f01b",
+    "9072b1aa7e92ea97",
     "f8e8b3ea7535fcf8",
     "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
@@ -203,6 +204,13 @@
       "color": "Beige/Natural",
       "price": "AU$5,535",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK18/"
+    },
+    "9072b1aa7e92ea97": {
+      "product_id": "9072b1aa7e92ea97",
+      "name": "Etriviere Shopping voyage bag",
+      "color": "Black",
+      "price": "AU$6,365",
+      "url": "https://www.hermes.com/au/en/product/etriviere-shopping-voyage-bag-H088128CKAB/"
     },
     "f8e8b3ea7535fcf8": {
       "product_id": "f8e8b3ea7535fcf8",
