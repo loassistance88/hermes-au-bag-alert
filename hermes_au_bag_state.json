@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-25T02:45:23.517266+00:00",
+  "last_checked_at": "2026-08-25T03:34:46.122078+00:00",
   "seen_ids": [
     "59d97f18d888215c",
     "f753743d8fc48de4",
@@ -22,7 +22,6 @@
     "bb2b4a129049a88e",
     "217d60d61dd7922b",
     "a06b60faabf0c7a2",
-    "33e95e6e98ee1618",
     "6c24fb1c22cbc59a",
     "055c204dedd8f01b",
     "f8e8b3ea7535fcf8",
@@ -33,9 +32,6 @@
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
     "90bff013a72db017",
-    "657b887bcca8e1a0",
-    "6d61f6b3752029e6",
-    "4bfcfc41233e6b85",
     "4b20edcf4e28929d"
   ],
   "products": {
@@ -186,13 +182,6 @@
       "price": "AU$27,185",
       "url": "https://www.hermes.com/au/en/product/collier-d-attelage-bag-H086341CK89/"
     },
-    "33e95e6e98ee1618": {
-      "product_id": "33e95e6e98ee1618",
-      "name": "Lindy II mini bag Toile & Cuir",
-      "color": "Beige/Natural",
-      "price": "AU$15,250",
-      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-toile-and-cuir-H087946CKAD/"
-    },
     "6c24fb1c22cbc59a": {
       "product_id": "6c24fb1c22cbc59a",
       "name": "Hermès Videpoches bag",
@@ -262,27 +251,6 @@
       "color": "Beige/Natural",
       "price": "AU$8,180",
       "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H085690CKAD/"
-    },
-    "657b887bcca8e1a0": {
-      "product_id": "657b887bcca8e1a0",
-      "name": "Lindy II mini bag",
-      "color": "Beige/Natural",
-      "price": "AU$13,815",
-      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085956CC37/"
-    },
-    "6d61f6b3752029e6": {
-      "product_id": "6d61f6b3752029e6",
-      "name": "Picotin Lock 18 bag",
-      "color": "Beige/Natural",
-      "price": "AU$6,745",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H077913CK34/"
-    },
-    "4bfcfc41233e6b85": {
-      "product_id": "4bfcfc41233e6b85",
-      "name": "Lindy 26 bag",
-      "color": "Beige/Natural",
-      "price": "AU$16,465",
-      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073428CK18/"
     },
     "4b20edcf4e28929d": {
       "product_id": "4b20edcf4e28929d",
