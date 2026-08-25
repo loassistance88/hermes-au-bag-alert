@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-25T01:42:51.464332+00:00",
+  "last_checked_at": "2026-08-25T02:45:23.517266+00:00",
   "seen_ids": [
     "59d97f18d888215c",
     "f753743d8fc48de4",
@@ -33,10 +33,9 @@
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
     "90bff013a72db017",
-    "42bb6e9000c45f26",
-    "6097fb8fec10a020",
-    "7118f0c42a066823",
-    "491d5439e784ebb5",
+    "657b887bcca8e1a0",
+    "6d61f6b3752029e6",
+    "4bfcfc41233e6b85",
     "4b20edcf4e28929d"
   ],
   "products": {
@@ -264,33 +263,26 @@
       "price": "AU$8,180",
       "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H085690CKAD/"
     },
-    "42bb6e9000c45f26": {
-      "product_id": "42bb6e9000c45f26",
-      "name": "Bolide 1923 mini bag",
+    "657b887bcca8e1a0": {
+      "product_id": "657b887bcca8e1a0",
+      "name": "Lindy II mini bag",
       "color": "Beige/Natural",
-      "price": "AU$11,165",
-      "url": "https://www.hermes.com/au/en/product/bolide-1923-mini-bag-H075180CK37/"
+      "price": "AU$13,815",
+      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085956CC37/"
     },
-    "6097fb8fec10a020": {
-      "product_id": "6097fb8fec10a020",
-      "name": "Evelyne 16 Amazone bag",
+    "6d61f6b3752029e6": {
+      "product_id": "6d61f6b3752029e6",
+      "name": "Picotin Lock 18 bag",
       "color": "Beige/Natural",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCCI/"
+      "price": "AU$6,745",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H077913CK34/"
     },
-    "7118f0c42a066823": {
-      "product_id": "7118f0c42a066823",
-      "name": "Halzan 25 bag",
-      "color": "Blue",
-      "price": "AU$10,060",
-      "url": "https://www.hermes.com/au/en/product/halzan-25-bag-H082027CKJ7/"
-    },
-    "491d5439e784ebb5": {
-      "product_id": "491d5439e784ebb5",
-      "name": "Halzan 25 bag",
-      "color": "Brown",
-      "price": "AU$10,060",
-      "url": "https://www.hermes.com/au/en/product/halzan-25-bag-H082027CCT3/"
+    "4bfcfc41233e6b85": {
+      "product_id": "4bfcfc41233e6b85",
+      "name": "Lindy 26 bag",
+      "color": "Beige/Natural",
+      "price": "AU$16,465",
+      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073428CK18/"
     },
     "4b20edcf4e28929d": {
       "product_id": "4b20edcf4e28929d",
