@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-25T07:13:37.035689+00:00",
+  "last_checked_at": "2026-08-25T08:01:21.228803+00:00",
   "seen_ids": [
     "59d97f18d888215c",
     "f753743d8fc48de4",
@@ -34,6 +34,7 @@
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
     "90bff013a72db017",
+    "657b887bcca8e1a0",
     "4b20edcf4e28929d"
   ],
   "products": {
@@ -267,6 +268,13 @@
       "color": "Beige/Natural",
       "price": "AU$8,180",
       "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H085690CKAD/"
+    },
+    "657b887bcca8e1a0": {
+      "product_id": "657b887bcca8e1a0",
+      "name": "Lindy II mini bag",
+      "color": "Beige/Natural",
+      "price": "AU$13,815",
+      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085956CC37/"
     },
     "4b20edcf4e28929d": {
       "product_id": "4b20edcf4e28929d",
