@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-25T23:40:40.821301+00:00",
+  "last_checked_at": "2026-08-26T00:00:20.885508+00:00",
   "seen_ids": [
     "59d97f18d888215c",
     "f753743d8fc48de4",
@@ -30,9 +30,14 @@
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
+    "5db1941520a5aa74",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
     "90bff013a72db017",
+    "a6816b0d07bab0dd",
+    "404c33f87e3b26f6",
+    "599a3f6f16e0acc8",
+    "2a0062df83c210e0",
     "4b20edcf4e28929d"
   ],
   "products": {
@@ -239,6 +244,13 @@
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
     },
+    "5db1941520a5aa74": {
+      "product_id": "5db1941520a5aa74",
+      "name": "Herbag Zip 31 bag",
+      "color": "Grey",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKBI/"
+    },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
       "name": "Neo Garden Voyage 41 bag",
@@ -259,6 +271,34 @@
       "color": "Beige/Natural",
       "price": "AU$8,180",
       "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H085690CKAD/"
+    },
+    "a6816b0d07bab0dd": {
+      "product_id": "a6816b0d07bab0dd",
+      "name": "Picotin Lock 18 bag",
+      "color": "White",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CC10/"
+    },
+    "404c33f87e3b26f6": {
+      "product_id": "404c33f87e3b26f6",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "Beige/Natural",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKCI/"
+    },
+    "599a3f6f16e0acc8": {
+      "product_id": "599a3f6f16e0acc8",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "Black",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCAV/"
+    },
+    "2a0062df83c210e0": {
+      "product_id": "2a0062df83c210e0",
+      "name": "Picotin Lock 18 bag",
+      "color": "Black",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK89/"
     },
     "4b20edcf4e28929d": {
       "product_id": "4b20edcf4e28929d",
