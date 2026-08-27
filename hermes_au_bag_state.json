@@ -1,28 +1,19 @@
 {
-  "last_checked_at": "2026-08-27T02:18:58.061313+00:00",
+  "last_checked_at": "2026-08-27T12:55:14.848037+00:00",
   "seen_ids": [
     "f753743d8fc48de4",
     "0c5b5e17a6de0714",
     "a87b64a78aa48006",
-    "efbffb22f1474ef5",
     "a1f01cb9f3600aac",
-    "091962f2877a1f73",
     "f8900620d57df623",
-    "77cc2e2a453b6785",
-    "4267ed5b06c108a5",
     "7d4927d52dc607ff",
     "5db1941520a5aa74",
-    "bab153afe9971f55",
     "56b137b7fc6445c7",
-    "bb2b4a129049a88e",
-    "f8e8b3ea7535fcf8",
     "11a5d65166852b26",
-    "1dd12c90c2084d85",
-    "59d97f18d888215c",
-    "90bff013a72db017",
     "9e275fbd5c55bd6d",
     "b41c0ed2753a557d",
     "217d60d61dd7922b",
+    "6d9984748f3d03d6",
     "a06b60faabf0c7a2",
     "6c24fb1c22cbc59a",
     "055c204dedd8f01b",
@@ -32,7 +23,8 @@
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "156471be2f63fb9e"
   ],
   "products": {
     "f753743d8fc48de4": {
@@ -56,13 +48,6 @@
       "price": "AU$22,100",
       "url": "https://www.hermes.com/au/en/product/petit-tour-34-bag-H087025CC34/"
     },
-    "efbffb22f1474ef5": {
-      "product_id": "efbffb22f1474ef5",
-      "name": "Arcon slim bag",
-      "color": "Beige/Natural",
-      "price": "AU$9,285",
-      "url": "https://www.hermes.com/au/en/product/arcon-slim-bag-H087032CPAB/"
-    },
     "a1f01cb9f3600aac": {
       "product_id": "a1f01cb9f3600aac",
       "name": "Le Petit Sac bag",
@@ -70,33 +55,12 @@
       "price": "AU$9,725",
       "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087967CC28/"
     },
-    "091962f2877a1f73": {
-      "product_id": "091962f2877a1f73",
-      "name": "Jige Elan 29 touch clutch",
-      "color": "Black",
-      "price": "AU$11,935",
-      "url": "https://www.hermes.com/au/en/product/jige-elan-29-touch-clutch-H076258CAAA/"
-    },
     "f8900620d57df623": {
       "product_id": "f8900620d57df623",
       "name": "P'tit Arcon bag",
       "color": "Black",
       "price": "AU$8,730",
       "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CKAF/"
-    },
-    "77cc2e2a453b6785": {
-      "product_id": "77cc2e2a453b6785",
-      "name": "Garden Party 36 bag",
-      "color": "Green",
-      "price": "AU$5,505",
-      "url": "https://www.hermes.com/au/en/product/garden-party-36-bag-H038587CKDT/"
-    },
-    "4267ed5b06c108a5": {
-      "product_id": "4267ed5b06c108a5",
-      "name": "Evelyne III 29 bag",
-      "color": "Beige/Natural",
-      "price": "AU$6,965",
-      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H085942CKAB/"
     },
     "7d4927d52dc607ff": {
       "product_id": "7d4927d52dc607ff",
@@ -112,13 +76,6 @@
       "price": "AU$5,395",
       "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKBI/"
     },
-    "bab153afe9971f55": {
-      "product_id": "bab153afe9971f55",
-      "name": "Plume 28 bag",
-      "color": "Beige/Natural",
-      "price": "AU$17,460",
-      "url": "https://www.hermes.com/au/en/product/plume-28-bag-H087095CK37/"
-    },
     "56b137b7fc6445c7": {
       "product_id": "56b137b7fc6445c7",
       "name": "Faubourg Express bag",
@@ -126,47 +83,12 @@
       "price": "AU$17,020",
       "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CC37/"
     },
-    "bb2b4a129049a88e": {
-      "product_id": "bb2b4a129049a88e",
-      "name": "Garden Party 30 bag",
-      "color": "Brown",
-      "price": "AU$7,295",
-      "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK6C/"
-    },
-    "f8e8b3ea7535fcf8": {
-      "product_id": "f8e8b3ea7535fcf8",
-      "name": "Hermès Geta slim bag",
-      "color": "Beige/Natural",
-      "price": "AU$11,715",
-      "url": "https://www.hermes.com/au/en/product/hermes-geta-slim-bag-H086918CCAA/"
-    },
     "11a5d65166852b26": {
       "product_id": "11a5d65166852b26",
       "name": "Le Petit Sac bag",
       "color": "White",
       "price": "AU$9,725",
       "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087967CKI2/"
-    },
-    "1dd12c90c2084d85": {
-      "product_id": "1dd12c90c2084d85",
-      "name": "Plume mini bag",
-      "color": "Yellow",
-      "price": "AU$12,270",
-      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CKI8/"
-    },
-    "59d97f18d888215c": {
-      "product_id": "59d97f18d888215c",
-      "name": "Evelyne III 29 bag",
-      "color": "White",
-      "price": "AU$6,745",
-      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC10/"
-    },
-    "90bff013a72db017": {
-      "product_id": "90bff013a72db017",
-      "name": "Hermès In-the-Loop 18 bag",
-      "color": "Beige/Natural",
-      "price": "AU$8,180",
-      "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H085690CKAD/"
     },
     "9e275fbd5c55bd6d": {
       "product_id": "9e275fbd5c55bd6d",
@@ -188,6 +110,13 @@
       "color": "Black",
       "price": "AU$8,400",
       "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAC/"
+    },
+    "6d9984748f3d03d6": {
+      "product_id": "6d9984748f3d03d6",
+      "name": "Evelyne III 29 bag",
+      "color": "Black",
+      "price": "AU$6,745",
+      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC89/"
     },
     "a06b60faabf0c7a2": {
       "product_id": "a06b60faabf0c7a2",
@@ -258,6 +187,13 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "156471be2f63fb9e": {
+      "product_id": "156471be2f63fb9e",
+      "name": "Halzan mini bag",
+      "color": "Purple",
+      "price": "AU$9,945",
+      "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CKCC/"
     }
   }
 }
