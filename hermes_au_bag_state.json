@@ -1,11 +1,12 @@
 {
-  "last_checked_at": "2026-08-28T18:57:58.821131+00:00",
+  "last_checked_at": "2026-08-29T02:04:25.794161+00:00",
   "seen_ids": [
     "f753743d8fc48de4",
     "a87b64a78aa48006",
     "f8900620d57df623",
     "7d4927d52dc607ff",
     "5db1941520a5aa74",
+    "56b137b7fc6445c7",
     "9e275fbd5c55bd6d",
     "b41c0ed2753a557d",
     "217d60d61dd7922b",
@@ -18,6 +19,7 @@
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
+    "9a8aae6ec8f0b03d",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
     "acfa166468548168",
@@ -59,6 +61,13 @@
       "color": "Grey",
       "price": "AU$5,395",
       "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKBI/"
+    },
+    "56b137b7fc6445c7": {
+      "product_id": "56b137b7fc6445c7",
+      "name": "Faubourg Express bag",
+      "color": "Beige/Natural",
+      "price": "AU$17,020",
+      "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CC37/"
     },
     "9e275fbd5c55bd6d": {
       "product_id": "9e275fbd5c55bd6d",
@@ -143,6 +152,13 @@
       "color": "Beige/Natural",
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
+    },
+    "9a8aae6ec8f0b03d": {
+      "product_id": "9a8aae6ec8f0b03d",
+      "name": "Evelyne 16 Sellier bag",
+      "color": "Beige/Natural",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-sellier-bag-H087080CK18/"
     },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
