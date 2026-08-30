@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-30T05:53:56.086344+00:00",
+  "last_checked_at": "2026-08-30T11:23:45.460366+00:00",
   "seen_ids": [
     "f753743d8fc48de4",
     "a87b64a78aa48006",
@@ -7,23 +7,27 @@
     "7d4927d52dc607ff",
     "5db1941520a5aa74",
     "56b137b7fc6445c7",
+    "18aba5d7031a4e45",
+    "90bff013a72db017",
     "9e275fbd5c55bd6d",
     "b41c0ed2753a557d",
     "217d60d61dd7922b",
     "6d9984748f3d03d6",
+    "86426b58853bf1f0",
     "a06b60faabf0c7a2",
     "6c24fb1c22cbc59a",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
+    "59fecf0ed8bd6ac3",
     "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
+    "82c5686368dc4428",
     "acfa166468548168",
-    "a2a37454872c1a8e",
-    "02efd786686f9eef"
+    "a2a37454872c1a8e"
   ],
   "products": {
     "f753743d8fc48de4": {
@@ -68,6 +72,20 @@
       "price": "AU$17,020",
       "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CC37/"
     },
+    "18aba5d7031a4e45": {
+      "product_id": "18aba5d7031a4e45",
+      "name": "Hermès In-the-Loop 18 bag",
+      "color": "Blue",
+      "price": "AU$8,400",
+      "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAS/"
+    },
+    "90bff013a72db017": {
+      "product_id": "90bff013a72db017",
+      "name": "Hermès In-the-Loop 18 bag",
+      "color": "Beige/Natural",
+      "price": "AU$8,180",
+      "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H085690CKAD/"
+    },
     "9e275fbd5c55bd6d": {
       "product_id": "9e275fbd5c55bd6d",
       "name": "Fonsbelle Chaine bag",
@@ -96,6 +114,13 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC89/"
     },
+    "86426b58853bf1f0": {
+      "product_id": "86426b58853bf1f0",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "Grey",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKCR/"
+    },
     "a06b60faabf0c7a2": {
       "product_id": "a06b60faabf0c7a2",
       "name": "Collier d'Attelage bag",
@@ -123,6 +148,13 @@
       "color": "Black",
       "price": "AU$6,365",
       "url": "https://www.hermes.com/au/en/product/etriviere-shopping-voyage-bag-H088128CKAB/"
+    },
+    "59fecf0ed8bd6ac3": {
+      "product_id": "59fecf0ed8bd6ac3",
+      "name": "Picotin Lock 18 bag",
+      "color": "Beige/Natural",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK2D/"
     },
     "f54f3cd627e36ec3": {
       "product_id": "f54f3cd627e36ec3",
@@ -166,6 +198,13 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
     },
+    "82c5686368dc4428": {
+      "product_id": "82c5686368dc4428",
+      "name": "Picotin Lock 22 bag",
+      "color": "Blue",
+      "price": "AU$6,520",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CC3Y/"
+    },
     "acfa166468548168": {
       "product_id": "acfa166468548168",
       "name": "Double Longe bag",
@@ -179,13 +218,6 @@
       "color": "Brown",
       "price": "AU$10,830",
       "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CCAC/"
-    },
-    "02efd786686f9eef": {
-      "product_id": "02efd786686f9eef",
-      "name": "Double Longe bag",
-      "color": "Black",
-      "price": "AU$10,830",
-      "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CCAB/"
     }
   }
 }
