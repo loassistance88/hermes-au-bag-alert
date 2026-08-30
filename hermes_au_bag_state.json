@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-30T21:37:52.146755+00:00",
+  "last_checked_at": "2026-08-30T23:53:50.523664+00:00",
   "seen_ids": [
     "f753743d8fc48de4",
     "a87b64a78aa48006",
@@ -14,6 +14,7 @@
     "217d60d61dd7922b",
     "6d9984748f3d03d6",
     "a06b60faabf0c7a2",
+    "73a006d906a2fb8a",
     "6c24fb1c22cbc59a",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
@@ -117,6 +118,13 @@
       "color": "Black",
       "price": "AU$27,185",
       "url": "https://www.hermes.com/au/en/product/collier-d-attelage-bag-H086341CK89/"
+    },
+    "73a006d906a2fb8a": {
+      "product_id": "73a006d906a2fb8a",
+      "name": "Picotin Lock 22 bag",
+      "color": "Grey",
+      "price": "AU$6,520",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CKH0/"
     },
     "6c24fb1c22cbc59a": {
       "product_id": "6c24fb1c22cbc59a",
