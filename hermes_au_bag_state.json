@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-08-31T22:03:32.746058+00:00",
+  "last_checked_at": "2026-09-01T01:15:45.094126+00:00",
   "seen_ids": [
     "89bc19914974f9d0",
     "56b137b7fc6445c7",
@@ -7,6 +7,7 @@
     "efbffb22f1474ef5",
     "a1f01cb9f3600aac",
     "091962f2877a1f73",
+    "acfa166468548168",
     "f8900620d57df623",
     "a06b60faabf0c7a2",
     "7d4927d52dc607ff",
@@ -75,6 +76,13 @@
       "color": "Black",
       "price": "AU$11,935",
       "url": "https://www.hermes.com/au/en/product/jige-elan-29-touch-clutch-H076258CAAA/"
+    },
+    "acfa166468548168": {
+      "product_id": "acfa166468548168",
+      "name": "Double Longe bag",
+      "color": "Beige/Natural",
+      "price": "AU$10,830",
+      "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAL/"
     },
     "f8900620d57df623": {
       "product_id": "f8900620d57df623",
