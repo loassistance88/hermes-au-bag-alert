@@ -1,46 +1,95 @@
 {
-  "last_checked_at": "2026-09-01T01:15:45.094126+00:00",
+  "last_checked_at": "2026-09-01T06:16:56.493323+00:00",
   "seen_ids": [
+    "f8900620d57df623",
+    "091962f2877a1f73",
+    "22ade1175c422fea",
+    "4a5a141eddf727f5",
     "89bc19914974f9d0",
+    "a1f01cb9f3600aac",
+    "acfa166468548168",
+    "12e8ffd2df57247c",
     "56b137b7fc6445c7",
     "a87b64a78aa48006",
     "efbffb22f1474ef5",
-    "a1f01cb9f3600aac",
-    "091962f2877a1f73",
-    "acfa166468548168",
-    "f8900620d57df623",
+    "1e5286599e6355a4",
     "a06b60faabf0c7a2",
     "7d4927d52dc607ff",
-    "1e5286599e6355a4",
-    "683da0d3f226ce33",
+    "18aba5d7031a4e45",
     "2e790593970c08ba",
-    "4a5a141eddf727f5",
+    "683da0d3f226ce33",
     "8a9e29c065e6d03f",
     "c0d2fcf257597803",
     "d3319700222a4385",
-    "18aba5d7031a4e45",
     "6d9984748f3d03d6",
     "90bff013a72db017",
     "9e275fbd5c55bd6d",
+    "f54f3cd627e36ec3",
+    "b2eedae3277a8680",
+    "5279376f4fdb7e68",
+    "1aeea02d2e365f32",
     "6c24fb1c22cbc59a",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
-    "f54f3cd627e36ec3",
-    "12e8ffd2df57247c",
     "068836fdf2bdcd84",
-    "1aeea02d2e365f32",
-    "40fcbac9f9d46fe7",
-    "b2eedae3277a8680",
-    "5279376f4fdb7e68",
-    "22ade1175c422fea"
+    "40fcbac9f9d46fe7"
   ],
   "products": {
+    "f8900620d57df623": {
+      "product_id": "f8900620d57df623",
+      "name": "P'tit Arcon bag",
+      "color": "Black",
+      "price": "AU$8,730",
+      "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CKAF/"
+    },
+    "091962f2877a1f73": {
+      "product_id": "091962f2877a1f73",
+      "name": "Jige Elan 29 touch clutch",
+      "color": "Black",
+      "price": "AU$11,935",
+      "url": "https://www.hermes.com/au/en/product/jige-elan-29-touch-clutch-H076258CAAA/"
+    },
+    "22ade1175c422fea": {
+      "product_id": "22ade1175c422fea",
+      "name": "Hermès Della Cavalleria Elan bag",
+      "color": "Beige/Natural",
+      "price": "AU$13,040",
+      "url": "https://www.hermes.com/au/en/product/hermes-della-cavalleria-elan-bag-H084658CK18/"
+    },
+    "4a5a141eddf727f5": {
+      "product_id": "4a5a141eddf727f5",
+      "name": "Hermès Geta bag",
+      "color": "Black",
+      "price": "AU$11,715",
+      "url": "https://www.hermes.com/au/en/product/hermes-geta-bag-H083052CKAD/"
+    },
     "89bc19914974f9d0": {
       "product_id": "89bc19914974f9d0",
       "name": "Evelyne III 29 bag",
       "color": "Beige/Natural",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
+    },
+    "a1f01cb9f3600aac": {
+      "product_id": "a1f01cb9f3600aac",
+      "name": "Le Petit Sac bag",
+      "color": "Beige/Natural",
+      "price": "AU$9,725",
+      "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087967CC28/"
+    },
+    "acfa166468548168": {
+      "product_id": "acfa166468548168",
+      "name": "Double Longe bag",
+      "color": "Beige/Natural",
+      "price": "AU$10,830",
+      "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAL/"
+    },
+    "12e8ffd2df57247c": {
+      "product_id": "12e8ffd2df57247c",
+      "name": "Evelyne III 29 bag",
+      "color": "Beige/Natural",
+      "price": "AU$6,965",
+      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H085942CKAC/"
     },
     "56b137b7fc6445c7": {
       "product_id": "56b137b7fc6445c7",
@@ -63,33 +112,12 @@
       "price": "AU$9,285",
       "url": "https://www.hermes.com/au/en/product/arcon-slim-bag-H087032CPAB/"
     },
-    "a1f01cb9f3600aac": {
-      "product_id": "a1f01cb9f3600aac",
-      "name": "Le Petit Sac bag",
+    "1e5286599e6355a4": {
+      "product_id": "1e5286599e6355a4",
+      "name": "Jypsiere mini Toile & Cuir bag",
       "color": "Beige/Natural",
-      "price": "AU$9,725",
-      "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087967CC28/"
-    },
-    "091962f2877a1f73": {
-      "product_id": "091962f2877a1f73",
-      "name": "Jige Elan 29 touch clutch",
-      "color": "Black",
-      "price": "AU$11,935",
-      "url": "https://www.hermes.com/au/en/product/jige-elan-29-touch-clutch-H076258CAAA/"
-    },
-    "acfa166468548168": {
-      "product_id": "acfa166468548168",
-      "name": "Double Longe bag",
-      "color": "Beige/Natural",
-      "price": "AU$10,830",
-      "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAL/"
-    },
-    "f8900620d57df623": {
-      "product_id": "f8900620d57df623",
-      "name": "P'tit Arcon bag",
-      "color": "Black",
-      "price": "AU$8,730",
-      "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CKAF/"
+      "price": "AU$14,255",
+      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-toile-and-cuir-bag-H087119CCAB/"
     },
     "a06b60faabf0c7a2": {
       "product_id": "a06b60faabf0c7a2",
@@ -105,19 +133,12 @@
       "price": "AU$34,480",
       "url": "https://www.hermes.com/au/en/product/fonsbelle-chaine-bag-H083939CP89/"
     },
-    "1e5286599e6355a4": {
-      "product_id": "1e5286599e6355a4",
-      "name": "Jypsiere mini Toile & Cuir bag",
-      "color": "Beige/Natural",
-      "price": "AU$14,255",
-      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-toile-and-cuir-bag-H087119CCAB/"
-    },
-    "683da0d3f226ce33": {
-      "product_id": "683da0d3f226ce33",
-      "name": "Jypsiere mini bag",
-      "color": "Grey",
-      "price": "AU$15,140",
-      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H085803CKAK/"
+    "18aba5d7031a4e45": {
+      "product_id": "18aba5d7031a4e45",
+      "name": "Hermès In-the-Loop 18 bag",
+      "color": "Blue",
+      "price": "AU$8,400",
+      "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAS/"
     },
     "2e790593970c08ba": {
       "product_id": "2e790593970c08ba",
@@ -126,12 +147,12 @@
       "price": "AU$11,165",
       "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H087950CK89/"
     },
-    "4a5a141eddf727f5": {
-      "product_id": "4a5a141eddf727f5",
-      "name": "Hermès Geta bag",
-      "color": "Black",
-      "price": "AU$11,715",
-      "url": "https://www.hermes.com/au/en/product/hermes-geta-bag-H083052CKAD/"
+    "683da0d3f226ce33": {
+      "product_id": "683da0d3f226ce33",
+      "name": "Jypsiere mini bag",
+      "color": "Grey",
+      "price": "AU$15,140",
+      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H085803CKAK/"
     },
     "8a9e29c065e6d03f": {
       "product_id": "8a9e29c065e6d03f",
@@ -154,13 +175,6 @@
       "price": "AU$12,710",
       "url": "https://www.hermes.com/au/en/product/victoria-iii-fourre-tout-mini-bag-H084337CKAE/"
     },
-    "18aba5d7031a4e45": {
-      "product_id": "18aba5d7031a4e45",
-      "name": "Hermès In-the-Loop 18 bag",
-      "color": "Blue",
-      "price": "AU$8,400",
-      "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAS/"
-    },
     "6d9984748f3d03d6": {
       "product_id": "6d9984748f3d03d6",
       "name": "Evelyne III 29 bag",
@@ -181,6 +195,34 @@
       "color": "Purple",
       "price": "AU$34,480",
       "url": "https://www.hermes.com/au/en/product/fonsbelle-chaine-bag-H083939CP59/"
+    },
+    "f54f3cd627e36ec3": {
+      "product_id": "f54f3cd627e36ec3",
+      "name": "Neo Garden Voyage 41 bredies bag",
+      "color": "Black",
+      "price": "AU$14,590",
+      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
+    },
+    "b2eedae3277a8680": {
+      "product_id": "b2eedae3277a8680",
+      "name": "Neo Garden Voyage 41 bag",
+      "color": "Beige/Natural",
+      "price": "AU$8,010",
+      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAB/"
+    },
+    "5279376f4fdb7e68": {
+      "product_id": "5279376f4fdb7e68",
+      "name": "Neo Garden Voyage 41 bag",
+      "color": "Beige/Natural",
+      "price": "AU$8,010",
+      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "1aeea02d2e365f32": {
+      "product_id": "1aeea02d2e365f32",
+      "name": "Neo Garden Voyage 41 bredies bag",
+      "color": "Brown",
+      "price": "AU$14,590",
+      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
     },
     "6c24fb1c22cbc59a": {
       "product_id": "6c24fb1c22cbc59a",
@@ -203,20 +245,6 @@
       "price": "AU$6,365",
       "url": "https://www.hermes.com/au/en/product/etriviere-shopping-voyage-bag-H088128CKAB/"
     },
-    "f54f3cd627e36ec3": {
-      "product_id": "f54f3cd627e36ec3",
-      "name": "Neo Garden Voyage 41 bredies bag",
-      "color": "Black",
-      "price": "AU$14,590",
-      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
-    },
-    "12e8ffd2df57247c": {
-      "product_id": "12e8ffd2df57247c",
-      "name": "Evelyne III 29 bag",
-      "color": "Beige/Natural",
-      "price": "AU$6,965",
-      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H085942CKAC/"
-    },
     "068836fdf2bdcd84": {
       "product_id": "068836fdf2bdcd84",
       "name": "Hermès Videpoches bag",
@@ -224,40 +252,12 @@
       "price": "AU$5,940",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CK1C/"
     },
-    "1aeea02d2e365f32": {
-      "product_id": "1aeea02d2e365f32",
-      "name": "Neo Garden Voyage 41 bredies bag",
-      "color": "Brown",
-      "price": "AU$14,590",
-      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
-    },
     "40fcbac9f9d46fe7": {
       "product_id": "40fcbac9f9d46fe7",
       "name": "Hermès Videpoches bag",
       "color": "Beige/Natural",
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
-    },
-    "b2eedae3277a8680": {
-      "product_id": "b2eedae3277a8680",
-      "name": "Neo Garden Voyage 41 bag",
-      "color": "Beige/Natural",
-      "price": "AU$8,010",
-      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAB/"
-    },
-    "5279376f4fdb7e68": {
-      "product_id": "5279376f4fdb7e68",
-      "name": "Neo Garden Voyage 41 bag",
-      "color": "Beige/Natural",
-      "price": "AU$8,010",
-      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "22ade1175c422fea": {
-      "product_id": "22ade1175c422fea",
-      "name": "Hermès Della Cavalleria Elan bag",
-      "color": "Beige/Natural",
-      "price": "AU$13,040",
-      "url": "https://www.hermes.com/au/en/product/hermes-della-cavalleria-elan-bag-H084658CK18/"
     }
   }
 }
