@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-09-08T00:23:03.772854+00:00",
+  "last_checked_at": "2026-09-08T04:59:20.142803+00:00",
   "seen_ids": [
     "091962f2877a1f73",
     "22ade1175c422fea",
@@ -9,6 +9,7 @@
     "acfa166468548168",
     "12e8ffd2df57247c",
     "56b137b7fc6445c7",
+    "0c5b5e17a6de0714",
     "a87b64a78aa48006",
     "efbffb22f1474ef5",
     "1e5286599e6355a4",
@@ -19,6 +20,7 @@
     "8a9e29c065e6d03f",
     "c0d2fcf257597803",
     "d3319700222a4385",
+    "3fa06fa672e2bd95",
     "6d9984748f3d03d6",
     "90bff013a72db017",
     "9e275fbd5c55bd6d",
@@ -87,6 +89,13 @@
       "color": "Beige/Natural",
       "price": "AU$17,020",
       "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CC37/"
+    },
+    "0c5b5e17a6de0714": {
+      "product_id": "0c5b5e17a6de0714",
+      "name": "Roulis mini bag",
+      "color": "Beige/Natural",
+      "price": "AU$15,360",
+      "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H070510CP37/"
     },
     "a87b64a78aa48006": {
       "product_id": "a87b64a78aa48006",
@@ -157,6 +166,13 @@
       "color": "Black",
       "price": "AU$12,710",
       "url": "https://www.hermes.com/au/en/product/victoria-iii-fourre-tout-mini-bag-H084337CKAE/"
+    },
+    "3fa06fa672e2bd95": {
+      "product_id": "3fa06fa672e2bd95",
+      "name": "Herbag Zip 31 bag",
+      "color": "Black",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CKAA/"
     },
     "6d9984748f3d03d6": {
       "product_id": "6d9984748f3d03d6",
