@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-09-10T00:39:24.046607+00:00",
+  "last_checked_at": "2026-09-10T05:19:40.429733+00:00",
   "seen_ids": [
     "091962f2877a1f73",
     "22ade1175c422fea",
@@ -15,11 +15,8 @@
     "1e5286599e6355a4",
     "a06b60faabf0c7a2",
     "18aba5d7031a4e45",
-    "2e790593970c08ba",
-    "683da0d3f226ce33",
     "8a9e29c065e6d03f",
     "c0d2fcf257597803",
-    "d3319700222a4385",
     "4e2a2210add07673",
     "3fa06fa672e2bd95",
     "1dd12c90c2084d85",
@@ -32,7 +29,6 @@
     "1aeea02d2e365f32",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
-    "59fecf0ed8bd6ac3",
     "068836fdf2bdcd84",
     "40fcbac9f9d46fe7"
   ],
@@ -135,20 +131,6 @@
       "price": "AU$8,400",
       "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAS/"
     },
-    "2e790593970c08ba": {
-      "product_id": "2e790593970c08ba",
-      "name": "Mini Medor bag",
-      "color": "Black",
-      "price": "AU$11,165",
-      "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H087950CK89/"
-    },
-    "683da0d3f226ce33": {
-      "product_id": "683da0d3f226ce33",
-      "name": "Jypsiere mini bag",
-      "color": "Grey",
-      "price": "AU$15,140",
-      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H085803CKAK/"
-    },
     "8a9e29c065e6d03f": {
       "product_id": "8a9e29c065e6d03f",
       "name": "Hermès Della Cavalleria mini bag II",
@@ -162,13 +144,6 @@
       "color": "Blue",
       "price": "AU$7,185",
       "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
-    },
-    "d3319700222a4385": {
-      "product_id": "d3319700222a4385",
-      "name": "Victoria III fourre-tout mini bag",
-      "color": "Black",
-      "price": "AU$12,710",
-      "url": "https://www.hermes.com/au/en/product/victoria-iii-fourre-tout-mini-bag-H084337CKAE/"
     },
     "4e2a2210add07673": {
       "product_id": "4e2a2210add07673",
@@ -253,13 +228,6 @@
       "color": "Black",
       "price": "AU$6,365",
       "url": "https://www.hermes.com/au/en/product/etriviere-shopping-voyage-bag-H088128CKAB/"
-    },
-    "59fecf0ed8bd6ac3": {
-      "product_id": "59fecf0ed8bd6ac3",
-      "name": "Picotin Lock 18 bag",
-      "color": "Beige/Natural",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK2D/"
     },
     "068836fdf2bdcd84": {
       "product_id": "068836fdf2bdcd84",
