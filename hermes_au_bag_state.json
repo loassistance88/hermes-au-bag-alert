@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-09-09T22:44:33.295354+00:00",
+  "last_checked_at": "2026-09-10T00:39:24.046607+00:00",
   "seen_ids": [
     "091962f2877a1f73",
     "22ade1175c422fea",
@@ -32,6 +32,7 @@
     "1aeea02d2e365f32",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
+    "59fecf0ed8bd6ac3",
     "068836fdf2bdcd84",
     "40fcbac9f9d46fe7"
   ],
@@ -252,6 +253,13 @@
       "color": "Black",
       "price": "AU$6,365",
       "url": "https://www.hermes.com/au/en/product/etriviere-shopping-voyage-bag-H088128CKAB/"
+    },
+    "59fecf0ed8bd6ac3": {
+      "product_id": "59fecf0ed8bd6ac3",
+      "name": "Picotin Lock 18 bag",
+      "color": "Beige/Natural",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK2D/"
     },
     "068836fdf2bdcd84": {
       "product_id": "068836fdf2bdcd84",
