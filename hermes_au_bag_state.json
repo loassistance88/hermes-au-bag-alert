@@ -1,10 +1,8 @@
 {
-  "last_checked_at": "2026-09-14T07:09:30.626555+00:00",
+  "last_checked_at": "2026-09-14T14:04:09.111705+00:00",
   "seen_ids": [
     "156471be2f63fb9e",
-    "88976a78f3c0de10",
     "ec6a65468d30d723",
-    "27ab331aeec5d087",
     "3e710c3c7fb49c00",
     "56b137b7fc6445c7",
     "f87bf06d2c4199b8",
@@ -40,26 +38,12 @@
       "price": "AU$9,945",
       "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CKCC/"
     },
-    "88976a78f3c0de10": {
-      "product_id": "88976a78f3c0de10",
-      "name": "Lindy 26 bag",
-      "color": "Pink",
-      "price": "AU$17,130",
-      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H060950CKX9/"
-    },
     "ec6a65468d30d723": {
       "product_id": "ec6a65468d30d723",
       "name": "Plume mini bag",
       "color": "Red",
       "price": "AU$12,490",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CC55/"
-    },
-    "27ab331aeec5d087": {
-      "product_id": "27ab331aeec5d087",
-      "name": "Picotin Lock 18 bag",
-      "color": "Red",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
     },
     "3e710c3c7fb49c00": {
       "product_id": "3e710c3c7fb49c00",
