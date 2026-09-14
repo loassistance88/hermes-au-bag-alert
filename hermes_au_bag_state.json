@@ -1,7 +1,6 @@
 {
-  "last_checked_at": "2026-09-14T14:04:09.111705+00:00",
+  "last_checked_at": "2026-09-14T22:35:37.780887+00:00",
   "seen_ids": [
-    "156471be2f63fb9e",
     "ec6a65468d30d723",
     "3e710c3c7fb49c00",
     "56b137b7fc6445c7",
@@ -31,13 +30,6 @@
     "5279376f4fdb7e68"
   ],
   "products": {
-    "156471be2f63fb9e": {
-      "product_id": "156471be2f63fb9e",
-      "name": "Halzan mini bag",
-      "color": "Purple",
-      "price": "AU$9,945",
-      "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CKCC/"
-    },
     "ec6a65468d30d723": {
       "product_id": "ec6a65468d30d723",
       "name": "Plume mini bag",
