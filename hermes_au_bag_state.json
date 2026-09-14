@@ -1,6 +1,7 @@
 {
-  "last_checked_at": "2026-09-13T23:39:32.120950+00:00",
+  "last_checked_at": "2026-09-14T01:42:09.664044+00:00",
   "seen_ids": [
+    "6b5e8cd2dae3b72c",
     "4e2a2210add07673",
     "56b137b7fc6445c7",
     "0c5b5e17a6de0714",
@@ -11,20 +12,35 @@
     "a87b64a78aa48006",
     "efbffb22f1474ef5",
     "a2a37454872c1a8e",
+    "77cc2e2a453b6785",
     "3c1e0faeab138049",
     "c0d2fcf257597803",
+    "f87bf06d2c4199b8",
+    "27ab331aeec5d087",
     "9e275fbd5c55bd6d",
+    "ec6a65468d30d723",
     "b2eedae3277a8680",
+    "156471be2f63fb9e",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
     "7dba62a0af2d5858",
+    "3e710c3c7fb49c00",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "f3b3af60a69af148",
+    "88976a78f3c0de10"
   ],
   "products": {
+    "6b5e8cd2dae3b72c": {
+      "product_id": "6b5e8cd2dae3b72c",
+      "name": "Jypsiere mini bag",
+      "color": "Beige/Natural",
+      "price": "AU$15,140",
+      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CK18/"
+    },
     "4e2a2210add07673": {
       "product_id": "4e2a2210add07673",
       "name": "P'tit Arcon bag",
@@ -95,6 +111,13 @@
       "price": "AU$10,830",
       "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CCAC/"
     },
+    "77cc2e2a453b6785": {
+      "product_id": "77cc2e2a453b6785",
+      "name": "Garden Party 36 bag",
+      "color": "Green",
+      "price": "AU$5,505",
+      "url": "https://www.hermes.com/au/en/product/garden-party-36-bag-H038587CKDT/"
+    },
     "3c1e0faeab138049": {
       "product_id": "3c1e0faeab138049",
       "name": "Herbag Zip 31 bag",
@@ -109,6 +132,20 @@
       "price": "AU$7,185",
       "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
     },
+    "f87bf06d2c4199b8": {
+      "product_id": "f87bf06d2c4199b8",
+      "name": "Herbag Zip 31 laque bag",
+      "color": "Grey",
+      "price": "AU$5,970",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-laque-bag-H079093CCBB/"
+    },
+    "27ab331aeec5d087": {
+      "product_id": "27ab331aeec5d087",
+      "name": "Picotin Lock 18 bag",
+      "color": "Red",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
+    },
     "9e275fbd5c55bd6d": {
       "product_id": "9e275fbd5c55bd6d",
       "name": "Fonsbelle Chaine bag",
@@ -116,12 +153,26 @@
       "price": "AU$34,480",
       "url": "https://www.hermes.com/au/en/product/fonsbelle-chaine-bag-H083939CP59/"
     },
+    "ec6a65468d30d723": {
+      "product_id": "ec6a65468d30d723",
+      "name": "Plume mini bag",
+      "color": "Red",
+      "price": "AU$12,490",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CC55/"
+    },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
       "name": "Neo Garden Voyage 41 bag",
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAB/"
+    },
+    "156471be2f63fb9e": {
+      "product_id": "156471be2f63fb9e",
+      "name": "Halzan mini bag",
+      "color": "Purple",
+      "price": "AU$9,945",
+      "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CKCC/"
     },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
@@ -151,6 +202,13 @@
       "price": "AU$14,920",
       "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CK89/"
     },
+    "3e710c3c7fb49c00": {
+      "product_id": "3e710c3c7fb49c00",
+      "name": "Picotin Lock 18 bag",
+      "color": "Orange",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK5K/"
+    },
     "068836fdf2bdcd84": {
       "product_id": "068836fdf2bdcd84",
       "name": "Hermès Videpoches bag",
@@ -178,6 +236,20 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "f3b3af60a69af148": {
+      "product_id": "f3b3af60a69af148",
+      "name": "Bridon bag",
+      "color": "Black",
+      "price": "AU$24,090",
+      "url": "https://www.hermes.com/au/en/product/bridon-bag-H088027CKAA/"
+    },
+    "88976a78f3c0de10": {
+      "product_id": "88976a78f3c0de10",
+      "name": "Lindy 26 bag",
+      "color": "Pink",
+      "price": "AU$17,130",
+      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H060950CKX9/"
     }
   }
 }
