@@ -1,12 +1,13 @@
 {
-  "last_checked_at": "2026-09-15T00:53:50.740662+00:00",
+  "last_checked_at": "2026-09-15T05:53:48.729910+00:00",
   "seen_ids": [
+    "27ab331aeec5d087",
+    "26c5d20f80ccdcf3",
     "56b137b7fc6445c7",
     "a1f01cb9f3600aac",
     "a87b64a78aa48006",
     "6b5e8cd2dae3b72c",
     "4e2a2210add07673",
-    "acfa166468548168",
     "efbffb22f1474ef5",
     "091962f2877a1f73",
     "f3b3af60a69af148",
@@ -14,22 +15,30 @@
     "9c382453477d42ae",
     "c0d2fcf257597803",
     "9e275fbd5c55bd6d",
-    "04acb32db5dd377b",
-    "e1ae6aca5532c1ce",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
-    "e00542f4f0d83e2e",
     "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
-    "f9adbb1cd05281e4",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68",
-    "26c5d20f80ccdcf3",
-    "52c4ed859ce36cc2"
+    "5279376f4fdb7e68"
   ],
   "products": {
+    "27ab331aeec5d087": {
+      "product_id": "27ab331aeec5d087",
+      "name": "Picotin Lock 18 bag",
+      "color": "Red",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
+    },
+    "26c5d20f80ccdcf3": {
+      "product_id": "26c5d20f80ccdcf3",
+      "name": "Halzan mini bag",
+      "color": "Black",
+      "price": "AU$9,945",
+      "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CCAH/"
+    },
     "56b137b7fc6445c7": {
       "product_id": "56b137b7fc6445c7",
       "name": "Faubourg Express bag",
@@ -64,13 +73,6 @@
       "color": "Grey",
       "price": "AU$8,730",
       "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CKAD/"
-    },
-    "acfa166468548168": {
-      "product_id": "acfa166468548168",
-      "name": "Double Longe bag",
-      "color": "Beige/Natural",
-      "price": "AU$10,830",
-      "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAL/"
     },
     "efbffb22f1474ef5": {
       "product_id": "efbffb22f1474ef5",
@@ -121,20 +123,6 @@
       "price": "AU$34,480",
       "url": "https://www.hermes.com/au/en/product/fonsbelle-chaine-bag-H083939CP59/"
     },
-    "04acb32db5dd377b": {
-      "product_id": "04acb32db5dd377b",
-      "name": "Herbag Zip 31 bag",
-      "color": "Red",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCCQ/"
-    },
-    "e1ae6aca5532c1ce": {
-      "product_id": "e1ae6aca5532c1ce",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "Black",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKAV/"
-    },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
       "name": "Hermès Videpoches bag",
@@ -148,13 +136,6 @@
       "color": "Black",
       "price": "AU$6,365",
       "url": "https://www.hermes.com/au/en/product/etriviere-shopping-voyage-bag-H088128CKAB/"
-    },
-    "e00542f4f0d83e2e": {
-      "product_id": "e00542f4f0d83e2e",
-      "name": "Herbag Zip 20 bag",
-      "color": "Red",
-      "price": "AU$4,885",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAJ/"
     },
     "f54f3cd627e36ec3": {
       "product_id": "f54f3cd627e36ec3",
@@ -184,13 +165,6 @@
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
     },
-    "f9adbb1cd05281e4": {
-      "product_id": "f9adbb1cd05281e4",
-      "name": "Garden Party 30 bag",
-      "color": "Grey",
-      "price": "AU$7,295",
-      "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CKP0/"
-    },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
       "name": "Neo Garden Voyage 41 bag",
@@ -204,20 +178,6 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "26c5d20f80ccdcf3": {
-      "product_id": "26c5d20f80ccdcf3",
-      "name": "Halzan mini bag",
-      "color": "Black",
-      "price": "AU$9,945",
-      "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CCAH/"
-    },
-    "52c4ed859ce36cc2": {
-      "product_id": "52c4ed859ce36cc2",
-      "name": "Garden Party 30 bag",
-      "color": "Black",
-      "price": "AU$7,295",
-      "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK89/"
     }
   }
 }
