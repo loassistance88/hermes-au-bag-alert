@@ -1,8 +1,7 @@
 {
-  "last_checked_at": "2026-09-16T05:09:19.857387+00:00",
+  "last_checked_at": "2026-09-16T09:57:26.350135+00:00",
   "seen_ids": [
     "56b137b7fc6445c7",
-    "a1f01cb9f3600aac",
     "a87b64a78aa48006",
     "6b5e8cd2dae3b72c",
     "4e2a2210add07673",
@@ -10,26 +9,26 @@
     "0c5b5e17a6de0714",
     "12e8ffd2df57247c",
     "efbffb22f1474ef5",
-    "091962f2877a1f73",
     "f3b3af60a69af148",
     "77cc2e2a453b6785",
+    "4b20edcf4e28929d",
     "9c382453477d42ae",
     "c0d2fcf257597803",
     "247fa85d11c4c74b",
     "09863bf39ab86131",
     "b41c0ed2753a557d",
     "a137075558a349b5",
-    "49fb747a47ee9954",
+    "e939492e17e9ccd1",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
+    "17b5a510aae35cfb",
     "40fcbac9f9d46fe7",
-    "27d7e3db4ebbfecb",
-    "8b87b8eb601c7fe5",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
+    "f147e4210c396f42",
     "9ecef5773aef3efd",
     "1a1122623b79d5af"
   ],
@@ -40,13 +39,6 @@
       "color": "Beige/Natural",
       "price": "AU$17,020",
       "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CC37/"
-    },
-    "a1f01cb9f3600aac": {
-      "product_id": "a1f01cb9f3600aac",
-      "name": "Le Petit Sac bag",
-      "color": "Beige/Natural",
-      "price": "AU$9,725",
-      "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087967CC28/"
     },
     "a87b64a78aa48006": {
       "product_id": "a87b64a78aa48006",
@@ -97,13 +89,6 @@
       "price": "AU$9,285",
       "url": "https://www.hermes.com/au/en/product/arcon-slim-bag-H087032CPAB/"
     },
-    "091962f2877a1f73": {
-      "product_id": "091962f2877a1f73",
-      "name": "Jige Elan 29 touch clutch",
-      "color": "Black",
-      "price": "AU$11,935",
-      "url": "https://www.hermes.com/au/en/product/jige-elan-29-touch-clutch-H076258CAAA/"
-    },
     "f3b3af60a69af148": {
       "product_id": "f3b3af60a69af148",
       "name": "Bridon bag",
@@ -117,6 +102,13 @@
       "color": "Green",
       "price": "AU$5,505",
       "url": "https://www.hermes.com/au/en/product/garden-party-36-bag-H038587CKDT/"
+    },
+    "4b20edcf4e28929d": {
+      "product_id": "4b20edcf4e28929d",
+      "name": "Garden Party 30 bag",
+      "color": "Purple",
+      "price": "AU$5,040",
+      "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H069573CKDO/"
     },
     "9c382453477d42ae": {
       "product_id": "9c382453477d42ae",
@@ -160,12 +152,12 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC37/"
     },
-    "49fb747a47ee9954": {
-      "product_id": "49fb747a47ee9954",
+    "e939492e17e9ccd1": {
+      "product_id": "e939492e17e9ccd1",
       "name": "24/24 - 21 bag",
       "color": "Black",
-      "price": "AU$21,770",
-      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
+      "price": "AU$17,020",
+      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082141CKAC/"
     },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
@@ -202,26 +194,19 @@
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
     },
+    "17b5a510aae35cfb": {
+      "product_id": "17b5a510aae35cfb",
+      "name": "Herbag Zip 31 bag",
+      "color": "Black",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CCAI/"
+    },
     "40fcbac9f9d46fe7": {
       "product_id": "40fcbac9f9d46fe7",
       "name": "Hermès Videpoches bag",
       "color": "Beige/Natural",
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
-    },
-    "27d7e3db4ebbfecb": {
-      "product_id": "27d7e3db4ebbfecb",
-      "name": "Herbag Zip 31 bag",
-      "color": "Beige/Natural",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CKBZ/"
-    },
-    "8b87b8eb601c7fe5": {
-      "product_id": "8b87b8eb601c7fe5",
-      "name": "Herbag Zip 31 bag",
-      "color": "Beige/Natural",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKAR/"
     },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
@@ -236,6 +221,13 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "f147e4210c396f42": {
+      "product_id": "f147e4210c396f42",
+      "name": "Herbag Zip 31 bag",
+      "color": "Black",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCAA/"
     },
     "9ecef5773aef3efd": {
       "product_id": "9ecef5773aef3efd",
