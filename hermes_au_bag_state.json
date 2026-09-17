@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-09-17T08:36:08.649557+00:00",
+  "last_checked_at": "2026-09-17T13:45:41.938857+00:00",
   "seen_ids": [
     "9ecef5773aef3efd",
     "1a1122623b79d5af",
@@ -31,8 +31,7 @@
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68",
-    "c59fc6bbf5c1c9dd"
+    "5279376f4fdb7e68"
   ],
   "products": {
     "9ecef5773aef3efd": {
@@ -251,13 +250,6 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "c59fc6bbf5c1c9dd": {
-      "product_id": "c59fc6bbf5c1c9dd",
-      "name": "Plume mini bag",
-      "color": "Beige/Natural",
-      "price": "AU$12,270",
-      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK37/"
     }
   }
 }
