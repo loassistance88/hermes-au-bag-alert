@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-09-17T02:59:24.541775+00:00",
+  "last_checked_at": "2026-09-17T08:36:08.649557+00:00",
   "seen_ids": [
     "9ecef5773aef3efd",
     "1a1122623b79d5af",
@@ -17,11 +17,13 @@
     "6b5e8cd2dae3b72c",
     "77cc2e2a453b6785",
     "4b20edcf4e28929d",
+    "bab153afe9971f55",
     "b41c0ed2753a557d",
     "9c382453477d42ae",
     "c0d2fcf257597803",
     "247fa85d11c4c74b",
     "09863bf39ab86131",
+    "49fb747a47ee9954",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
@@ -29,7 +31,8 @@
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "c59fc6bbf5c1c9dd"
   ],
   "products": {
     "9ecef5773aef3efd": {
@@ -144,6 +147,13 @@
       "price": "AU$5,040",
       "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H069573CKDO/"
     },
+    "bab153afe9971f55": {
+      "product_id": "bab153afe9971f55",
+      "name": "Plume 28 bag",
+      "color": "Beige/Natural",
+      "price": "AU$17,460",
+      "url": "https://www.hermes.com/au/en/product/plume-28-bag-H087095CK37/"
+    },
     "b41c0ed2753a557d": {
       "product_id": "b41c0ed2753a557d",
       "name": "Hermès Della Cavalleria Elan bag",
@@ -178,6 +188,13 @@
       "color": "Black",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK89/"
+    },
+    "49fb747a47ee9954": {
+      "product_id": "49fb747a47ee9954",
+      "name": "24/24 - 21 bag",
+      "color": "Black",
+      "price": "AU$21,770",
+      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
     },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
@@ -234,6 +251,13 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "c59fc6bbf5c1c9dd": {
+      "product_id": "c59fc6bbf5c1c9dd",
+      "name": "Plume mini bag",
+      "color": "Beige/Natural",
+      "price": "AU$12,270",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK37/"
     }
   }
 }
