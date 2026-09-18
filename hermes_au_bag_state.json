@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-09-17T23:05:08.828137+00:00",
+  "last_checked_at": "2026-09-18T01:15:39.388559+00:00",
   "seen_ids": [
     "9ecef5773aef3efd",
     "1a1122623b79d5af",
@@ -14,6 +14,8 @@
     "a137075558a349b5",
     "4e2a2210add07673",
     "89bc19914974f9d0",
+    "7dba62a0af2d5858",
+    "f753743d8fc48de4",
     "6b5e8cd2dae3b72c",
     "77cc2e2a453b6785",
     "4b20edcf4e28929d",
@@ -22,6 +24,7 @@
     "9c382453477d42ae",
     "c0d2fcf257597803",
     "247fa85d11c4c74b",
+    "c267714efa0b533c",
     "09863bf39ab86131",
     "49fb747a47ee9954",
     "055c204dedd8f01b",
@@ -31,7 +34,8 @@
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "599a3f6f16e0acc8"
   ],
   "products": {
     "9ecef5773aef3efd": {
@@ -125,6 +129,20 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
     },
+    "7dba62a0af2d5858": {
+      "product_id": "7dba62a0af2d5858",
+      "name": "Sanglons clutch",
+      "color": "Black",
+      "price": "AU$14,920",
+      "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CK89/"
+    },
+    "f753743d8fc48de4": {
+      "product_id": "f753743d8fc48de4",
+      "name": "Mallette bag",
+      "color": "Beige/Natural",
+      "price": "AU$15,695",
+      "url": "https://www.hermes.com/au/en/product/mallette-bag-H087970CT37/"
+    },
     "6b5e8cd2dae3b72c": {
       "product_id": "6b5e8cd2dae3b72c",
       "name": "Jypsiere mini bag",
@@ -180,6 +198,13 @@
       "color": "Blue",
       "price": "AU$5,970",
       "url": "https://www.hermes.com/au/en/product/herbag-zip-31-laque-bag-H084267CCAH/"
+    },
+    "c267714efa0b533c": {
+      "product_id": "c267714efa0b533c",
+      "name": "Plume mini bag",
+      "color": "Beige/Natural",
+      "price": "AU$12,270",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK18/"
     },
     "09863bf39ab86131": {
       "product_id": "09863bf39ab86131",
@@ -250,6 +275,13 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "599a3f6f16e0acc8": {
+      "product_id": "599a3f6f16e0acc8",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "Black",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCAV/"
     }
   }
 }
