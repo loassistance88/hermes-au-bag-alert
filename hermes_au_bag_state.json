@@ -1,11 +1,12 @@
 {
-  "last_checked_at": "2026-09-18T06:01:44.101591+00:00",
+  "last_checked_at": "2026-09-18T11:06:13.799770+00:00",
   "seen_ids": [
     "9ecef5773aef3efd",
     "1a1122623b79d5af",
-    "f147e4210c396f42",
     "f3b3af60a69af148",
     "17b5a510aae35cfb",
+    "49fb747a47ee9954",
+    "7dba62a0af2d5858",
     "0c5b5e17a6de0714",
     "56b137b7fc6445c7",
     "a87b64a78aa48006",
@@ -13,20 +14,18 @@
     "12e8ffd2df57247c",
     "a137075558a349b5",
     "4e2a2210add07673",
-    "89bc19914974f9d0",
-    "7dba62a0af2d5858",
     "f753743d8fc48de4",
+    "bab153afe9971f55",
+    "89bc19914974f9d0",
     "6b5e8cd2dae3b72c",
     "77cc2e2a453b6785",
     "4b20edcf4e28929d",
-    "bab153afe9971f55",
     "b41c0ed2753a557d",
     "9c382453477d42ae",
     "c0d2fcf257597803",
     "247fa85d11c4c74b",
     "c267714efa0b533c",
     "09863bf39ab86131",
-    "49fb747a47ee9954",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
@@ -34,7 +33,8 @@
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "a28a2c61527dc6e2"
   ],
   "products": {
     "9ecef5773aef3efd": {
@@ -51,13 +51,6 @@
       "price": "AU$6,965",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H085942CKAD/"
     },
-    "f147e4210c396f42": {
-      "product_id": "f147e4210c396f42",
-      "name": "Herbag Zip 31 bag",
-      "color": "Black",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCAA/"
-    },
     "f3b3af60a69af148": {
       "product_id": "f3b3af60a69af148",
       "name": "Bridon bag",
@@ -71,6 +64,20 @@
       "color": "Black",
       "price": "AU$5,395",
       "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CCAI/"
+    },
+    "49fb747a47ee9954": {
+      "product_id": "49fb747a47ee9954",
+      "name": "24/24 - 21 bag",
+      "color": "Black",
+      "price": "AU$21,770",
+      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
+    },
+    "7dba62a0af2d5858": {
+      "product_id": "7dba62a0af2d5858",
+      "name": "Sanglons clutch",
+      "color": "Black",
+      "price": "AU$14,920",
+      "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CK89/"
     },
     "0c5b5e17a6de0714": {
       "product_id": "0c5b5e17a6de0714",
@@ -121,26 +128,26 @@
       "price": "AU$8,730",
       "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CKAD/"
     },
-    "89bc19914974f9d0": {
-      "product_id": "89bc19914974f9d0",
-      "name": "Evelyne III 29 bag",
-      "color": "Beige/Natural",
-      "price": "AU$6,745",
-      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
-    },
-    "7dba62a0af2d5858": {
-      "product_id": "7dba62a0af2d5858",
-      "name": "Sanglons clutch",
-      "color": "Black",
-      "price": "AU$14,920",
-      "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CK89/"
-    },
     "f753743d8fc48de4": {
       "product_id": "f753743d8fc48de4",
       "name": "Mallette bag",
       "color": "Beige/Natural",
       "price": "AU$15,695",
       "url": "https://www.hermes.com/au/en/product/mallette-bag-H087970CT37/"
+    },
+    "bab153afe9971f55": {
+      "product_id": "bab153afe9971f55",
+      "name": "Plume 28 bag",
+      "color": "Beige/Natural",
+      "price": "AU$17,460",
+      "url": "https://www.hermes.com/au/en/product/plume-28-bag-H087095CK37/"
+    },
+    "89bc19914974f9d0": {
+      "product_id": "89bc19914974f9d0",
+      "name": "Evelyne III 29 bag",
+      "color": "Beige/Natural",
+      "price": "AU$6,745",
+      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
     },
     "6b5e8cd2dae3b72c": {
       "product_id": "6b5e8cd2dae3b72c",
@@ -162,13 +169,6 @@
       "color": "Purple",
       "price": "AU$5,040",
       "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H069573CKDO/"
-    },
-    "bab153afe9971f55": {
-      "product_id": "bab153afe9971f55",
-      "name": "Plume 28 bag",
-      "color": "Beige/Natural",
-      "price": "AU$17,460",
-      "url": "https://www.hermes.com/au/en/product/plume-28-bag-H087095CK37/"
     },
     "b41c0ed2753a557d": {
       "product_id": "b41c0ed2753a557d",
@@ -211,13 +211,6 @@
       "color": "Black",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK89/"
-    },
-    "49fb747a47ee9954": {
-      "product_id": "49fb747a47ee9954",
-      "name": "24/24 - 21 bag",
-      "color": "Black",
-      "price": "AU$21,770",
-      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
     },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
@@ -274,6 +267,13 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "a28a2c61527dc6e2": {
+      "product_id": "a28a2c61527dc6e2",
+      "name": "Mallette bag",
+      "color": "Black",
+      "price": "AU$21,660",
+      "url": "https://www.hermes.com/au/en/product/mallette-bag-H087960CT89/"
     }
   }
 }
