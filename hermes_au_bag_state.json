@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-09-20T01:33:39.004435+00:00",
+  "last_checked_at": "2026-09-20T06:57:33.887928+00:00",
   "seen_ids": [
     "9ecef5773aef3efd",
     "1a1122623b79d5af",
@@ -25,6 +25,7 @@
     "247fa85d11c4c74b",
     "c267714efa0b533c",
     "09863bf39ab86131",
+    "a28a2c61527dc6e2",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
@@ -32,8 +33,7 @@
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68",
-    "a28a2c61527dc6e2"
+    "5279376f4fdb7e68"
   ],
   "products": {
     "9ecef5773aef3efd": {
@@ -204,6 +204,13 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK89/"
     },
+    "a28a2c61527dc6e2": {
+      "product_id": "a28a2c61527dc6e2",
+      "name": "Mallette bag",
+      "color": "Black",
+      "price": "AU$21,660",
+      "url": "https://www.hermes.com/au/en/product/mallette-bag-H087960CT89/"
+    },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
       "name": "Hermès Videpoches bag",
@@ -259,13 +266,6 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "a28a2c61527dc6e2": {
-      "product_id": "a28a2c61527dc6e2",
-      "name": "Mallette bag",
-      "color": "Black",
-      "price": "AU$21,660",
-      "url": "https://www.hermes.com/au/en/product/mallette-bag-H087960CT89/"
     }
   }
 }
