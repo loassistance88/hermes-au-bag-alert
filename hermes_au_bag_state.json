@@ -1,6 +1,7 @@
 {
-  "last_checked_at": "2026-09-20T12:13:22.851441+00:00",
+  "last_checked_at": "2026-09-20T16:13:39.621652+00:00",
   "seen_ids": [
+    "3e710c3c7fb49c00",
     "9ecef5773aef3efd",
     "1a1122623b79d5af",
     "f3b3af60a69af148",
@@ -36,6 +37,13 @@
     "5279376f4fdb7e68"
   ],
   "products": {
+    "3e710c3c7fb49c00": {
+      "product_id": "3e710c3c7fb49c00",
+      "name": "Picotin Lock 18 bag",
+      "color": "Orange",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK5K/"
+    },
     "9ecef5773aef3efd": {
       "product_id": "9ecef5773aef3efd",
       "name": "Double Longe bag",
