@@ -1,7 +1,6 @@
 {
-  "last_checked_at": "2026-09-21T06:26:52.672651+00:00",
+  "last_checked_at": "2026-09-21T13:13:53.945156+00:00",
   "seen_ids": [
-    "3e710c3c7fb49c00",
     "9ecef5773aef3efd",
     "1a1122623b79d5af",
     "f3b3af60a69af148",
@@ -11,7 +10,6 @@
     "56b137b7fc6445c7",
     "a87b64a78aa48006",
     "efbffb22f1474ef5",
-    "e801c086ebe4c9ae",
     "12e8ffd2df57247c",
     "a137075558a349b5",
     "4e2a2210add07673",
@@ -30,7 +28,6 @@
     "09863bf39ab86131",
     "217d60d61dd7922b",
     "00bdb46345363977",
-    "bdf82dbfd7a77c79",
     "a28a2c61527dc6e2",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
@@ -42,13 +39,6 @@
     "5279376f4fdb7e68"
   ],
   "products": {
-    "3e710c3c7fb49c00": {
-      "product_id": "3e710c3c7fb49c00",
-      "name": "Picotin Lock 18 bag",
-      "color": "Orange",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK5K/"
-    },
     "9ecef5773aef3efd": {
       "product_id": "9ecef5773aef3efd",
       "name": "Double Longe bag",
@@ -111,13 +101,6 @@
       "color": "Beige/Natural",
       "price": "AU$9,285",
       "url": "https://www.hermes.com/au/en/product/arcon-slim-bag-H087032CPAB/"
-    },
-    "e801c086ebe4c9ae": {
-      "product_id": "e801c086ebe4c9ae",
-      "name": "Plume mini bag",
-      "color": "White",
-      "price": "AU$12,270",
-      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK10/"
     },
     "12e8ffd2df57247c": {
       "product_id": "12e8ffd2df57247c",
@@ -244,13 +227,6 @@
       "color": "Black",
       "price": "AU$15,805",
       "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H071205CK89/"
-    },
-    "bdf82dbfd7a77c79": {
-      "product_id": "bdf82dbfd7a77c79",
-      "name": "Picotin Lock 22 bag",
-      "color": "Green",
-      "price": "AU$6,520",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CCV8/"
     },
     "a28a2c61527dc6e2": {
       "product_id": "a28a2c61527dc6e2",
