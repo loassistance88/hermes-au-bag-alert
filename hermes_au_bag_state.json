@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-09-22T05:59:33.875820+00:00",
+  "last_checked_at": "2026-09-22T11:26:08.162974+00:00",
   "seen_ids": [
     "9ecef5773aef3efd",
     "e49cb5637448929b",
@@ -7,6 +7,8 @@
     "f3b3af60a69af148",
     "a47dcd666da28e71",
     "49fb747a47ee9954",
+    "217d60d61dd7922b",
+    "5442147f7e425e4d",
     "0c5b5e17a6de0714",
     "a137075558a349b5",
     "12e8ffd2df57247c",
@@ -15,9 +17,9 @@
     "1f6d250306d35084",
     "56b137b7fc6445c7",
     "a87b64a78aa48006",
+    "ec4b8345ddf0c3dd",
     "c267714efa0b533c",
     "4e2a2210add07673",
-    "5442147f7e425e4d",
     "efbffb22f1474ef5",
     "f753743d8fc48de4",
     "bab153afe9971f55",
@@ -30,7 +32,6 @@
     "c0d2fcf257597803",
     "247fa85d11c4c74b",
     "09863bf39ab86131",
-    "217d60d61dd7922b",
     "00bdb46345363977",
     "a28a2c61527dc6e2",
     "055c204dedd8f01b",
@@ -84,6 +85,20 @@
       "color": "Black",
       "price": "AU$21,770",
       "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
+    },
+    "217d60d61dd7922b": {
+      "product_id": "217d60d61dd7922b",
+      "name": "Hermès In-the-Loop 18 bag",
+      "color": "Black",
+      "price": "AU$8,400",
+      "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAC/"
+    },
+    "5442147f7e425e4d": {
+      "product_id": "5442147f7e425e4d",
+      "name": "Herbag Zip 31 bag",
+      "color": "Black",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAI/"
     },
     "0c5b5e17a6de0714": {
       "product_id": "0c5b5e17a6de0714",
@@ -141,6 +156,13 @@
       "price": "AU$22,100",
       "url": "https://www.hermes.com/au/en/product/petit-tour-34-bag-H087025CC34/"
     },
+    "ec4b8345ddf0c3dd": {
+      "product_id": "ec4b8345ddf0c3dd",
+      "name": "Neo Double Sens 35 unicolor bag",
+      "color": "Beige/Natural",
+      "price": "AU$8,955",
+      "url": "https://www.hermes.com/au/en/product/neo-double-sens-35-unicolor-bag-H087188CA18/"
+    },
     "c267714efa0b533c": {
       "product_id": "c267714efa0b533c",
       "name": "Plume mini bag",
@@ -154,13 +176,6 @@
       "color": "Grey",
       "price": "AU$8,730",
       "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CKAD/"
-    },
-    "5442147f7e425e4d": {
-      "product_id": "5442147f7e425e4d",
-      "name": "Herbag Zip 31 bag",
-      "color": "Black",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAI/"
     },
     "efbffb22f1474ef5": {
       "product_id": "efbffb22f1474ef5",
@@ -245,13 +260,6 @@
       "color": "Black",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK89/"
-    },
-    "217d60d61dd7922b": {
-      "product_id": "217d60d61dd7922b",
-      "name": "Hermès In-the-Loop 18 bag",
-      "color": "Black",
-      "price": "AU$8,400",
-      "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAC/"
     },
     "00bdb46345363977": {
       "product_id": "00bdb46345363977",
