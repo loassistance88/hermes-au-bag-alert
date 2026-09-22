@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-09-21T22:19:15.452665+00:00",
+  "last_checked_at": "2026-09-22T00:56:29.423996+00:00",
   "seen_ids": [
     "9ecef5773aef3efd",
     "1a1122623b79d5af",
@@ -22,9 +22,11 @@
     "4b20edcf4e28929d",
     "b41c0ed2753a557d",
     "9c382453477d42ae",
+    "a47dcd666da28e71",
     "c0d2fcf257597803",
     "247fa85d11c4c74b",
     "c267714efa0b533c",
+    "1f6d250306d35084",
     "09863bf39ab86131",
     "217d60d61dd7922b",
     "00bdb46345363977",
@@ -35,6 +37,7 @@
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
+    "d4d9ad67cd3790a0",
     "b2eedae3277a8680",
     "5279376f4fdb7e68"
   ],
@@ -186,6 +189,13 @@
       "price": "AU$12,490",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK89/"
     },
+    "a47dcd666da28e71": {
+      "product_id": "a47dcd666da28e71",
+      "name": "Jypsiere mini bag",
+      "color": "Black",
+      "price": "AU$15,140",
+      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CK89/"
+    },
     "c0d2fcf257597803": {
       "product_id": "c0d2fcf257597803",
       "name": "Lassoie Hermès bag",
@@ -206,6 +216,13 @@
       "color": "Beige/Natural",
       "price": "AU$12,270",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK18/"
+    },
+    "1f6d250306d35084": {
+      "product_id": "1f6d250306d35084",
+      "name": "Faubourg Express bag",
+      "color": "Black",
+      "price": "AU$17,460",
+      "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086409CC89/"
     },
     "09863bf39ab86131": {
       "product_id": "09863bf39ab86131",
@@ -276,6 +293,13 @@
       "color": "Beige/Natural",
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
+    },
+    "d4d9ad67cd3790a0": {
+      "product_id": "d4d9ad67cd3790a0",
+      "name": "Neo Medor clutch",
+      "color": "Beige/Natural",
+      "price": "AU$20,115",
+      "url": "https://www.hermes.com/au/en/product/neo-medor-clutch-H085741CK89/"
     },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
