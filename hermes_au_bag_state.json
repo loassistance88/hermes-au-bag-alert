@@ -1,7 +1,8 @@
 {
-  "last_checked_at": "2026-09-23T05:10:10.284347+00:00",
+  "last_checked_at": "2026-09-23T10:00:29.882576+00:00",
   "seen_ids": [
     "9ecef5773aef3efd",
+    "e49cb5637448929b",
     "1a1122623b79d5af",
     "f3b3af60a69af148",
     "a47dcd666da28e71",
@@ -32,6 +33,7 @@
     "247fa85d11c4c74b",
     "09863bf39ab86131",
     "00bdb46345363977",
+    "718dfa192a6b49af",
     "a28a2c61527dc6e2",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
@@ -39,6 +41,7 @@
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
+    "9a8aae6ec8f0b03d",
     "b2eedae3277a8680",
     "5279376f4fdb7e68"
   ],
@@ -49,6 +52,13 @@
       "color": "Black",
       "price": "AU$10,830",
       "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAB/"
+    },
+    "e49cb5637448929b": {
+      "product_id": "e49cb5637448929b",
+      "name": "Evelyne 16 Sellier bag",
+      "color": "Black",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-sellier-bag-H087080CC89/"
     },
     "1a1122623b79d5af": {
       "product_id": "1a1122623b79d5af",
@@ -260,6 +270,13 @@
       "price": "AU$15,805",
       "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H071205CK89/"
     },
+    "718dfa192a6b49af": {
+      "product_id": "718dfa192a6b49af",
+      "name": "Jige Elan 29 clutch",
+      "color": "Beige/Natural",
+      "price": "AU$8,070",
+      "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA37/"
+    },
     "a28a2c61527dc6e2": {
       "product_id": "a28a2c61527dc6e2",
       "name": "Mallette bag",
@@ -308,6 +325,13 @@
       "color": "Beige/Natural",
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
+    },
+    "9a8aae6ec8f0b03d": {
+      "product_id": "9a8aae6ec8f0b03d",
+      "name": "Evelyne 16 Sellier bag",
+      "color": "Beige/Natural",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-sellier-bag-H087080CK18/"
     },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
