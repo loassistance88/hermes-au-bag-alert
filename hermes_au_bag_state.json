@@ -1,6 +1,7 @@
 {
-  "last_checked_at": "2026-09-24T05:16:48.130611+00:00",
+  "last_checked_at": "2026-09-24T10:12:32.256219+00:00",
   "seen_ids": [
+    "ec6a65468d30d723",
     "9ecef5773aef3efd",
     "1a1122623b79d5af",
     "f3b3af60a69af148",
@@ -38,11 +39,18 @@
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
+    "4328a9cd67a1b5e1",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68",
-    "a04a3dc5297ac00c"
+    "5279376f4fdb7e68"
   ],
   "products": {
+    "ec6a65468d30d723": {
+      "product_id": "ec6a65468d30d723",
+      "name": "Plume mini bag",
+      "color": "Red",
+      "price": "AU$12,490",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CC55/"
+    },
     "9ecef5773aef3efd": {
       "product_id": "9ecef5773aef3efd",
       "name": "Double Longe bag",
@@ -302,6 +310,13 @@
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
     },
+    "4328a9cd67a1b5e1": {
+      "product_id": "4328a9cd67a1b5e1",
+      "name": "Medor bag",
+      "color": "Black",
+      "price": "AU$18,015",
+      "url": "https://www.hermes.com/au/en/product/medor-bag-H085055CKAA/"
+    },
     "b2eedae3277a8680": {
       "product_id": "b2eedae3277a8680",
       "name": "Neo Garden Voyage 41 bag",
@@ -315,13 +330,6 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "a04a3dc5297ac00c": {
-      "product_id": "a04a3dc5297ac00c",
-      "name": "Picotin Lock 18 bag",
-      "color": "White",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK10/"
     }
   }
 }
