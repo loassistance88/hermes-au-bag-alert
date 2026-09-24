@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-09-23T22:08:02.601754+00:00",
+  "last_checked_at": "2026-09-24T00:29:20.456485+00:00",
   "seen_ids": [
     "9ecef5773aef3efd",
     "e49cb5637448929b",
     "1a1122623b79d5af",
     "f3b3af60a69af148",
-    "a47dcd666da28e71",
     "49fb747a47ee9954",
     "217d60d61dd7922b",
     "5442147f7e425e4d",
@@ -13,7 +12,6 @@
     "a137075558a349b5",
     "12e8ffd2df57247c",
     "7dba62a0af2d5858",
-    "d4d9ad67cd3790a0",
     "1f6d250306d35084",
     "56b137b7fc6445c7",
     "a87b64a78aa48006",
@@ -42,7 +40,8 @@
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "6d61f6b3752029e6"
   ],
   "products": {
     "9ecef5773aef3efd": {
@@ -72,13 +71,6 @@
       "color": "Black",
       "price": "AU$24,090",
       "url": "https://www.hermes.com/au/en/product/bridon-bag-H088027CKAA/"
-    },
-    "a47dcd666da28e71": {
-      "product_id": "a47dcd666da28e71",
-      "name": "Jypsiere mini bag",
-      "color": "Black",
-      "price": "AU$15,140",
-      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CK89/"
     },
     "49fb747a47ee9954": {
       "product_id": "49fb747a47ee9954",
@@ -128,13 +120,6 @@
       "color": "Black",
       "price": "AU$14,920",
       "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CK89/"
-    },
-    "d4d9ad67cd3790a0": {
-      "product_id": "d4d9ad67cd3790a0",
-      "name": "Neo Medor clutch",
-      "color": "Beige/Natural",
-      "price": "AU$20,115",
-      "url": "https://www.hermes.com/au/en/product/neo-medor-clutch-H085741CK89/"
     },
     "1f6d250306d35084": {
       "product_id": "1f6d250306d35084",
@@ -338,6 +323,13 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "6d61f6b3752029e6": {
+      "product_id": "6d61f6b3752029e6",
+      "name": "Picotin Lock 18 bag",
+      "color": "Beige/Natural",
+      "price": "AU$6,745",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H077913CK34/"
     }
   }
 }
