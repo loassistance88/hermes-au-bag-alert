@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-09-25T10:29:22.713891+00:00",
+  "last_checked_at": "2026-09-25T15:30:45.784655+00:00",
   "seen_ids": [
     "ec6a65468d30d723",
     "27ab331aeec5d087",
@@ -27,6 +27,7 @@
     "09863bf39ab86131",
     "00bdb46345363977",
     "718dfa192a6b49af",
+    "b5300e269b397c84",
     "a28a2c61527dc6e2",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
@@ -38,7 +39,7 @@
     "4328a9cd67a1b5e1",
     "b2eedae3277a8680",
     "5279376f4fdb7e68",
-    "82c5686368dc4428"
+    "55d699b32fd6de63"
   ],
   "products": {
     "ec6a65468d30d723": {
@@ -223,6 +224,13 @@
       "price": "AU$8,070",
       "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA37/"
     },
+    "b5300e269b397c84": {
+      "product_id": "b5300e269b397c84",
+      "name": "Herbag Zip 20 bag",
+      "color": "Black",
+      "price": "AU$4,885",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CKAA/"
+    },
     "a28a2c61527dc6e2": {
       "product_id": "a28a2c61527dc6e2",
       "name": "Mallette bag",
@@ -300,12 +308,12 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
     },
-    "82c5686368dc4428": {
-      "product_id": "82c5686368dc4428",
-      "name": "Picotin Lock 22 bag",
-      "color": "Blue",
-      "price": "AU$6,520",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CC3Y/"
+    "55d699b32fd6de63": {
+      "product_id": "55d699b32fd6de63",
+      "name": "Herbag Zip 20 bag",
+      "color": "Black",
+      "price": "AU$4,885",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAA/"
     }
   }
 }
