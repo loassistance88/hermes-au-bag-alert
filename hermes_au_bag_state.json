@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-09-24T22:28:38.364619+00:00",
+  "last_checked_at": "2026-09-25T00:44:27.563851+00:00",
   "seen_ids": [
     "ec6a65468d30d723",
     "9ecef5773aef3efd",
@@ -19,6 +19,7 @@
     "4e2a2210add07673",
     "efbffb22f1474ef5",
     "f753743d8fc48de4",
+    "835704c7490e05ad",
     "bab153afe9971f55",
     "89bc19914974f9d0",
     "6b5e8cd2dae3b72c",
@@ -28,9 +29,11 @@
     "9c382453477d42ae",
     "c0d2fcf257597803",
     "247fa85d11c4c74b",
+    "e9599f03ef3a10e8",
     "09863bf39ab86131",
     "00bdb46345363977",
     "718dfa192a6b49af",
+    "b5300e269b397c84",
     "a28a2c61527dc6e2",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
@@ -38,6 +41,7 @@
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
+    "7375d40ff4452371",
     "4328a9cd67a1b5e1",
     "b2eedae3277a8680",
     "5279376f4fdb7e68"
@@ -169,6 +173,13 @@
       "price": "AU$15,695",
       "url": "https://www.hermes.com/au/en/product/mallette-bag-H087970CT37/"
     },
+    "835704c7490e05ad": {
+      "product_id": "835704c7490e05ad",
+      "name": "Herbag Zip 20 bag",
+      "color": "Beige/Natural",
+      "price": "AU$4,885",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CKAN/"
+    },
     "bab153afe9971f55": {
       "product_id": "bab153afe9971f55",
       "name": "Plume 28 bag",
@@ -232,6 +243,13 @@
       "price": "AU$5,970",
       "url": "https://www.hermes.com/au/en/product/herbag-zip-31-laque-bag-H084267CCAH/"
     },
+    "e9599f03ef3a10e8": {
+      "product_id": "e9599f03ef3a10e8",
+      "name": "Herbag Zip 31 bag",
+      "color": "Black",
+      "price": "AU$5,640",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H072069CKAA/"
+    },
     "09863bf39ab86131": {
       "product_id": "09863bf39ab86131",
       "name": "Evelyne III 29 bag",
@@ -252,6 +270,13 @@
       "color": "Beige/Natural",
       "price": "AU$8,070",
       "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA37/"
+    },
+    "b5300e269b397c84": {
+      "product_id": "b5300e269b397c84",
+      "name": "Herbag Zip 20 bag",
+      "color": "Black",
+      "price": "AU$4,885",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CKAA/"
     },
     "a28a2c61527dc6e2": {
       "product_id": "a28a2c61527dc6e2",
@@ -301,6 +326,13 @@
       "color": "Beige/Natural",
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
+    },
+    "7375d40ff4452371": {
+      "product_id": "7375d40ff4452371",
+      "name": "Herbag Zip 31 bag",
+      "color": "Beige/Natural",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAG/"
     },
     "4328a9cd67a1b5e1": {
       "product_id": "4328a9cd67a1b5e1",
