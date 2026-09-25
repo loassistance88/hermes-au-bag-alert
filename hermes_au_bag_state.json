@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-09-25T05:28:06.037461+00:00",
+  "last_checked_at": "2026-09-25T10:29:22.713891+00:00",
   "seen_ids": [
     "ec6a65468d30d723",
+    "27ab331aeec5d087",
     "9ecef5773aef3efd",
     "1a1122623b79d5af",
     "f3b3af60a69af148",
-    "49fb747a47ee9954",
     "5442147f7e425e4d",
     "0c5b5e17a6de0714",
     "a137075558a349b5",
@@ -34,10 +34,11 @@
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
-    "7375d40ff4452371",
+    "23e7026ee707d217",
     "4328a9cd67a1b5e1",
     "b2eedae3277a8680",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "82c5686368dc4428"
   ],
   "products": {
     "ec6a65468d30d723": {
@@ -46,6 +47,13 @@
       "color": "Red",
       "price": "AU$12,490",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CC55/"
+    },
+    "27ab331aeec5d087": {
+      "product_id": "27ab331aeec5d087",
+      "name": "Picotin Lock 18 bag",
+      "color": "Red",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
     },
     "9ecef5773aef3efd": {
       "product_id": "9ecef5773aef3efd",
@@ -67,13 +75,6 @@
       "color": "Black",
       "price": "AU$24,090",
       "url": "https://www.hermes.com/au/en/product/bridon-bag-H088027CKAA/"
-    },
-    "49fb747a47ee9954": {
-      "product_id": "49fb747a47ee9954",
-      "name": "24/24 - 21 bag",
-      "color": "Black",
-      "price": "AU$21,770",
-      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
     },
     "5442147f7e425e4d": {
       "product_id": "5442147f7e425e4d",
@@ -271,12 +272,12 @@
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
     },
-    "7375d40ff4452371": {
-      "product_id": "7375d40ff4452371",
-      "name": "Herbag Zip 31 bag",
+    "23e7026ee707d217": {
+      "product_id": "23e7026ee707d217",
+      "name": "Herbag Zip 20 bag",
       "color": "Beige/Natural",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAG/"
+      "price": "AU$4,885",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H085414CKAF/"
     },
     "4328a9cd67a1b5e1": {
       "product_id": "4328a9cd67a1b5e1",
@@ -298,6 +299,13 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "82c5686368dc4428": {
+      "product_id": "82c5686368dc4428",
+      "name": "Picotin Lock 22 bag",
+      "color": "Blue",
+      "price": "AU$6,520",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CC3Y/"
     }
   }
 }
