@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-02T01:35:59.828143+00:00",
+  "last_checked_at": "2026-10-02T07:30:33.766831+00:00",
   "seen_ids": [
     "9ec20fd0efb982f9",
     "a28a2c61527dc6e2",
@@ -11,12 +11,13 @@
     "9ecef5773aef3efd",
     "f3b3af60a69af148",
     "a51b6eb39b130cd6",
-    "04acb32db5dd377b",
     "09863bf39ab86131",
     "3e710c3c7fb49c00",
     "4b20edcf4e28929d",
     "27ab331aeec5d087",
+    "e49cb5637448929b",
     "1a1122623b79d5af",
+    "f147e4210c396f42",
     "0c5b5e17a6de0714",
     "12e8ffd2df57247c",
     "4a5a141eddf727f5",
@@ -29,13 +30,17 @@
     "247fa85d11c4c74b",
     "51c5c910e99aaaff",
     "02802aa49caec196",
+    "e95c49d39f025582",
     "055c204dedd8f01b",
     "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
+    "9a8aae6ec8f0b03d",
+    "d6e6abb91a33cde3",
     "5279376f4fdb7e68",
-    "c8cf7714321140b1"
+    "c8cf7714321140b1",
+    "c59fc6bbf5c1c9dd"
   ],
   "products": {
     "9ec20fd0efb982f9": {
@@ -108,13 +113,6 @@
       "price": "AU$17,460",
       "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086409CK89/"
     },
-    "04acb32db5dd377b": {
-      "product_id": "04acb32db5dd377b",
-      "name": "Herbag Zip 31 bag",
-      "color": "Red",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCCQ/"
-    },
     "09863bf39ab86131": {
       "product_id": "09863bf39ab86131",
       "name": "Evelyne III 29 bag",
@@ -143,12 +141,26 @@
       "price": "AU$6,080",
       "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
     },
+    "e49cb5637448929b": {
+      "product_id": "e49cb5637448929b",
+      "name": "Evelyne 16 Sellier bag",
+      "color": "Black",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-sellier-bag-H087080CC89/"
+    },
     "1a1122623b79d5af": {
       "product_id": "1a1122623b79d5af",
       "name": "Evelyne III 29 bag",
       "color": "Beige/Natural",
       "price": "AU$6,965",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H085942CKAD/"
+    },
+    "f147e4210c396f42": {
+      "product_id": "f147e4210c396f42",
+      "name": "Herbag Zip 31 bag",
+      "color": "Black",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCAA/"
     },
     "0c5b5e17a6de0714": {
       "product_id": "0c5b5e17a6de0714",
@@ -234,6 +246,13 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK37/"
     },
+    "e95c49d39f025582": {
+      "product_id": "e95c49d39f025582",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "Beige/Natural",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CKCJ/"
+    },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
       "name": "Hermès Videpoches bag",
@@ -269,6 +288,20 @@
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
     },
+    "9a8aae6ec8f0b03d": {
+      "product_id": "9a8aae6ec8f0b03d",
+      "name": "Evelyne 16 Sellier bag",
+      "color": "Beige/Natural",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-sellier-bag-H087080CK18/"
+    },
+    "d6e6abb91a33cde3": {
+      "product_id": "d6e6abb91a33cde3",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "Black",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CKAD/"
+    },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
       "name": "Neo Garden Voyage 41 bag",
@@ -282,6 +315,13 @@
       "color": "Beige/Natural",
       "price": "AU$8,510",
       "url": "https://www.hermes.com/au/en/product/p-tit-arcon-toile-and-cuir-bag-H086394CKAA/"
+    },
+    "c59fc6bbf5c1c9dd": {
+      "product_id": "c59fc6bbf5c1c9dd",
+      "name": "Plume mini bag",
+      "color": "Beige/Natural",
+      "price": "AU$12,270",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK37/"
     }
   }
 }
