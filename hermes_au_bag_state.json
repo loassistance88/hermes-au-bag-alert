@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-01T22:00:12.186209+00:00",
+  "last_checked_at": "2026-10-02T01:35:59.828143+00:00",
   "seen_ids": [
     "9ec20fd0efb982f9",
     "a28a2c61527dc6e2",
@@ -34,8 +34,8 @@
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
-    "7375d40ff4452371",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "c8cf7714321140b1"
   ],
   "products": {
     "9ec20fd0efb982f9": {
@@ -269,19 +269,19 @@
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
     },
-    "7375d40ff4452371": {
-      "product_id": "7375d40ff4452371",
-      "name": "Herbag Zip 31 bag",
-      "color": "Beige/Natural",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAG/"
-    },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
       "name": "Neo Garden Voyage 41 bag",
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "c8cf7714321140b1": {
+      "product_id": "c8cf7714321140b1",
+      "name": "P'tit Arcon Toile & Cuir bag",
+      "color": "Beige/Natural",
+      "price": "AU$8,510",
+      "url": "https://www.hermes.com/au/en/product/p-tit-arcon-toile-and-cuir-bag-H086394CKAA/"
     }
   }
 }
