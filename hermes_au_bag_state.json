@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-10-03T12:43:10.978521+00:00",
+  "last_checked_at": "2026-10-03T16:46:06.907088+00:00",
   "seen_ids": [
     "a28a2c61527dc6e2",
     "c5ac6da9d45136ae",
     "4328a9cd67a1b5e1",
     "ff9e01f2bce1af0f",
-    "26c5d20f80ccdcf3",
     "b41c0ed2753a557d",
     "9ecef5773aef3efd",
     "f3b3af60a69af148",
@@ -32,6 +31,7 @@
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
+    "d6e6abb91a33cde3",
     "5279376f4fdb7e68",
     "c8cf7714321140b1",
     "c59fc6bbf5c1c9dd"
@@ -64,13 +64,6 @@
       "color": "Beige/Natural",
       "price": "AU$14,255",
       "url": "https://www.hermes.com/au/en/product/jypsiere-mini-toile-and-cuir-bag-H087119CCAF/"
-    },
-    "26c5d20f80ccdcf3": {
-      "product_id": "26c5d20f80ccdcf3",
-      "name": "Halzan mini bag",
-      "color": "Black",
-      "price": "AU$9,945",
-      "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CCAH/"
     },
     "b41c0ed2753a557d": {
       "product_id": "b41c0ed2753a557d",
@@ -253,6 +246,13 @@
       "color": "Beige/Natural",
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
+    },
+    "d6e6abb91a33cde3": {
+      "product_id": "d6e6abb91a33cde3",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "Black",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CKAD/"
     },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
