@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-02T23:03:14.822111+00:00",
+  "last_checked_at": "2026-10-03T01:53:17.792469+00:00",
   "seen_ids": [
     "a28a2c61527dc6e2",
     "c5ac6da9d45136ae",
@@ -11,7 +11,6 @@
     "f3b3af60a69af148",
     "a51b6eb39b130cd6",
     "09863bf39ab86131",
-    "3e710c3c7fb49c00",
     "4b20edcf4e28929d",
     "27ab331aeec5d087",
     "e49cb5637448929b",
@@ -34,7 +33,6 @@
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
-    "d6e6abb91a33cde3",
     "5279376f4fdb7e68",
     "c8cf7714321140b1",
     "c59fc6bbf5c1c9dd"
@@ -109,13 +107,6 @@
       "color": "Black",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK89/"
-    },
-    "3e710c3c7fb49c00": {
-      "product_id": "3e710c3c7fb49c00",
-      "name": "Picotin Lock 18 bag",
-      "color": "Orange",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK5K/"
     },
     "4b20edcf4e28929d": {
       "product_id": "4b20edcf4e28929d",
@@ -270,13 +261,6 @@
       "color": "Beige/Natural",
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
-    },
-    "d6e6abb91a33cde3": {
-      "product_id": "d6e6abb91a33cde3",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "Black",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CKAD/"
     },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
