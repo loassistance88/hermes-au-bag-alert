@@ -1,6 +1,7 @@
 {
-  "last_checked_at": "2026-10-05T02:21:31.551166+00:00",
+  "last_checked_at": "2026-10-05T09:22:02.269249+00:00",
   "seen_ids": [
+    "9ec20fd0efb982f9",
     "a28a2c61527dc6e2",
     "c5ac6da9d45136ae",
     "4328a9cd67a1b5e1",
@@ -10,9 +11,9 @@
     "f3b3af60a69af148",
     "a51b6eb39b130cd6",
     "09863bf39ab86131",
-    "3e710c3c7fb49c00",
     "4b20edcf4e28929d",
     "27ab331aeec5d087",
+    "e49cb5637448929b",
     "1a1122623b79d5af",
     "0c5b5e17a6de0714",
     "12e8ffd2df57247c",
@@ -36,6 +37,13 @@
     "c59fc6bbf5c1c9dd"
   ],
   "products": {
+    "9ec20fd0efb982f9": {
+      "product_id": "9ec20fd0efb982f9",
+      "name": "Sanglons clutch",
+      "color": "Grey",
+      "price": "AU$12,490",
+      "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H087969CK05/"
+    },
     "a28a2c61527dc6e2": {
       "product_id": "a28a2c61527dc6e2",
       "name": "Mallette bag",
@@ -99,13 +107,6 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK89/"
     },
-    "3e710c3c7fb49c00": {
-      "product_id": "3e710c3c7fb49c00",
-      "name": "Picotin Lock 18 bag",
-      "color": "Orange",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK5K/"
-    },
     "4b20edcf4e28929d": {
       "product_id": "4b20edcf4e28929d",
       "name": "Garden Party 30 bag",
@@ -119,6 +120,13 @@
       "color": "Red",
       "price": "AU$6,080",
       "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
+    },
+    "e49cb5637448929b": {
+      "product_id": "e49cb5637448929b",
+      "name": "Evelyne 16 Sellier bag",
+      "color": "Black",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-sellier-bag-H087080CC89/"
     },
     "1a1122623b79d5af": {
       "product_id": "1a1122623b79d5af",
