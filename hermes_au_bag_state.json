@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-06T00:21:54.368534+00:00",
+  "last_checked_at": "2026-10-06T07:06:48.541688+00:00",
   "seen_ids": [
     "a28a2c61527dc6e2",
     "c5ac6da9d45136ae",
@@ -15,6 +15,7 @@
     "1a1122623b79d5af",
     "0c5b5e17a6de0714",
     "12e8ffd2df57247c",
+    "7dba62a0af2d5858",
     "4a5a141eddf727f5",
     "f753743d8fc48de4",
     "bab153afe9971f55",
@@ -22,17 +23,24 @@
     "77cc2e2a453b6785",
     "c74b6ce29588f4e6",
     "1d28377bcf834adb",
+    "24a856d967b73f17",
     "247fa85d11c4c74b",
     "51c5c910e99aaaff",
     "02802aa49caec196",
+    "3fa06fa672e2bd95",
+    "00bdb46345363977",
+    "718dfa192a6b49af",
     "055c204dedd8f01b",
     "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
+    "8b87b8eb601c7fe5",
     "5279376f4fdb7e68",
     "c8cf7714321140b1",
-    "c59fc6bbf5c1c9dd"
+    "c59fc6bbf5c1c9dd",
+    "4a178e8cc3a1a50d",
+    "9ed59cb5b434b2a1"
   ],
   "products": {
     "a28a2c61527dc6e2": {
@@ -133,6 +141,13 @@
       "price": "AU$6,965",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H085942CKAC/"
     },
+    "7dba62a0af2d5858": {
+      "product_id": "7dba62a0af2d5858",
+      "name": "Sanglons clutch",
+      "color": "Black",
+      "price": "AU$14,920",
+      "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CK89/"
+    },
     "4a5a141eddf727f5": {
       "product_id": "4a5a141eddf727f5",
       "name": "Hermès Geta bag",
@@ -182,6 +197,13 @@
       "price": "AU$14,255",
       "url": "https://www.hermes.com/au/en/product/jypsiere-mini-toile-and-cuir-bag-H087119CKAB/"
     },
+    "24a856d967b73f17": {
+      "product_id": "24a856d967b73f17",
+      "name": "Plume mini bag",
+      "color": "Black",
+      "price": "AU$12,490",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CC89/"
+    },
     "247fa85d11c4c74b": {
       "product_id": "247fa85d11c4c74b",
       "name": "Herbag Zip 31 laque bag",
@@ -202,6 +224,27 @@
       "color": "Beige/Natural",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK37/"
+    },
+    "3fa06fa672e2bd95": {
+      "product_id": "3fa06fa672e2bd95",
+      "name": "Herbag Zip 31 bag",
+      "color": "Black",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CKAA/"
+    },
+    "00bdb46345363977": {
+      "product_id": "00bdb46345363977",
+      "name": "Roulis mini bag",
+      "color": "Black",
+      "price": "AU$15,805",
+      "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H071205CK89/"
+    },
+    "718dfa192a6b49af": {
+      "product_id": "718dfa192a6b49af",
+      "name": "Jige Elan 29 clutch",
+      "color": "Beige/Natural",
+      "price": "AU$8,070",
+      "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA37/"
     },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
@@ -238,6 +281,13 @@
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
     },
+    "8b87b8eb601c7fe5": {
+      "product_id": "8b87b8eb601c7fe5",
+      "name": "Herbag Zip 31 bag",
+      "color": "Beige/Natural",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKAR/"
+    },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
       "name": "Neo Garden Voyage 41 bag",
@@ -258,6 +308,20 @@
       "color": "Beige/Natural",
       "price": "AU$12,270",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK37/"
+    },
+    "4a178e8cc3a1a50d": {
+      "product_id": "4a178e8cc3a1a50d",
+      "name": "24/24 - 29 bag",
+      "color": "Black",
+      "price": "AU$18,565",
+      "url": "https://www.hermes.com/au/en/product/2424-29-bag-H075240CCAE/"
+    },
+    "9ed59cb5b434b2a1": {
+      "product_id": "9ed59cb5b434b2a1",
+      "name": "Jige Elan 29 clutch",
+      "color": "Black",
+      "price": "AU$8,070",
+      "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA89/"
     }
   }
 }
