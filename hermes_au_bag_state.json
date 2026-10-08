@@ -1,8 +1,7 @@
 {
-  "last_checked_at": "2026-10-08T01:04:11.051374+00:00",
+  "last_checked_at": "2026-10-08T07:18:13.101381+00:00",
   "seen_ids": [
     "a28a2c61527dc6e2",
-    "c5ac6da9d45136ae",
     "4328a9cd67a1b5e1",
     "ff9e01f2bce1af0f",
     "b41c0ed2753a557d",
@@ -11,11 +10,13 @@
     "a51b6eb39b130cd6",
     "09863bf39ab86131",
     "4b20edcf4e28929d",
-    "27ab331aeec5d087",
     "1a1122623b79d5af",
+    "49fb747a47ee9954",
+    "5442147f7e425e4d",
     "0c5b5e17a6de0714",
     "12e8ffd2df57247c",
     "7dba62a0af2d5858",
+    "f87bf06d2c4199b8",
     "4a5a141eddf727f5",
     "f753743d8fc48de4",
     "bab153afe9971f55",
@@ -24,22 +25,22 @@
     "1d28377bcf834adb",
     "24a856d967b73f17",
     "247fa85d11c4c74b",
+    "a3212d9265da7288",
     "51c5c910e99aaaff",
     "02802aa49caec196",
-    "3fa06fa672e2bd95",
     "00bdb46345363977",
-    "718dfa192a6b49af",
+    "a57544a8f51dcceb",
     "055c204dedd8f01b",
     "f54f3cd627e36ec3",
+    "204bfbd981243a2d",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
-    "8b87b8eb601c7fe5",
     "5279376f4fdb7e68",
     "c8cf7714321140b1",
-    "c59fc6bbf5c1c9dd",
     "4a178e8cc3a1a50d",
-    "9ed59cb5b434b2a1"
+    "9ed59cb5b434b2a1",
+    "77357eedd871c4ce"
   ],
   "products": {
     "a28a2c61527dc6e2": {
@@ -48,13 +49,6 @@
       "color": "Black",
       "price": "AU$21,660",
       "url": "https://www.hermes.com/au/en/product/mallette-bag-H087960CT89/"
-    },
-    "c5ac6da9d45136ae": {
-      "product_id": "c5ac6da9d45136ae",
-      "name": "Jige Elan 29 clutch",
-      "color": "Black",
-      "price": "AU$8,400",
-      "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H071240CAAQ/"
     },
     "4328a9cd67a1b5e1": {
       "product_id": "4328a9cd67a1b5e1",
@@ -112,19 +106,26 @@
       "price": "AU$5,040",
       "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H069573CKDO/"
     },
-    "27ab331aeec5d087": {
-      "product_id": "27ab331aeec5d087",
-      "name": "Picotin Lock 18 bag",
-      "color": "Red",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
-    },
     "1a1122623b79d5af": {
       "product_id": "1a1122623b79d5af",
       "name": "Evelyne III 29 bag",
       "color": "Beige/Natural",
       "price": "AU$6,965",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H085942CKAD/"
+    },
+    "49fb747a47ee9954": {
+      "product_id": "49fb747a47ee9954",
+      "name": "24/24 - 21 bag",
+      "color": "Black",
+      "price": "AU$21,770",
+      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
+    },
+    "5442147f7e425e4d": {
+      "product_id": "5442147f7e425e4d",
+      "name": "Herbag Zip 31 bag",
+      "color": "Black",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAI/"
     },
     "0c5b5e17a6de0714": {
       "product_id": "0c5b5e17a6de0714",
@@ -146,6 +147,13 @@
       "color": "Black",
       "price": "AU$14,920",
       "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CK89/"
+    },
+    "f87bf06d2c4199b8": {
+      "product_id": "f87bf06d2c4199b8",
+      "name": "Herbag Zip 31 laque bag",
+      "color": "Grey",
+      "price": "AU$5,970",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-laque-bag-H079093CCBB/"
     },
     "4a5a141eddf727f5": {
       "product_id": "4a5a141eddf727f5",
@@ -203,6 +211,13 @@
       "price": "AU$5,970",
       "url": "https://www.hermes.com/au/en/product/herbag-zip-31-laque-bag-H084267CCAH/"
     },
+    "a3212d9265da7288": {
+      "product_id": "a3212d9265da7288",
+      "name": "24/24 - 21 bag",
+      "color": "Beige/Natural",
+      "price": "AU$17,020",
+      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CKAI/"
+    },
     "51c5c910e99aaaff": {
       "product_id": "51c5c910e99aaaff",
       "name": "Seau Mousqueton bag",
@@ -217,13 +232,6 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK37/"
     },
-    "3fa06fa672e2bd95": {
-      "product_id": "3fa06fa672e2bd95",
-      "name": "Herbag Zip 31 bag",
-      "color": "Black",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CKAA/"
-    },
     "00bdb46345363977": {
       "product_id": "00bdb46345363977",
       "name": "Roulis mini bag",
@@ -231,12 +239,12 @@
       "price": "AU$15,805",
       "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H071205CK89/"
     },
-    "718dfa192a6b49af": {
-      "product_id": "718dfa192a6b49af",
-      "name": "Jige Elan 29 clutch",
-      "color": "Beige/Natural",
-      "price": "AU$8,070",
-      "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA37/"
+    "a57544a8f51dcceb": {
+      "product_id": "a57544a8f51dcceb",
+      "name": "Herbag Zip 20 bag",
+      "color": "Purple",
+      "price": "AU$4,885",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CKAS/"
     },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
@@ -251,6 +259,13 @@
       "color": "Black",
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
+    },
+    "204bfbd981243a2d": {
+      "product_id": "204bfbd981243a2d",
+      "name": "Herbag Zip 20 bag",
+      "color": "Green",
+      "price": "AU$4,885",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CKAR/"
     },
     "068836fdf2bdcd84": {
       "product_id": "068836fdf2bdcd84",
@@ -273,13 +288,6 @@
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
     },
-    "8b87b8eb601c7fe5": {
-      "product_id": "8b87b8eb601c7fe5",
-      "name": "Herbag Zip 31 bag",
-      "color": "Beige/Natural",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKAR/"
-    },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
       "name": "Neo Garden Voyage 41 bag",
@@ -294,13 +302,6 @@
       "price": "AU$8,510",
       "url": "https://www.hermes.com/au/en/product/p-tit-arcon-toile-and-cuir-bag-H086394CKAA/"
     },
-    "c59fc6bbf5c1c9dd": {
-      "product_id": "c59fc6bbf5c1c9dd",
-      "name": "Plume mini bag",
-      "color": "Beige/Natural",
-      "price": "AU$12,270",
-      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK37/"
-    },
     "4a178e8cc3a1a50d": {
       "product_id": "4a178e8cc3a1a50d",
       "name": "24/24 - 29 bag",
@@ -314,6 +315,13 @@
       "color": "Black",
       "price": "AU$8,070",
       "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA89/"
+    },
+    "77357eedd871c4ce": {
+      "product_id": "77357eedd871c4ce",
+      "name": "Halzan mini bag",
+      "color": "Black",
+      "price": "AU$9,945",
+      "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CKAH/"
     }
   }
 }
