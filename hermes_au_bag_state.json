@@ -1,12 +1,11 @@
 {
-  "last_checked_at": "2026-10-12T08:06:43.815546+00:00",
+  "last_checked_at": "2026-10-12T17:51:59.738810+00:00",
   "seen_ids": [
     "2e2b4f5feab876ff",
     "d4d9ad67cd3790a0",
     "a51b6eb39b130cd6",
     "77357eedd871c4ce",
     "4328a9cd67a1b5e1",
-    "0c5b5e17a6de0714",
     "12e8ffd2df57247c",
     "bab153afe9971f55",
     "f87bf06d2c4199b8",
@@ -20,7 +19,6 @@
     "4a178e8cc3a1a50d",
     "b41c0ed2753a557d",
     "a3212d9265da7288",
-    "8bdde867528a4e6c",
     "1d28377bcf834adb",
     "9ecef5773aef3efd",
     "f3b3af60a69af148",
@@ -42,7 +40,6 @@
     "40fcbac9f9d46fe7",
     "ad25ee575fdb3b8a",
     "200a54d5cb97863e",
-    "10fbe1a8313587c4",
     "5279376f4fdb7e68"
   ],
   "products": {
@@ -80,13 +77,6 @@
       "color": "Black",
       "price": "AU$18,015",
       "url": "https://www.hermes.com/au/en/product/medor-bag-H085055CKAA/"
-    },
-    "0c5b5e17a6de0714": {
-      "product_id": "0c5b5e17a6de0714",
-      "name": "Roulis mini bag",
-      "color": "Beige/Natural",
-      "price": "AU$15,360",
-      "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H070510CP37/"
     },
     "12e8ffd2df57247c": {
       "product_id": "12e8ffd2df57247c",
@@ -178,13 +168,6 @@
       "color": "Beige/Natural",
       "price": "AU$17,020",
       "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CKAI/"
-    },
-    "8bdde867528a4e6c": {
-      "product_id": "8bdde867528a4e6c",
-      "name": "Lindy II mini bag Toile & Cuir",
-      "color": "Beige/Natural",
-      "price": "AU$15,250",
-      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-toile-and-cuir-H087946CKAF/"
     },
     "1d28377bcf834adb": {
       "product_id": "1d28377bcf834adb",
@@ -332,13 +315,6 @@
       "color": "Pink",
       "price": "AU$12,490",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK3Q/"
-    },
-    "10fbe1a8313587c4": {
-      "product_id": "10fbe1a8313587c4",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "Red",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKDV/"
     },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
