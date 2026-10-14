@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-10-14T07:43:14.649997+00:00",
+  "last_checked_at": "2026-10-14T13:06:26.353563+00:00",
   "seen_ids": [
     "49fb747a47ee9954",
     "d4d9ad67cd3790a0",
     "00bdb46345363977",
     "7dba62a0af2d5858",
-    "df1451dcb3549b31",
     "f8e8b3ea7535fcf8",
     "56b137b7fc6445c7",
     "a1f01cb9f3600aac",
@@ -20,7 +19,6 @@
     "9ed59cb5b434b2a1",
     "4a178e8cc3a1a50d",
     "09863bf39ab86131",
-    "b4c0441465de3500",
     "3c1e0faeab138049",
     "a2a37454872c1a8e",
     "59d97f18d888215c",
@@ -63,13 +61,6 @@
       "color": "Black",
       "price": "AU$14,920",
       "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CK89/"
-    },
-    "df1451dcb3549b31": {
-      "product_id": "df1451dcb3549b31",
-      "name": "Halzan mini bag",
-      "color": "Grey",
-      "price": "AU$9,945",
-      "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CKCD/"
     },
     "f8e8b3ea7535fcf8": {
       "product_id": "f8e8b3ea7535fcf8",
@@ -168,13 +159,6 @@
       "color": "Black",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK89/"
-    },
-    "b4c0441465de3500": {
-      "product_id": "b4c0441465de3500",
-      "name": "Herbag Zip 20 bag",
-      "color": "Green",
-      "price": "AU$4,885",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAQ/"
     },
     "3c1e0faeab138049": {
       "product_id": "3c1e0faeab138049",
