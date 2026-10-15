@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-15T21:36:36.118033+00:00",
+  "last_checked_at": "2026-10-15T23:51:29.325870+00:00",
   "seen_ids": [
     "49fb747a47ee9954",
     "d4d9ad67cd3790a0",
@@ -27,12 +27,14 @@
     "2054dff4f343dfe9",
     "05ae918f6495bf4f",
     "055c204dedd8f01b",
+    "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "66a5f9d60d2cd227",
     "40fcbac9f9d46fe7",
     "5279376f4fdb7e68",
+    "55d699b32fd6de63",
     "a04187dcd49396df"
   ],
   "products": {
@@ -218,6 +220,13 @@
       "price": "AU$5,535",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK18/"
     },
+    "9072b1aa7e92ea97": {
+      "product_id": "9072b1aa7e92ea97",
+      "name": "Etriviere Shopping voyage bag",
+      "color": "Black",
+      "price": "AU$6,365",
+      "url": "https://www.hermes.com/au/en/product/etriviere-shopping-voyage-bag-H088128CKAB/"
+    },
     "f54f3cd627e36ec3": {
       "product_id": "f54f3cd627e36ec3",
       "name": "Neo Garden Voyage 41 bredies bag",
@@ -259,6 +268,13 @@
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "55d699b32fd6de63": {
+      "product_id": "55d699b32fd6de63",
+      "name": "Herbag Zip 20 bag",
+      "color": "Black",
+      "price": "AU$4,885",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAA/"
     },
     "a04187dcd49396df": {
       "product_id": "a04187dcd49396df",
