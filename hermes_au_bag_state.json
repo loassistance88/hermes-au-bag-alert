@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-17T05:03:35.660967+00:00",
+  "last_checked_at": "2026-10-17T09:16:32.896261+00:00",
   "seen_ids": [
     "d4d9ad67cd3790a0",
     "7dba62a0af2d5858",
@@ -15,6 +15,7 @@
     "4a178e8cc3a1a50d",
     "9ecef5773aef3efd",
     "09863bf39ab86131",
+    "27ab331aeec5d087",
     "59d97f18d888215c",
     "89bc19914974f9d0",
     "c267714efa0b533c",
@@ -23,7 +24,6 @@
     "18aba5d7031a4e45",
     "c0d2fcf257597803",
     "2054dff4f343dfe9",
-    "7e33ec4adfde89d6",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
@@ -133,6 +133,13 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK89/"
     },
+    "27ab331aeec5d087": {
+      "product_id": "27ab331aeec5d087",
+      "name": "Picotin Lock 18 bag",
+      "color": "Red",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
+    },
     "59d97f18d888215c": {
       "product_id": "59d97f18d888215c",
       "name": "Evelyne III 29 bag",
@@ -188,13 +195,6 @@
       "color": "White",
       "price": "AU$8,070",
       "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA10/"
-    },
-    "7e33ec4adfde89d6": {
-      "product_id": "7e33ec4adfde89d6",
-      "name": "Halzan mini bag",
-      "color": "Beige/Natural",
-      "price": "AU$9,945",
-      "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CKCE/"
     },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
