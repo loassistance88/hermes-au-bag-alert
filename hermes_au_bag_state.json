@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-18T05:32:31.555232+00:00",
+  "last_checked_at": "2026-10-18T09:51:35.645810+00:00",
   "seen_ids": [
     "d4d9ad67cd3790a0",
     "7dba62a0af2d5858",
@@ -23,7 +23,6 @@
     "5db1941520a5aa74",
     "18aba5d7031a4e45",
     "c0d2fcf257597803",
-    "86426b58853bf1f0",
     "2054dff4f343dfe9",
     "a04187dcd49396df",
     "055c204dedd8f01b",
@@ -33,7 +32,6 @@
     "1aeea02d2e365f32",
     "66a5f9d60d2cd227",
     "40fcbac9f9d46fe7",
-    "5606aee5516b9636",
     "5279376f4fdb7e68"
   ],
   "products": {
@@ -191,13 +189,6 @@
       "price": "AU$7,185",
       "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
     },
-    "86426b58853bf1f0": {
-      "product_id": "86426b58853bf1f0",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "Grey",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKCR/"
-    },
     "2054dff4f343dfe9": {
       "product_id": "2054dff4f343dfe9",
       "name": "Jige Elan 29 clutch",
@@ -260,13 +251,6 @@
       "color": "Beige/Natural",
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
-    },
-    "5606aee5516b9636": {
-      "product_id": "5606aee5516b9636",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "Black",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CCAD/"
     },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
