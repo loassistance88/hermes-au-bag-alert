@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-18T00:55:03.646058+00:00",
+  "last_checked_at": "2026-10-18T05:32:31.555232+00:00",
   "seen_ids": [
     "d4d9ad67cd3790a0",
     "7dba62a0af2d5858",
@@ -23,7 +23,9 @@
     "5db1941520a5aa74",
     "18aba5d7031a4e45",
     "c0d2fcf257597803",
+    "86426b58853bf1f0",
     "2054dff4f343dfe9",
+    "a04187dcd49396df",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
@@ -31,8 +33,8 @@
     "1aeea02d2e365f32",
     "66a5f9d60d2cd227",
     "40fcbac9f9d46fe7",
-    "5279376f4fdb7e68",
-    "a04187dcd49396df"
+    "5606aee5516b9636",
+    "5279376f4fdb7e68"
   ],
   "products": {
     "d4d9ad67cd3790a0": {
@@ -189,12 +191,26 @@
       "price": "AU$7,185",
       "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
     },
+    "86426b58853bf1f0": {
+      "product_id": "86426b58853bf1f0",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "Grey",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKCR/"
+    },
     "2054dff4f343dfe9": {
       "product_id": "2054dff4f343dfe9",
       "name": "Jige Elan 29 clutch",
       "color": "White",
       "price": "AU$8,070",
       "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA10/"
+    },
+    "a04187dcd49396df": {
+      "product_id": "a04187dcd49396df",
+      "name": "Herbag Zip 31 bag",
+      "color": "Blue",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCCZ/"
     },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
@@ -245,19 +261,19 @@
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
     },
+    "5606aee5516b9636": {
+      "product_id": "5606aee5516b9636",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "Black",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CCAD/"
+    },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
       "name": "Neo Garden Voyage 41 bag",
       "color": "Beige/Natural",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "a04187dcd49396df": {
-      "product_id": "a04187dcd49396df",
-      "name": "Herbag Zip 31 bag",
-      "color": "Blue",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCCZ/"
     }
   }
 }
