@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-19T01:45:22.055913+00:00",
+  "last_checked_at": "2026-10-19T06:57:42.763728+00:00",
   "seen_ids": [
     "d4d9ad67cd3790a0",
     "7dba62a0af2d5858",
@@ -15,15 +15,14 @@
     "51c5c910e99aaaff",
     "77cc2e2a453b6785",
     "4a178e8cc3a1a50d",
-    "a6816b0d07bab0dd",
     "3e710c3c7fb49c00",
     "92ea60dd7e596265",
     "27ab331aeec5d087",
     "89bc19914974f9d0",
-    "c267714efa0b533c",
     "1dbb98739b97e953",
     "f753743d8fc48de4",
     "18aba5d7031a4e45",
+    "24a856d967b73f17",
     "66a5f9d60d2cd227",
     "2054dff4f343dfe9",
     "59d97f18d888215c",
@@ -35,10 +34,8 @@
     "40fcbac9f9d46fe7",
     "05ae918f6495bf4f",
     "5279376f4fdb7e68",
-    "b632aa28595c80a5",
-    "54c540f2cc502f99",
-    "de45211437071935",
-    "2fca79c7cd299871"
+    "d2e2899ce86a5518",
+    "de45211437071935"
   ],
   "products": {
     "d4d9ad67cd3790a0": {
@@ -139,13 +136,6 @@
       "price": "AU$18,565",
       "url": "https://www.hermes.com/au/en/product/2424-29-bag-H075240CCAE/"
     },
-    "a6816b0d07bab0dd": {
-      "product_id": "a6816b0d07bab0dd",
-      "name": "Picotin Lock 18 bag",
-      "color": "White",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CC10/"
-    },
     "3e710c3c7fb49c00": {
       "product_id": "3e710c3c7fb49c00",
       "name": "Picotin Lock 18 bag",
@@ -174,13 +164,6 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
     },
-    "c267714efa0b533c": {
-      "product_id": "c267714efa0b533c",
-      "name": "Plume mini bag",
-      "color": "Beige/Natural",
-      "price": "AU$12,270",
-      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK18/"
-    },
     "1dbb98739b97e953": {
       "product_id": "1dbb98739b97e953",
       "name": "24/24 - 21 bag",
@@ -201,6 +184,13 @@
       "color": "Blue",
       "price": "AU$8,400",
       "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAS/"
+    },
+    "24a856d967b73f17": {
+      "product_id": "24a856d967b73f17",
+      "name": "Plume mini bag",
+      "color": "Black",
+      "price": "AU$12,490",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CC89/"
     },
     "66a5f9d60d2cd227": {
       "product_id": "66a5f9d60d2cd227",
@@ -279,19 +269,12 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
     },
-    "b632aa28595c80a5": {
-      "product_id": "b632aa28595c80a5",
-      "name": "Picotin Lock 18 bag",
-      "color": "Beige/Natural",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CC18/"
-    },
-    "54c540f2cc502f99": {
-      "product_id": "54c540f2cc502f99",
-      "name": "Herbag Zip 20 bag",
-      "color": "Grey",
-      "price": "AU$4,885",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAB/"
+    "d2e2899ce86a5518": {
+      "product_id": "d2e2899ce86a5518",
+      "name": "Jypsiere mini bag",
+      "color": "Red",
+      "price": "AU$15,140",
+      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CC55/"
     },
     "de45211437071935": {
       "product_id": "de45211437071935",
@@ -299,13 +282,6 @@
       "color": "Red",
       "price": "AU$17,020",
       "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CC55/"
-    },
-    "2fca79c7cd299871": {
-      "product_id": "2fca79c7cd299871",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "Green",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CKCH/"
     }
   }
 }
