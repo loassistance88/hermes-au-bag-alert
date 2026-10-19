@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-19T20:10:08.318268+00:00",
+  "last_checked_at": "2026-10-19T23:43:36.557102+00:00",
   "seen_ids": [
     "d4d9ad67cd3790a0",
     "7dba62a0af2d5858",
@@ -15,6 +15,7 @@
     "51c5c910e99aaaff",
     "77cc2e2a453b6785",
     "4a178e8cc3a1a50d",
+    "a6816b0d07bab0dd",
     "3e710c3c7fb49c00",
     "92ea60dd7e596265",
     "27ab331aeec5d087",
@@ -134,6 +135,13 @@
       "color": "Black",
       "price": "AU$18,565",
       "url": "https://www.hermes.com/au/en/product/2424-29-bag-H075240CCAE/"
+    },
+    "a6816b0d07bab0dd": {
+      "product_id": "a6816b0d07bab0dd",
+      "name": "Picotin Lock 18 bag",
+      "color": "White",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CC10/"
     },
     "3e710c3c7fb49c00": {
       "product_id": "3e710c3c7fb49c00",
