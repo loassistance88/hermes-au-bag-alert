@@ -1,11 +1,10 @@
 {
-  "last_checked_at": "2026-10-20T07:34:22.667662+00:00",
+  "last_checked_at": "2026-10-20T12:57:28.280294+00:00",
   "seen_ids": [
     "49fb747a47ee9954",
     "d4d9ad67cd3790a0",
     "7dba62a0af2d5858",
     "9ecef5773aef3efd",
-    "a04187dcd49396df",
     "f8e8b3ea7535fcf8",
     "56b137b7fc6445c7",
     "a1f01cb9f3600aac",
@@ -32,7 +31,6 @@
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "05ae918f6495bf4f",
-    "5606aee5516b9636",
     "5279376f4fdb7e68",
     "c87a370b5ef99d88",
     "d2e2899ce86a5518",
@@ -66,13 +64,6 @@
       "color": "Black",
       "price": "AU$10,830",
       "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAB/"
-    },
-    "a04187dcd49396df": {
-      "product_id": "a04187dcd49396df",
-      "name": "Herbag Zip 31 bag",
-      "color": "Blue",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCCZ/"
     },
     "f8e8b3ea7535fcf8": {
       "product_id": "f8e8b3ea7535fcf8",
@@ -255,13 +246,6 @@
       "color": "Pink",
       "price": "AU$12,270",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK3Q/"
-    },
-    "5606aee5516b9636": {
-      "product_id": "5606aee5516b9636",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "Black",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CCAD/"
     },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
