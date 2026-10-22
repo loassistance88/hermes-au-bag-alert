@@ -1,24 +1,29 @@
 {
-  "last_checked_at": "2026-10-22T00:42:29.433014+00:00",
+  "last_checked_at": "2026-10-22T05:26:08.777571+00:00",
   "seen_ids": [
-    "49fb747a47ee9954",
-    "d4d9ad67cd3790a0",
-    "9ecef5773aef3efd",
-    "f8e8b3ea7535fcf8",
     "56b137b7fc6445c7",
     "a1f01cb9f3600aac",
     "c8cf7714321140b1",
-    "a3212d9265da7288",
     "7c16b49b41f2cd4a",
+    "f8e8b3ea7535fcf8",
     "a87b64a78aa48006",
-    "51c5c910e99aaaff",
-    "77cc2e2a453b6785",
-    "92ea60dd7e596265",
-    "5442147f7e425e4d",
     "f753743d8fc48de4",
-    "18aba5d7031a4e45",
-    "66a5f9d60d2cd227",
+    "a3212d9265da7288",
+    "d4d9ad67cd3790a0",
+    "49fb747a47ee9954",
+    "9ecef5773aef3efd",
+    "51c5c910e99aaaff",
     "2054dff4f343dfe9",
+    "92ea60dd7e596265",
+    "de45211437071935",
+    "66a5f9d60d2cd227",
+    "05ae918f6495bf4f",
+    "d2e2899ce86a5518",
+    "77cc2e2a453b6785",
+    "5442147f7e425e4d",
+    "18aba5d7031a4e45",
+    "3fa06fa672e2bd95",
+    "9e370fd57cf53dc6",
     "c4a5af59b783ce2b",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
@@ -27,42 +32,10 @@
     "c0d2fcf257597803",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
-    "05ae918f6495bf4f",
     "5279376f4fdb7e68",
-    "c87a370b5ef99d88",
-    "fd8b2e4fa99ab107",
-    "d2e2899ce86a5518",
-    "de45211437071935"
+    "c87a370b5ef99d88"
   ],
   "products": {
-    "49fb747a47ee9954": {
-      "product_id": "49fb747a47ee9954",
-      "name": "24/24 - 21 bag",
-      "color": "",
-      "price": "AU$21,770",
-      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
-    },
-    "d4d9ad67cd3790a0": {
-      "product_id": "d4d9ad67cd3790a0",
-      "name": "Neo Medor clutch",
-      "color": "",
-      "price": "AU$20,115",
-      "url": "https://www.hermes.com/au/en/product/neo-medor-clutch-H085741CK89/"
-    },
-    "9ecef5773aef3efd": {
-      "product_id": "9ecef5773aef3efd",
-      "name": "Double Longe bag",
-      "color": "",
-      "price": "AU$10,830",
-      "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAB/"
-    },
-    "f8e8b3ea7535fcf8": {
-      "product_id": "f8e8b3ea7535fcf8",
-      "name": "Hermès Geta slim bag",
-      "color": "",
-      "price": "AU$11,715",
-      "url": "https://www.hermes.com/au/en/product/hermes-geta-slim-bag-H086918CCAA/"
-    },
     "56b137b7fc6445c7": {
       "product_id": "56b137b7fc6445c7",
       "name": "Faubourg Express bag",
@@ -84,19 +57,19 @@
       "price": "AU$8,510",
       "url": "https://www.hermes.com/au/en/product/p-tit-arcon-toile-and-cuir-bag-H086394CKAA/"
     },
-    "a3212d9265da7288": {
-      "product_id": "a3212d9265da7288",
-      "name": "24/24 - 21 bag",
-      "color": "",
-      "price": "AU$17,020",
-      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CKAI/"
-    },
     "7c16b49b41f2cd4a": {
       "product_id": "7c16b49b41f2cd4a",
       "name": "Medor bag",
       "color": "",
       "price": "AU$18,015",
       "url": "https://www.hermes.com/au/en/product/medor-bag-H085055CKAF/"
+    },
+    "f8e8b3ea7535fcf8": {
+      "product_id": "f8e8b3ea7535fcf8",
+      "name": "Hermès Geta slim bag",
+      "color": "",
+      "price": "AU$11,715",
+      "url": "https://www.hermes.com/au/en/product/hermes-geta-slim-bag-H086918CCAA/"
     },
     "a87b64a78aa48006": {
       "product_id": "a87b64a78aa48006",
@@ -105,6 +78,41 @@
       "price": "AU$22,100",
       "url": "https://www.hermes.com/au/en/product/petit-tour-34-bag-H087025CC34/"
     },
+    "f753743d8fc48de4": {
+      "product_id": "f753743d8fc48de4",
+      "name": "Mallette bag",
+      "color": "",
+      "price": "AU$15,695",
+      "url": "https://www.hermes.com/au/en/product/mallette-bag-H087970CT37/"
+    },
+    "a3212d9265da7288": {
+      "product_id": "a3212d9265da7288",
+      "name": "24/24 - 21 bag",
+      "color": "",
+      "price": "AU$17,020",
+      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CKAI/"
+    },
+    "d4d9ad67cd3790a0": {
+      "product_id": "d4d9ad67cd3790a0",
+      "name": "Neo Medor clutch",
+      "color": "",
+      "price": "AU$20,115",
+      "url": "https://www.hermes.com/au/en/product/neo-medor-clutch-H085741CK89/"
+    },
+    "49fb747a47ee9954": {
+      "product_id": "49fb747a47ee9954",
+      "name": "24/24 - 21 bag",
+      "color": "",
+      "price": "AU$21,770",
+      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
+    },
+    "9ecef5773aef3efd": {
+      "product_id": "9ecef5773aef3efd",
+      "name": "Double Longe bag",
+      "color": "",
+      "price": "AU$10,830",
+      "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAB/"
+    },
     "51c5c910e99aaaff": {
       "product_id": "51c5c910e99aaaff",
       "name": "Seau Mousqueton bag",
@@ -112,12 +120,12 @@
       "price": "AU$15,495",
       "url": "https://www.hermes.com/au/en/product/seau-mousqueton-bag-H085751CKAA/"
     },
-    "77cc2e2a453b6785": {
-      "product_id": "77cc2e2a453b6785",
-      "name": "Garden Party 36 bag",
+    "2054dff4f343dfe9": {
+      "product_id": "2054dff4f343dfe9",
+      "name": "Jige Elan 29 clutch",
       "color": "",
-      "price": "AU$5,505",
-      "url": "https://www.hermes.com/au/en/product/garden-party-36-bag-H038587CKDT/"
+      "price": "AU$8,070",
+      "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA10/"
     },
     "92ea60dd7e596265": {
       "product_id": "92ea60dd7e596265",
@@ -126,26 +134,12 @@
       "price": "AU$15,140",
       "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CK3Q/"
     },
-    "5442147f7e425e4d": {
-      "product_id": "5442147f7e425e4d",
-      "name": "Herbag Zip 31 bag",
+    "de45211437071935": {
+      "product_id": "de45211437071935",
+      "name": "Faubourg Express bag",
       "color": "",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAI/"
-    },
-    "f753743d8fc48de4": {
-      "product_id": "f753743d8fc48de4",
-      "name": "Mallette bag",
-      "color": "",
-      "price": "AU$15,695",
-      "url": "https://www.hermes.com/au/en/product/mallette-bag-H087970CT37/"
-    },
-    "18aba5d7031a4e45": {
-      "product_id": "18aba5d7031a4e45",
-      "name": "Hermès In-the-Loop 18 bag",
-      "color": "",
-      "price": "AU$8,400",
-      "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAS/"
+      "price": "AU$17,020",
+      "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CC55/"
     },
     "66a5f9d60d2cd227": {
       "product_id": "66a5f9d60d2cd227",
@@ -154,12 +148,54 @@
       "price": "AU$10,280",
       "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085003CKI2/"
     },
-    "2054dff4f343dfe9": {
-      "product_id": "2054dff4f343dfe9",
-      "name": "Jige Elan 29 clutch",
+    "05ae918f6495bf4f": {
+      "product_id": "05ae918f6495bf4f",
+      "name": "Plume mini bag",
       "color": "",
-      "price": "AU$8,070",
-      "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA10/"
+      "price": "AU$12,270",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK3Q/"
+    },
+    "d2e2899ce86a5518": {
+      "product_id": "d2e2899ce86a5518",
+      "name": "Jypsiere mini bag",
+      "color": "",
+      "price": "AU$15,140",
+      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CC55/"
+    },
+    "77cc2e2a453b6785": {
+      "product_id": "77cc2e2a453b6785",
+      "name": "Garden Party 36 bag",
+      "color": "",
+      "price": "AU$5,505",
+      "url": "https://www.hermes.com/au/en/product/garden-party-36-bag-H038587CKDT/"
+    },
+    "5442147f7e425e4d": {
+      "product_id": "5442147f7e425e4d",
+      "name": "Herbag Zip 31 bag",
+      "color": "",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAI/"
+    },
+    "18aba5d7031a4e45": {
+      "product_id": "18aba5d7031a4e45",
+      "name": "Hermès In-the-Loop 18 bag",
+      "color": "",
+      "price": "AU$8,400",
+      "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAS/"
+    },
+    "3fa06fa672e2bd95": {
+      "product_id": "3fa06fa672e2bd95",
+      "name": "Herbag Zip 31 bag",
+      "color": "",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CKAA/"
+    },
+    "9e370fd57cf53dc6": {
+      "product_id": "9e370fd57cf53dc6",
+      "name": "Bolide 1923 mini bag",
+      "color": "",
+      "price": "AU$13,150",
+      "url": "https://www.hermes.com/au/en/product/bolide-1923-mini-bag-H087978CPY9/"
     },
     "c4a5af59b783ce2b": {
       "product_id": "c4a5af59b783ce2b",
@@ -217,13 +253,6 @@
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
     },
-    "05ae918f6495bf4f": {
-      "product_id": "05ae918f6495bf4f",
-      "name": "Plume mini bag",
-      "color": "",
-      "price": "AU$12,270",
-      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK3Q/"
-    },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
       "name": "Neo Garden Voyage 41 bag",
@@ -237,27 +266,6 @@
       "color": "",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CKP0/"
-    },
-    "fd8b2e4fa99ab107": {
-      "product_id": "fd8b2e4fa99ab107",
-      "name": "Picotin Lock 22 bag",
-      "color": "",
-      "price": "AU$6,520",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CKS3/"
-    },
-    "d2e2899ce86a5518": {
-      "product_id": "d2e2899ce86a5518",
-      "name": "Jypsiere mini bag",
-      "color": "",
-      "price": "AU$15,140",
-      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CC55/"
-    },
-    "de45211437071935": {
-      "product_id": "de45211437071935",
-      "name": "Faubourg Express bag",
-      "color": "",
-      "price": "AU$17,020",
-      "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CC55/"
     }
   }
 }
