@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-22T22:40:25.594285+00:00",
+  "last_checked_at": "2026-10-23T00:58:47.383428+00:00",
   "seen_ids": [
     "56b137b7fc6445c7",
     "a1f01cb9f3600aac",
@@ -11,6 +11,7 @@
     "a3212d9265da7288",
     "d4d9ad67cd3790a0",
     "49fb747a47ee9954",
+    "00bdb46345363977",
     "9ecef5773aef3efd",
     "51c5c910e99aaaff",
     "2054dff4f343dfe9",
@@ -23,16 +24,20 @@
     "5442147f7e425e4d",
     "18aba5d7031a4e45",
     "3fa06fa672e2bd95",
+    "f5b4a8cc7d1ffbbd",
+    "7e33ec4adfde89d6",
     "c4a5af59b783ce2b",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
+    "796ac86fd68af8ed",
     "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
     "c0d2fcf257597803",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "5279376f4fdb7e68",
-    "c87a370b5ef99d88"
+    "c87a370b5ef99d88",
+    "e43ad534226ef253"
   ],
   "products": {
     "56b137b7fc6445c7": {
@@ -104,6 +109,13 @@
       "color": "",
       "price": "AU$21,770",
       "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
+    },
+    "00bdb46345363977": {
+      "product_id": "00bdb46345363977",
+      "name": "Roulis mini bag",
+      "color": "",
+      "price": "AU$15,805",
+      "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H071205CK89/"
     },
     "9ecef5773aef3efd": {
       "product_id": "9ecef5773aef3efd",
@@ -189,6 +201,20 @@
       "price": "AU$5,395",
       "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CKAA/"
     },
+    "f5b4a8cc7d1ffbbd": {
+      "product_id": "f5b4a8cc7d1ffbbd",
+      "name": "Evelyne 23 Poche III bag",
+      "color": "",
+      "price": "AU$6,520",
+      "url": "https://www.hermes.com/au/en/product/evelyne-23-poche-iii-bag-H087941CC89/"
+    },
+    "7e33ec4adfde89d6": {
+      "product_id": "7e33ec4adfde89d6",
+      "name": "Halzan mini bag",
+      "color": "",
+      "price": "AU$9,945",
+      "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CKCE/"
+    },
     "c4a5af59b783ce2b": {
       "product_id": "c4a5af59b783ce2b",
       "name": "Evelyne III 29 bag",
@@ -209,6 +235,13 @@
       "color": "",
       "price": "AU$6,365",
       "url": "https://www.hermes.com/au/en/product/etriviere-shopping-voyage-bag-H088128CKAB/"
+    },
+    "796ac86fd68af8ed": {
+      "product_id": "796ac86fd68af8ed",
+      "name": "Picotin Lock 18 bag",
+      "color": "",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CCV8/"
     },
     "f54f3cd627e36ec3": {
       "product_id": "f54f3cd627e36ec3",
@@ -258,6 +291,13 @@
       "color": "",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CKP0/"
+    },
+    "e43ad534226ef253": {
+      "product_id": "e43ad534226ef253",
+      "name": "Picotin Lock 18 bag",
+      "color": "",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CC0G/"
     }
   }
 }
