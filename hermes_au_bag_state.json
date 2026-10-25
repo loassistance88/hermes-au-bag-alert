@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-24T23:48:50.220125+00:00",
+  "last_checked_at": "2026-10-25T01:51:00.222082+00:00",
   "seen_ids": [
     "56b137b7fc6445c7",
     "a1f01cb9f3600aac",
@@ -32,8 +32,7 @@
     "c0d2fcf257597803",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
-    "5279376f4fdb7e68",
-    "c87a370b5ef99d88"
+    "5279376f4fdb7e68"
   ],
   "products": {
     "56b137b7fc6445c7": {
@@ -259,13 +258,6 @@
       "color": "",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "c87a370b5ef99d88": {
-      "product_id": "c87a370b5ef99d88",
-      "name": "Evelyne III 29 bag",
-      "color": "",
-      "price": "AU$6,745",
-      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CKP0/"
     }
   }
 }
