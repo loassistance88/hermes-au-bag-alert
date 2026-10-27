@@ -1,10 +1,14 @@
 {
-  "last_checked_at": "2026-10-27T00:46:24.259481+00:00",
+  "last_checked_at": "2026-10-27T05:43:25.494434+00:00",
   "seen_ids": [
     "56b137b7fc6445c7",
     "a1f01cb9f3600aac",
     "c8cf7714321140b1",
     "7c16b49b41f2cd4a",
+    "2054dff4f343dfe9",
+    "e2f5425a50813a74",
+    "17b5a510aae35cfb",
+    "6f53e9086535602e",
     "f8e8b3ea7535fcf8",
     "a87b64a78aa48006",
     "f753743d8fc48de4",
@@ -13,21 +17,18 @@
     "49fb747a47ee9954",
     "00bdb46345363977",
     "9ecef5773aef3efd",
-    "51c5c910e99aaaff",
-    "2054dff4f343dfe9",
-    "92ea60dd7e596265",
-    "de45211437071935",
-    "66a5f9d60d2cd227",
-    "77cc2e2a453b6785",
     "89bc19914974f9d0",
-    "3fa06fa672e2bd95",
-    "e2f5425a50813a74",
+    "9e8f209907ac16e8",
+    "8b87b8eb601c7fe5",
+    "77cc2e2a453b6785",
+    "51c5c910e99aaaff",
     "c4a5af59b783ce2b",
+    "c0d2fcf257597803",
+    "66a5f9d60d2cd227",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
-    "c0d2fcf257597803",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "5279376f4fdb7e68"
@@ -60,6 +61,34 @@
       "color": "",
       "price": "AU$18,015",
       "url": "https://www.hermes.com/au/en/product/medor-bag-H085055CKAF/"
+    },
+    "2054dff4f343dfe9": {
+      "product_id": "2054dff4f343dfe9",
+      "name": "Jige Elan 29 clutch",
+      "color": "",
+      "price": "AU$8,070",
+      "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA10/"
+    },
+    "e2f5425a50813a74": {
+      "product_id": "e2f5425a50813a74",
+      "name": "Plume mini bag",
+      "color": "",
+      "price": "AU$12,490",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK80/"
+    },
+    "17b5a510aae35cfb": {
+      "product_id": "17b5a510aae35cfb",
+      "name": "Herbag Zip 31 bag",
+      "color": "",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CCAI/"
+    },
+    "6f53e9086535602e": {
+      "product_id": "6f53e9086535602e",
+      "name": "Hermès In-the-Loop 18 bag",
+      "color": "",
+      "price": "AU$8,180",
+      "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H085690CCAS/"
     },
     "f8e8b3ea7535fcf8": {
       "product_id": "f8e8b3ea7535fcf8",
@@ -117,40 +146,26 @@
       "price": "AU$10,830",
       "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAB/"
     },
-    "51c5c910e99aaaff": {
-      "product_id": "51c5c910e99aaaff",
-      "name": "Seau Mousqueton bag",
+    "89bc19914974f9d0": {
+      "product_id": "89bc19914974f9d0",
+      "name": "Evelyne III 29 bag",
       "color": "",
-      "price": "AU$15,495",
-      "url": "https://www.hermes.com/au/en/product/seau-mousqueton-bag-H085751CKAA/"
+      "price": "AU$6,745",
+      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
     },
-    "2054dff4f343dfe9": {
-      "product_id": "2054dff4f343dfe9",
-      "name": "Jige Elan 29 clutch",
-      "color": "",
-      "price": "AU$8,070",
-      "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA10/"
-    },
-    "92ea60dd7e596265": {
-      "product_id": "92ea60dd7e596265",
+    "9e8f209907ac16e8": {
+      "product_id": "9e8f209907ac16e8",
       "name": "Jypsiere mini bag",
       "color": "",
       "price": "AU$15,140",
-      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CK3Q/"
+      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CC4B/"
     },
-    "de45211437071935": {
-      "product_id": "de45211437071935",
-      "name": "Faubourg Express bag",
+    "8b87b8eb601c7fe5": {
+      "product_id": "8b87b8eb601c7fe5",
+      "name": "Herbag Zip 31 bag",
       "color": "",
-      "price": "AU$17,020",
-      "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CC55/"
-    },
-    "66a5f9d60d2cd227": {
-      "product_id": "66a5f9d60d2cd227",
-      "name": "Mini Medor bag",
-      "color": "",
-      "price": "AU$10,280",
-      "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085003CKI2/"
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKAR/"
     },
     "77cc2e2a453b6785": {
       "product_id": "77cc2e2a453b6785",
@@ -159,26 +174,12 @@
       "price": "AU$5,505",
       "url": "https://www.hermes.com/au/en/product/garden-party-36-bag-H038587CKDT/"
     },
-    "89bc19914974f9d0": {
-      "product_id": "89bc19914974f9d0",
-      "name": "Evelyne III 29 bag",
+    "51c5c910e99aaaff": {
+      "product_id": "51c5c910e99aaaff",
+      "name": "Seau Mousqueton bag",
       "color": "",
-      "price": "AU$6,745",
-      "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
-    },
-    "3fa06fa672e2bd95": {
-      "product_id": "3fa06fa672e2bd95",
-      "name": "Herbag Zip 31 bag",
-      "color": "",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CKAA/"
-    },
-    "e2f5425a50813a74": {
-      "product_id": "e2f5425a50813a74",
-      "name": "Plume mini bag",
-      "color": "",
-      "price": "AU$12,490",
-      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK80/"
+      "price": "AU$15,495",
+      "url": "https://www.hermes.com/au/en/product/seau-mousqueton-bag-H085751CKAA/"
     },
     "c4a5af59b783ce2b": {
       "product_id": "c4a5af59b783ce2b",
@@ -186,6 +187,20 @@
       "color": "",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CKH0/"
+    },
+    "c0d2fcf257597803": {
+      "product_id": "c0d2fcf257597803",
+      "name": "Lassoie Hermès bag",
+      "color": "",
+      "price": "AU$7,185",
+      "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
+    },
+    "66a5f9d60d2cd227": {
+      "product_id": "66a5f9d60d2cd227",
+      "name": "Mini Medor bag",
+      "color": "",
+      "price": "AU$10,280",
+      "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085003CKI2/"
     },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
@@ -214,13 +229,6 @@
       "color": "",
       "price": "AU$5,940",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CK1C/"
-    },
-    "c0d2fcf257597803": {
-      "product_id": "c0d2fcf257597803",
-      "name": "Lassoie Hermès bag",
-      "color": "",
-      "price": "AU$7,185",
-      "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
     },
     "1aeea02d2e365f32": {
       "product_id": "1aeea02d2e365f32",
