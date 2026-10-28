@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-28T00:20:05.347254+00:00",
+  "last_checked_at": "2026-10-28T05:58:56.256179+00:00",
   "seen_ids": [
     "56b137b7fc6445c7",
     "a1f01cb9f3600aac",
@@ -15,15 +15,19 @@
     "a3212d9265da7288",
     "d4d9ad67cd3790a0",
     "49fb747a47ee9954",
+    "77357eedd871c4ce",
     "00bdb46345363977",
     "9ecef5773aef3efd",
     "89bc19914974f9d0",
     "9e8f209907ac16e8",
     "8b87b8eb601c7fe5",
     "77cc2e2a453b6785",
+    "31de4e2076e4f4a7",
+    "27ab331aeec5d087",
     "51c5c910e99aaaff",
     "c4a5af59b783ce2b",
     "c0d2fcf257597803",
+    "da64c17243551bad",
     "66a5f9d60d2cd227",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
@@ -31,7 +35,8 @@
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "96f2b4afb37c6273"
   ],
   "products": {
     "56b137b7fc6445c7": {
@@ -132,6 +137,13 @@
       "price": "AU$21,770",
       "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
     },
+    "77357eedd871c4ce": {
+      "product_id": "77357eedd871c4ce",
+      "name": "Halzan mini bag",
+      "color": "",
+      "price": "AU$9,945",
+      "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CKAH/"
+    },
     "00bdb46345363977": {
       "product_id": "00bdb46345363977",
       "name": "Roulis mini bag",
@@ -174,6 +186,20 @@
       "price": "AU$5,505",
       "url": "https://www.hermes.com/au/en/product/garden-party-36-bag-H038587CKDT/"
     },
+    "31de4e2076e4f4a7": {
+      "product_id": "31de4e2076e4f4a7",
+      "name": "Plume mini bag",
+      "color": "",
+      "price": "AU$12,270",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CKT3/"
+    },
+    "27ab331aeec5d087": {
+      "product_id": "27ab331aeec5d087",
+      "name": "Picotin Lock 18 bag",
+      "color": "",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
+    },
     "51c5c910e99aaaff": {
       "product_id": "51c5c910e99aaaff",
       "name": "Seau Mousqueton bag",
@@ -194,6 +220,13 @@
       "color": "",
       "price": "AU$7,185",
       "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
+    },
+    "da64c17243551bad": {
+      "product_id": "da64c17243551bad",
+      "name": "Evelyne 16 Sellier bag",
+      "color": "",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-sellier-bag-H087080CC37/"
     },
     "66a5f9d60d2cd227": {
       "product_id": "66a5f9d60d2cd227",
@@ -250,6 +283,13 @@
       "color": "",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "96f2b4afb37c6273": {
+      "product_id": "96f2b4afb37c6273",
+      "name": "Picotin Lock 22 bag",
+      "color": "",
+      "price": "AU$7,295",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H077914CC34/"
     }
   }
 }
