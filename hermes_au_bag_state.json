@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-28T05:58:56.256179+00:00",
+  "last_checked_at": "2026-10-28T12:39:49.011262+00:00",
   "seen_ids": [
     "56b137b7fc6445c7",
     "a1f01cb9f3600aac",
@@ -7,7 +7,6 @@
     "7c16b49b41f2cd4a",
     "2054dff4f343dfe9",
     "e2f5425a50813a74",
-    "17b5a510aae35cfb",
     "6f53e9086535602e",
     "f8e8b3ea7535fcf8",
     "a87b64a78aa48006",
@@ -27,7 +26,6 @@
     "51c5c910e99aaaff",
     "c4a5af59b783ce2b",
     "c0d2fcf257597803",
-    "da64c17243551bad",
     "66a5f9d60d2cd227",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
@@ -35,8 +33,7 @@
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
-    "5279376f4fdb7e68",
-    "96f2b4afb37c6273"
+    "5279376f4fdb7e68"
   ],
   "products": {
     "56b137b7fc6445c7": {
@@ -80,13 +77,6 @@
       "color": "",
       "price": "AU$12,490",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK80/"
-    },
-    "17b5a510aae35cfb": {
-      "product_id": "17b5a510aae35cfb",
-      "name": "Herbag Zip 31 bag",
-      "color": "",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CCAI/"
     },
     "6f53e9086535602e": {
       "product_id": "6f53e9086535602e",
@@ -221,13 +211,6 @@
       "price": "AU$7,185",
       "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
     },
-    "da64c17243551bad": {
-      "product_id": "da64c17243551bad",
-      "name": "Evelyne 16 Sellier bag",
-      "color": "",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-sellier-bag-H087080CC37/"
-    },
     "66a5f9d60d2cd227": {
       "product_id": "66a5f9d60d2cd227",
       "name": "Mini Medor bag",
@@ -283,13 +266,6 @@
       "color": "",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "96f2b4afb37c6273": {
-      "product_id": "96f2b4afb37c6273",
-      "name": "Picotin Lock 22 bag",
-      "color": "",
-      "price": "AU$7,295",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H077914CC34/"
     }
   }
 }
