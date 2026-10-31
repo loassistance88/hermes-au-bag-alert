@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-10-31T06:55:45.457817+00:00",
+  "last_checked_at": "2026-10-31T13:28:08.144604+00:00",
   "seen_ids": [
     "56b137b7fc6445c7",
     "a1f01cb9f3600aac",
@@ -26,15 +26,12 @@
     "66a5f9d60d2cd227",
     "055c204dedd8f01b",
     "9072b1aa7e92ea97",
-    "796ac86fd68af8ed",
     "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "ad25ee575fdb3b8a",
-    "5279376f4fdb7e68",
-    "6097fb8fec10a020",
-    "afa670b242236cc4"
+    "5279376f4fdb7e68"
   ],
   "products": {
     "56b137b7fc6445c7": {
@@ -212,13 +209,6 @@
       "price": "AU$6,365",
       "url": "https://www.hermes.com/au/en/product/etriviere-shopping-voyage-bag-H088128CKAB/"
     },
-    "796ac86fd68af8ed": {
-      "product_id": "796ac86fd68af8ed",
-      "name": "Picotin Lock 18 bag",
-      "color": "",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CCV8/"
-    },
     "f54f3cd627e36ec3": {
       "product_id": "f54f3cd627e36ec3",
       "name": "Neo Garden Voyage 41 bredies bag",
@@ -260,20 +250,6 @@
       "color": "",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "6097fb8fec10a020": {
-      "product_id": "6097fb8fec10a020",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCCI/"
-    },
-    "afa670b242236cc4": {
-      "product_id": "afa670b242236cc4",
-      "name": "Evelyne 23 Poche III bag",
-      "color": "",
-      "price": "AU$6,520",
-      "url": "https://www.hermes.com/au/en/product/evelyne-23-poche-iii-bag-H087941CC0G/"
     }
   }
 }
