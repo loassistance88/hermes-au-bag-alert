@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-02T01:26:08.889002+00:00",
+  "last_checked_at": "2026-11-02T08:06:26.419905+00:00",
   "seen_ids": [
     "56b137b7fc6445c7",
     "a1f01cb9f3600aac",
@@ -17,7 +17,6 @@
     "89bc19914974f9d0",
     "31de4e2076e4f4a7",
     "4b20edcf4e28929d",
-    "27ab331aeec5d087",
     "51c5c910e99aaaff",
     "c4a5af59b783ce2b",
     "c0d2fcf257597803",
@@ -30,9 +29,7 @@
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "ad25ee575fdb3b8a",
-    "5279376f4fdb7e68",
-    "6097fb8fec10a020",
-    "f9487df6038b0972"
+    "5279376f4fdb7e68"
   ],
   "products": {
     "56b137b7fc6445c7": {
@@ -147,13 +144,6 @@
       "price": "AU$5,040",
       "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H069573CKDO/"
     },
-    "27ab331aeec5d087": {
-      "product_id": "27ab331aeec5d087",
-      "name": "Picotin Lock 18 bag",
-      "color": "",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
-    },
     "51c5c910e99aaaff": {
       "product_id": "51c5c910e99aaaff",
       "name": "Seau Mousqueton bag",
@@ -244,20 +234,6 @@
       "color": "",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-    },
-    "6097fb8fec10a020": {
-      "product_id": "6097fb8fec10a020",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCCI/"
-    },
-    "f9487df6038b0972": {
-      "product_id": "f9487df6038b0972",
-      "name": "Lindy II mini bag",
-      "color": "",
-      "price": "AU$14,590",
-      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085957CK89/"
     }
   }
 }
