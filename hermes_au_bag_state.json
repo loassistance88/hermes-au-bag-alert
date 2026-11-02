@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-01T21:57:38.473675+00:00",
+  "last_checked_at": "2026-11-02T01:26:08.889002+00:00",
   "seen_ids": [
     "56b137b7fc6445c7",
     "a1f01cb9f3600aac",
@@ -30,7 +30,9 @@
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "ad25ee575fdb3b8a",
-    "5279376f4fdb7e68"
+    "5279376f4fdb7e68",
+    "6097fb8fec10a020",
+    "f9487df6038b0972"
   ],
   "products": {
     "56b137b7fc6445c7": {
@@ -242,6 +244,20 @@
       "color": "",
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+    },
+    "6097fb8fec10a020": {
+      "product_id": "6097fb8fec10a020",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCCI/"
+    },
+    "f9487df6038b0972": {
+      "product_id": "f9487df6038b0972",
+      "name": "Lindy II mini bag",
+      "color": "",
+      "price": "AU$14,590",
+      "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085957CK89/"
     }
   }
 }
