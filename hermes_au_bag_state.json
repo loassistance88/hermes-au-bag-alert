@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-06T02:54:40.111697+00:00",
+  "last_checked_at": "2026-11-06T10:30:21.437343+00:00",
   "seen_ids": [
     "b8b335ef54a0fcbd",
     "d626165ff7e91fe4",
@@ -12,7 +12,6 @@
     "0cbc47e98e206cda",
     "02802aa49caec196",
     "caa43e94a5cd89b6",
-    "f637ec6413556ad4",
     "055c204dedd8f01b",
     "826d37e21e7f3363",
     "d4d9ad67cd3790a0",
@@ -23,11 +22,11 @@
     "31de4e2076e4f4a7",
     "9ecef5773aef3efd",
     "c0d2fcf257597803",
-    "77357eedd871c4ce",
     "51c5c910e99aaaff",
     "3fa06fa672e2bd95",
     "4a178e8cc3a1a50d",
     "27ab331aeec5d087",
+    "3c1e0faeab138049",
     "e74775ccc9f7c857",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
@@ -36,7 +35,9 @@
     "40fcbac9f9d46fe7",
     "4a604e9a3b437509",
     "5279376f4fdb7e68",
-    "6d9984748f3d03d6"
+    "436d8e2b8a557b76",
+    "6d9984748f3d03d6",
+    "e780a2487ddd8eb6"
   ],
   "products": {
     "b8b335ef54a0fcbd": {
@@ -116,13 +117,6 @@
       "price": "AU$8,400",
       "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKY1/"
     },
-    "f637ec6413556ad4": {
-      "product_id": "f637ec6413556ad4",
-      "name": "Herbag Zip 31 bag",
-      "color": "",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKAG/"
-    },
     "055c204dedd8f01b": {
       "product_id": "055c204dedd8f01b",
       "name": "Hermès Videpoches bag",
@@ -193,13 +187,6 @@
       "price": "AU$7,185",
       "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
     },
-    "77357eedd871c4ce": {
-      "product_id": "77357eedd871c4ce",
-      "name": "Halzan mini bag",
-      "color": "",
-      "price": "AU$9,945",
-      "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CKAH/"
-    },
     "51c5c910e99aaaff": {
       "product_id": "51c5c910e99aaaff",
       "name": "Seau Mousqueton bag",
@@ -227,6 +214,13 @@
       "color": "",
       "price": "AU$6,080",
       "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
+    },
+    "3c1e0faeab138049": {
+      "product_id": "3c1e0faeab138049",
+      "name": "Herbag Zip 31 bag",
+      "color": "",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CCAR/"
     },
     "e74775ccc9f7c857": {
       "product_id": "e74775ccc9f7c857",
@@ -284,12 +278,26 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
     },
+    "436d8e2b8a557b76": {
+      "product_id": "436d8e2b8a557b76",
+      "name": "Picotin Lock 18 bag",
+      "color": "",
+      "price": "AU$9,615",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H073582CCAM/"
+    },
     "6d9984748f3d03d6": {
       "product_id": "6d9984748f3d03d6",
       "name": "Evelyne III 29 bag",
       "color": "",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC89/"
+    },
+    "e780a2487ddd8eb6": {
+      "product_id": "e780a2487ddd8eb6",
+      "name": "Herbag Zip 31 bag",
+      "color": "",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAS/"
     }
   }
 }
