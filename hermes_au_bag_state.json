@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-07T02:11:57.133588+00:00",
+  "last_checked_at": "2026-11-07T08:51:24.687971+00:00",
   "seen_ids": [
     "b8b335ef54a0fcbd",
     "d626165ff7e91fe4",
@@ -13,7 +13,6 @@
     "02802aa49caec196",
     "caa43e94a5cd89b6",
     "055c204dedd8f01b",
-    "826d37e21e7f3363",
     "d4d9ad67cd3790a0",
     "e722223a9a2772bc",
     "4328a9cd67a1b5e1",
@@ -25,6 +24,7 @@
     "51c5c910e99aaaff",
     "3fa06fa672e2bd95",
     "4a178e8cc3a1a50d",
+    "27ab331aeec5d087",
     "3c1e0faeab138049",
     "e74775ccc9f7c857",
     "9072b1aa7e92ea97",
@@ -123,13 +123,6 @@
       "price": "AU$5,535",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK18/"
     },
-    "826d37e21e7f3363": {
-      "product_id": "826d37e21e7f3363",
-      "name": "24/24 - 21 bag",
-      "color": "",
-      "price": "AU$17,020",
-      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CKBH/"
-    },
     "d4d9ad67cd3790a0": {
       "product_id": "d4d9ad67cd3790a0",
       "name": "Neo Medor clutch",
@@ -206,6 +199,13 @@
       "color": "",
       "price": "AU$18,565",
       "url": "https://www.hermes.com/au/en/product/2424-29-bag-H075240CCAE/"
+    },
+    "27ab331aeec5d087": {
+      "product_id": "27ab331aeec5d087",
+      "name": "Picotin Lock 18 bag",
+      "color": "",
+      "price": "AU$6,080",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
     },
     "3c1e0faeab138049": {
       "product_id": "3c1e0faeab138049",
