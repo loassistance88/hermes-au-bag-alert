@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-08T20:23:24.904540+00:00",
+  "last_checked_at": "2026-11-08T23:53:18.082418+00:00",
   "seen_ids": [
     "b8b335ef54a0fcbd",
     "d626165ff7e91fe4",
@@ -35,7 +35,9 @@
     "40fcbac9f9d46fe7",
     "4a604e9a3b437509",
     "5279376f4fdb7e68",
+    "962a84419453b290",
     "436d8e2b8a557b76",
+    "f617a5bd09ffd312",
     "6d9984748f3d03d6"
   ],
   "products": {
@@ -277,12 +279,26 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
     },
+    "962a84419453b290": {
+      "product_id": "962a84419453b290",
+      "name": "Evelyne 16 Amazone bag",
+      "color": "",
+      "price": "AU$3,870",
+      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CKAC/"
+    },
     "436d8e2b8a557b76": {
       "product_id": "436d8e2b8a557b76",
       "name": "Picotin Lock 18 bag",
       "color": "",
       "price": "AU$9,615",
       "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H073582CCAM/"
+    },
+    "f617a5bd09ffd312": {
+      "product_id": "f617a5bd09ffd312",
+      "name": "Picotin Lock 22 bag",
+      "color": "",
+      "price": "AU$6,520",
+      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CC0G/"
     },
     "6d9984748f3d03d6": {
       "product_id": "6d9984748f3d03d6",
