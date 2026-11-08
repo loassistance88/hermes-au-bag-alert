@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-08T02:15:46.404485+00:00",
+  "last_checked_at": "2026-11-08T09:11:01.532534+00:00",
   "seen_ids": [
     "b8b335ef54a0fcbd",
     "d626165ff7e91fe4",
@@ -26,6 +26,7 @@
     "4a178e8cc3a1a50d",
     "27ab331aeec5d087",
     "3c1e0faeab138049",
+    "e780a2487ddd8eb6",
     "e74775ccc9f7c857",
     "9072b1aa7e92ea97",
     "f54f3cd627e36ec3",
@@ -35,8 +36,7 @@
     "4a604e9a3b437509",
     "5279376f4fdb7e68",
     "436d8e2b8a557b76",
-    "6d9984748f3d03d6",
-    "e780a2487ddd8eb6"
+    "6d9984748f3d03d6"
   ],
   "products": {
     "b8b335ef54a0fcbd": {
@@ -214,6 +214,13 @@
       "price": "AU$5,395",
       "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CCAR/"
     },
+    "e780a2487ddd8eb6": {
+      "product_id": "e780a2487ddd8eb6",
+      "name": "Herbag Zip 31 bag",
+      "color": "",
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAS/"
+    },
     "e74775ccc9f7c857": {
       "product_id": "e74775ccc9f7c857",
       "name": "Hermès In-the-Loop 18 bag",
@@ -283,13 +290,6 @@
       "color": "",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC89/"
-    },
-    "e780a2487ddd8eb6": {
-      "product_id": "e780a2487ddd8eb6",
-      "name": "Herbag Zip 31 bag",
-      "color": "",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAS/"
     }
   }
 }
