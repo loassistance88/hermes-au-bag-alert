@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-10T04:37:25.761366+00:00",
+  "last_checked_at": "2026-11-10T12:58:48.487486+00:00",
   "seen_ids": [
     "718dfa192a6b49af",
     "0c5b5e17a6de0714",
@@ -22,7 +22,6 @@
     "26c5d20f80ccdcf3",
     "4a178e8cc3a1a50d",
     "4328a9cd67a1b5e1",
-    "55d699b32fd6de63",
     "d4d9ad67cd3790a0",
     "c0d2fcf257597803",
     "7dba62a0af2d5858",
@@ -39,8 +38,7 @@
     "40fcbac9f9d46fe7",
     "4a604e9a3b437509",
     "5279376f4fdb7e68",
-    "472064095cf63eec",
-    "c31d6d343bf1c211"
+    "51c5c910e99aaaff"
   ],
   "products": {
     "718dfa192a6b49af": {
@@ -190,13 +188,6 @@
       "price": "AU$18,015",
       "url": "https://www.hermes.com/au/en/product/medor-bag-H085055CKAA/"
     },
-    "55d699b32fd6de63": {
-      "product_id": "55d699b32fd6de63",
-      "name": "Herbag Zip 20 bag",
-      "color": "",
-      "price": "AU$4,885",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAA/"
-    },
     "d4d9ad67cd3790a0": {
       "product_id": "d4d9ad67cd3790a0",
       "name": "Neo Medor clutch",
@@ -309,19 +300,12 @@
       "price": "AU$8,010",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
     },
-    "472064095cf63eec": {
-      "product_id": "472064095cf63eec",
-      "name": "Picotin Lock 22 bag",
+    "51c5c910e99aaaff": {
+      "product_id": "51c5c910e99aaaff",
+      "name": "Seau Mousqueton bag",
       "color": "",
-      "price": "AU$6,520",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CK10/"
-    },
-    "c31d6d343bf1c211": {
-      "product_id": "c31d6d343bf1c211",
-      "name": "Garden Party 30 bag",
-      "color": "",
-      "price": "AU$7,295",
-      "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK85/"
+      "price": "AU$15,495",
+      "url": "https://www.hermes.com/au/en/product/seau-mousqueton-bag-H085751CKAA/"
     }
   }
 }
