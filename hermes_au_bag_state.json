@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-12T02:59:47.300593+00:00",
+  "last_checked_at": "2026-11-12T10:54:37.339172+00:00",
   "seen_ids": [
     "718dfa192a6b49af",
     "0c5b5e17a6de0714",
@@ -34,6 +34,7 @@
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "4a604e9a3b437509",
+    "49fb747a47ee9954",
     "5279376f4fdb7e68",
     "51c5c910e99aaaff"
   ],
@@ -268,6 +269,13 @@
       "color": "",
       "price": "AU$15,470",
       "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H079195CKP0/"
+    },
+    "49fb747a47ee9954": {
+      "product_id": "49fb747a47ee9954",
+      "name": "24/24 - 21 bag",
+      "color": "",
+      "price": "AU$21,770",
+      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
     },
     "5279376f4fdb7e68": {
       "product_id": "5279376f4fdb7e68",
