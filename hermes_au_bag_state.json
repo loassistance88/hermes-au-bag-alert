@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-13T05:24:03.295405+00:00",
+  "last_checked_at": "2026-11-13T13:19:34.428641+00:00",
   "seen_ids": [
     "0c5b5e17a6de0714",
     "436d8e2b8a557b76",
@@ -10,7 +10,6 @@
     "7dba62a0af2d5858",
     "0bec135d6c8ec8f3",
     "e74775ccc9f7c857",
-    "0f6d903cbe778232",
     "a137075558a349b5",
     "56b137b7fc6445c7",
     "e722223a9a2772bc",
@@ -19,6 +18,7 @@
     "77cc2e2a453b6785",
     "055c204dedd8f01b",
     "3f1f8dd61ce3d3f1",
+    "f54f3cd627e36ec3",
     "4a178e8cc3a1a50d",
     "4328a9cd67a1b5e1",
     "d4d9ad67cd3790a0",
@@ -26,7 +26,6 @@
     "4f89274f5811c02c",
     "22ade1175c422fea",
     "89bc19914974f9d0",
-    "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "43de9d53b5f8844a",
@@ -104,13 +103,6 @@
       "price": "AU$8,400",
       "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAX/"
     },
-    "0f6d903cbe778232": {
-      "product_id": "0f6d903cbe778232",
-      "name": "Lindy 26 bag",
-      "color": "",
-      "price": "AU$17,130",
-      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H060950CK55/"
-    },
     "a137075558a349b5": {
       "product_id": "a137075558a349b5",
       "name": "Evelyne III 29 bag",
@@ -167,6 +159,13 @@
       "price": "AU$12,270",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CC10/"
     },
+    "f54f3cd627e36ec3": {
+      "product_id": "f54f3cd627e36ec3",
+      "name": "Neo Garden Voyage 41 bredies bag",
+      "color": "",
+      "price": "AU$14,590",
+      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
+    },
     "4a178e8cc3a1a50d": {
       "product_id": "4a178e8cc3a1a50d",
       "name": "24/24 - 29 bag",
@@ -215,13 +214,6 @@
       "color": "",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
-    },
-    "f54f3cd627e36ec3": {
-      "product_id": "f54f3cd627e36ec3",
-      "name": "Neo Garden Voyage 41 bredies bag",
-      "color": "",
-      "price": "AU$14,590",
-      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
     },
     "068836fdf2bdcd84": {
       "product_id": "068836fdf2bdcd84",
