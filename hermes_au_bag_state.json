@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-15T02:49:06.204377+00:00",
+  "last_checked_at": "2026-11-15T10:00:15.494485+00:00",
   "seen_ids": [
     "0c5b5e17a6de0714",
     "436d8e2b8a557b76",
@@ -14,11 +14,11 @@
     "56b137b7fc6445c7",
     "e722223a9a2772bc",
     "4b20edcf4e28929d",
+    "caa43e94a5cd89b6",
     "05ae918f6495bf4f",
-    "77cc2e2a453b6785",
-    "055c204dedd8f01b",
-    "3f1f8dd61ce3d3f1",
-    "f54f3cd627e36ec3",
+    "0c2d70a82f00d6b7",
+    "e780a2487ddd8eb6",
+    "a04187dcd49396df",
     "4a178e8cc3a1a50d",
     "4328a9cd67a1b5e1",
     "d4d9ad67cd3790a0",
@@ -26,17 +26,19 @@
     "4f89274f5811c02c",
     "22ade1175c422fea",
     "89bc19914974f9d0",
+    "77cc2e2a453b6785",
+    "055c204dedd8f01b",
+    "3f1f8dd61ce3d3f1",
+    "f54f3cd627e36ec3",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "43de9d53b5f8844a",
     "40fcbac9f9d46fe7",
-    "5db1941520a5aa74",
     "4a604e9a3b437509",
     "49fb747a47ee9954",
     "5279376f4fdb7e68",
     "51c5c910e99aaaff",
-    "a3212d9265da7288",
-    "0c2d70a82f00d6b7"
+    "a3212d9265da7288"
   ],
   "products": {
     "0c5b5e17a6de0714": {
@@ -130,6 +132,13 @@
       "price": "AU$5,040",
       "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H069573CKDO/"
     },
+    "caa43e94a5cd89b6": {
+      "product_id": "caa43e94a5cd89b6",
+      "name": "Hermès In-the-Loop 18 bag",
+      "color": "",
+      "price": "AU$8,400",
+      "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKY1/"
+    },
     "05ae918f6495bf4f": {
       "product_id": "05ae918f6495bf4f",
       "name": "Plume mini bag",
@@ -137,33 +146,26 @@
       "price": "AU$12,270",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK3Q/"
     },
-    "77cc2e2a453b6785": {
-      "product_id": "77cc2e2a453b6785",
-      "name": "Garden Party 36 bag",
+    "0c2d70a82f00d6b7": {
+      "product_id": "0c2d70a82f00d6b7",
+      "name": "Jige Elan 29 clutch",
       "color": "",
-      "price": "AU$5,505",
-      "url": "https://www.hermes.com/au/en/product/garden-party-36-bag-H038587CKDT/"
+      "price": "AU$8,070",
+      "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CAY1/"
     },
-    "055c204dedd8f01b": {
-      "product_id": "055c204dedd8f01b",
-      "name": "Hermès Videpoches bag",
+    "e780a2487ddd8eb6": {
+      "product_id": "e780a2487ddd8eb6",
+      "name": "Herbag Zip 31 bag",
       "color": "",
-      "price": "AU$5,535",
-      "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK18/"
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAS/"
     },
-    "3f1f8dd61ce3d3f1": {
-      "product_id": "3f1f8dd61ce3d3f1",
-      "name": "Plume mini bag",
+    "a04187dcd49396df": {
+      "product_id": "a04187dcd49396df",
+      "name": "Herbag Zip 31 bag",
       "color": "",
-      "price": "AU$12,270",
-      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CC10/"
-    },
-    "f54f3cd627e36ec3": {
-      "product_id": "f54f3cd627e36ec3",
-      "name": "Neo Garden Voyage 41 bredies bag",
-      "color": "",
-      "price": "AU$14,590",
-      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
+      "price": "AU$5,395",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCCZ/"
     },
     "4a178e8cc3a1a50d": {
       "product_id": "4a178e8cc3a1a50d",
@@ -214,6 +216,34 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
     },
+    "77cc2e2a453b6785": {
+      "product_id": "77cc2e2a453b6785",
+      "name": "Garden Party 36 bag",
+      "color": "",
+      "price": "AU$5,505",
+      "url": "https://www.hermes.com/au/en/product/garden-party-36-bag-H038587CKDT/"
+    },
+    "055c204dedd8f01b": {
+      "product_id": "055c204dedd8f01b",
+      "name": "Hermès Videpoches bag",
+      "color": "",
+      "price": "AU$5,535",
+      "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK18/"
+    },
+    "3f1f8dd61ce3d3f1": {
+      "product_id": "3f1f8dd61ce3d3f1",
+      "name": "Plume mini bag",
+      "color": "",
+      "price": "AU$12,270",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CC10/"
+    },
+    "f54f3cd627e36ec3": {
+      "product_id": "f54f3cd627e36ec3",
+      "name": "Neo Garden Voyage 41 bredies bag",
+      "color": "",
+      "price": "AU$14,590",
+      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
+    },
     "068836fdf2bdcd84": {
       "product_id": "068836fdf2bdcd84",
       "name": "Hermès Videpoches bag",
@@ -241,13 +271,6 @@
       "color": "",
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
-    },
-    "5db1941520a5aa74": {
-      "product_id": "5db1941520a5aa74",
-      "name": "Herbag Zip 31 bag",
-      "color": "",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKBI/"
     },
     "4a604e9a3b437509": {
       "product_id": "4a604e9a3b437509",
@@ -283,13 +306,6 @@
       "color": "",
       "price": "AU$17,020",
       "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CKAI/"
-    },
-    "0c2d70a82f00d6b7": {
-      "product_id": "0c2d70a82f00d6b7",
-      "name": "Jige Elan 29 clutch",
-      "color": "",
-      "price": "AU$8,070",
-      "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CAY1/"
     }
   }
 }
