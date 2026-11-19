@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-19T00:27:34.793268+00:00",
+  "last_checked_at": "2026-11-19T07:49:20.004846+00:00",
   "seen_ids": [
     "0c2d70a82f00d6b7",
     "b8b335ef54a0fcbd",
@@ -7,7 +7,6 @@
     "0ecc83d54d57f0a9",
     "8da50ef7f942d996",
     "1dd12c90c2084d85",
-    "4a604e9a3b437509",
     "f8e8b3ea7535fcf8",
     "718dfa192a6b49af",
     "436d8e2b8a557b76",
@@ -19,26 +18,25 @@
     "0344353d2307897e",
     "055c204dedd8f01b",
     "f54f3cd627e36ec3",
+    "0fb080a967a378a1",
     "4a178e8cc3a1a50d",
-    "4328a9cd67a1b5e1",
     "27d7e3db4ebbfecb",
     "d4d9ad67cd3790a0",
     "51c5c910e99aaaff",
-    "43de9d53b5f8844a",
     "89bc19914974f9d0",
-    "8d3a33005b47bbfe",
     "4f89274f5811c02c",
     "22ade1175c422fea",
-    "d0d388f433f0a191",
     "efbffb22f1474ef5",
     "e722223a9a2772bc",
     "068836fdf2bdcd84",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
-    "5606aee5516b9636",
+    "200a54d5cb97863e",
+    "7c16b49b41f2cd4a",
     "1dbb98739b97e953",
-    "5f6722aceead3684",
-    "6d61f6b3752029e6"
+    "b1c45c0f0bfcdaf9",
+    "728f91fdda29837b",
+    "dcc1d893543cada3"
   ],
   "products": {
     "0c2d70a82f00d6b7": {
@@ -82,13 +80,6 @@
       "color": "",
       "price": "AU$12,270",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CKI8/"
-    },
-    "4a604e9a3b437509": {
-      "product_id": "4a604e9a3b437509",
-      "name": "Roulis mini bag",
-      "color": "",
-      "price": "AU$15,470",
-      "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H079195CKP0/"
     },
     "f8e8b3ea7535fcf8": {
       "product_id": "f8e8b3ea7535fcf8",
@@ -167,19 +158,19 @@
       "price": "AU$14,590",
       "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
     },
+    "0fb080a967a378a1": {
+      "product_id": "0fb080a967a378a1",
+      "name": "Sanglons clutch",
+      "color": "",
+      "price": "AU$14,920",
+      "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CC89/"
+    },
     "4a178e8cc3a1a50d": {
       "product_id": "4a178e8cc3a1a50d",
       "name": "24/24 - 29 bag",
       "color": "",
       "price": "AU$18,565",
       "url": "https://www.hermes.com/au/en/product/2424-29-bag-H075240CCAE/"
-    },
-    "4328a9cd67a1b5e1": {
-      "product_id": "4328a9cd67a1b5e1",
-      "name": "Medor bag",
-      "color": "",
-      "price": "AU$18,015",
-      "url": "https://www.hermes.com/au/en/product/medor-bag-H085055CKAA/"
     },
     "27d7e3db4ebbfecb": {
       "product_id": "27d7e3db4ebbfecb",
@@ -202,26 +193,12 @@
       "price": "AU$15,495",
       "url": "https://www.hermes.com/au/en/product/seau-mousqueton-bag-H085751CKAA/"
     },
-    "43de9d53b5f8844a": {
-      "product_id": "43de9d53b5f8844a",
-      "name": "P'tit Arcon bag",
-      "color": "",
-      "price": "AU$8,730",
-      "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CPAF/"
-    },
     "89bc19914974f9d0": {
       "product_id": "89bc19914974f9d0",
       "name": "Evelyne III 29 bag",
       "color": "",
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
-    },
-    "8d3a33005b47bbfe": {
-      "product_id": "8d3a33005b47bbfe",
-      "name": "Jypsiere mini bag",
-      "color": "",
-      "price": "AU$15,140",
-      "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CC18/"
     },
     "4f89274f5811c02c": {
       "product_id": "4f89274f5811c02c",
@@ -236,13 +213,6 @@
       "color": "",
       "price": "AU$13,040",
       "url": "https://www.hermes.com/au/en/product/hermes-della-cavalleria-elan-bag-H084658CK18/"
-    },
-    "d0d388f433f0a191": {
-      "product_id": "d0d388f433f0a191",
-      "name": "24/24 - 21 bag",
-      "color": "",
-      "price": "AU$20,225",
-      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H085849CCAB/"
     },
     "efbffb22f1474ef5": {
       "product_id": "efbffb22f1474ef5",
@@ -279,12 +249,19 @@
       "price": "AU$6,845",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
     },
-    "5606aee5516b9636": {
-      "product_id": "5606aee5516b9636",
-      "name": "Evelyne 16 Amazone bag",
+    "200a54d5cb97863e": {
+      "product_id": "200a54d5cb97863e",
+      "name": "Plume mini bag",
       "color": "",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CCAD/"
+      "price": "AU$12,490",
+      "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK3Q/"
+    },
+    "7c16b49b41f2cd4a": {
+      "product_id": "7c16b49b41f2cd4a",
+      "name": "Medor bag",
+      "color": "",
+      "price": "AU$18,015",
+      "url": "https://www.hermes.com/au/en/product/medor-bag-H085055CKAF/"
     },
     "1dbb98739b97e953": {
       "product_id": "1dbb98739b97e953",
@@ -293,19 +270,26 @@
       "price": "AU$17,020",
       "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CCBH/"
     },
-    "5f6722aceead3684": {
-      "product_id": "5f6722aceead3684",
-      "name": "Picotin Lock 18 bag",
+    "b1c45c0f0bfcdaf9": {
+      "product_id": "b1c45c0f0bfcdaf9",
+      "name": "P'tit Arcon Toile & Cuir bag",
       "color": "",
-      "price": "AU$6,080",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CC3Y/"
+      "price": "AU$8,510",
+      "url": "https://www.hermes.com/au/en/product/p-tit-arcon-toile-and-cuir-bag-H086394CKAD/"
     },
-    "6d61f6b3752029e6": {
-      "product_id": "6d61f6b3752029e6",
-      "name": "Picotin Lock 18 bag",
+    "728f91fdda29837b": {
+      "product_id": "728f91fdda29837b",
+      "name": "Mini Medor bag",
       "color": "",
-      "price": "AU$6,745",
-      "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H077913CK34/"
+      "price": "AU$20,665",
+      "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085124CKAA/"
+    },
+    "dcc1d893543cada3": {
+      "product_id": "dcc1d893543cada3",
+      "name": "Roulis mini bag",
+      "color": "",
+      "price": "AU$15,470",
+      "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H079195CP7U/"
     }
   }
 }
