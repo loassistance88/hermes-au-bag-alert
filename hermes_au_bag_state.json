@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-20T04:07:33.188884+00:00",
+  "last_checked_at": "2026-11-20T12:51:06.211752+00:00",
   "seen_ids": [
     "0c2d70a82f00d6b7",
     "b8b335ef54a0fcbd",
@@ -31,12 +31,12 @@
     "200a54d5cb97863e",
     "7c16b49b41f2cd4a",
     "c59fc6bbf5c1c9dd",
-    "4938921876b5193c",
     "8235395394f0bd46",
     "ecfe6985376a8add",
     "b1c45c0f0bfcdaf9",
     "728f91fdda29837b",
-    "dcc1d893543cada3"
+    "dcc1d893543cada3",
+    "642938e1d5c9e1d3"
   ],
   "products": {
     "0c2d70a82f00d6b7": {
@@ -249,13 +249,6 @@
       "price": "AU$12,270",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK37/"
     },
-    "4938921876b5193c": {
-      "product_id": "4938921876b5193c",
-      "name": "24/24 - 21 bag",
-      "color": "",
-      "price": "AU$17,020",
-      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CKBT/"
-    },
     "8235395394f0bd46": {
       "product_id": "8235395394f0bd46",
       "name": "24/24 - 29 bag",
@@ -290,6 +283,13 @@
       "color": "",
       "price": "AU$15,470",
       "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H079195CP7U/"
+    },
+    "642938e1d5c9e1d3": {
+      "product_id": "642938e1d5c9e1d3",
+      "name": "Lindy 26 bag",
+      "color": "",
+      "price": "AU$16,910",
+      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073430CK5X/"
     }
   }
 }
