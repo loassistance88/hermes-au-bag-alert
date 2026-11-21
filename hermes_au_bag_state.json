@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-21T01:55:20.707890+00:00",
+  "last_checked_at": "2026-11-21T09:25:37.229705+00:00",
   "seen_ids": [
     "0c2d70a82f00d6b7",
     "b8b335ef54a0fcbd",
@@ -34,9 +34,7 @@
     "8235395394f0bd46",
     "ecfe6985376a8add",
     "b1c45c0f0bfcdaf9",
-    "728f91fdda29837b",
-    "dcc1d893543cada3",
-    "642938e1d5c9e1d3"
+    "728f91fdda29837b"
   ],
   "products": {
     "0c2d70a82f00d6b7": {
@@ -276,20 +274,6 @@
       "color": "",
       "price": "AU$20,665",
       "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085124CKAA/"
-    },
-    "dcc1d893543cada3": {
-      "product_id": "dcc1d893543cada3",
-      "name": "Roulis mini bag",
-      "color": "",
-      "price": "AU$15,470",
-      "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H079195CP7U/"
-    },
-    "642938e1d5c9e1d3": {
-      "product_id": "642938e1d5c9e1d3",
-      "name": "Lindy 26 bag",
-      "color": "",
-      "price": "AU$16,910",
-      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073430CK5X/"
     }
   }
 }
