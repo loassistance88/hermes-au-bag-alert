@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-20T20:51:52.823857+00:00",
+  "last_checked_at": "2026-11-21T01:55:20.707890+00:00",
   "seen_ids": [
     "0c2d70a82f00d6b7",
     "b8b335ef54a0fcbd",
@@ -29,11 +29,9 @@
     "40fcbac9f9d46fe7",
     "e722223a9a2772bc",
     "200a54d5cb97863e",
-    "23e7026ee707d217",
     "7c16b49b41f2cd4a",
     "c59fc6bbf5c1c9dd",
     "8235395394f0bd46",
-    "404c33f87e3b26f6",
     "ecfe6985376a8add",
     "b1c45c0f0bfcdaf9",
     "728f91fdda29837b",
@@ -237,13 +235,6 @@
       "price": "AU$12,490",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK3Q/"
     },
-    "23e7026ee707d217": {
-      "product_id": "23e7026ee707d217",
-      "name": "Herbag Zip 20 bag",
-      "color": "",
-      "price": "AU$4,885",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H085414CKAF/"
-    },
     "7c16b49b41f2cd4a": {
       "product_id": "7c16b49b41f2cd4a",
       "name": "Medor bag",
@@ -264,13 +255,6 @@
       "color": "",
       "price": "AU$18,565",
       "url": "https://www.hermes.com/au/en/product/2424-29-bag-H075240CKAQ/"
-    },
-    "404c33f87e3b26f6": {
-      "product_id": "404c33f87e3b26f6",
-      "name": "Evelyne 16 Amazone bag",
-      "color": "",
-      "price": "AU$3,870",
-      "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKCI/"
     },
     "ecfe6985376a8add": {
       "product_id": "ecfe6985376a8add",
