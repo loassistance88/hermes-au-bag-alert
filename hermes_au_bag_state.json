@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-22T17:26:19.575940+00:00",
+  "last_checked_at": "2026-11-22T22:43:46.544434+00:00",
   "seen_ids": [
     "0c2d70a82f00d6b7",
     "b8b335ef54a0fcbd",
@@ -16,9 +16,9 @@
     "ecfe6985376a8add",
     "b1c45c0f0bfcdaf9",
     "728f91fdda29837b",
+    "642938e1d5c9e1d3",
     "0344353d2307897e",
     "055c204dedd8f01b",
-    "f54f3cd627e36ec3",
     "27d7e3db4ebbfecb",
     "d4d9ad67cd3790a0",
     "51c5c910e99aaaff",
@@ -26,11 +26,13 @@
     "4f89274f5811c02c",
     "22ade1175c422fea",
     "efbffb22f1474ef5",
-    "0fb080a967a378a1",
+    "f54f3cd627e36ec3",
     "e722223a9a2772bc",
+    "0fb080a967a378a1",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
     "200a54d5cb97863e",
+    "23e7026ee707d217",
     "7c16b49b41f2cd4a",
     "c59fc6bbf5c1c9dd",
     "8235395394f0bd46"
@@ -141,6 +143,13 @@
       "price": "AU$20,665",
       "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085124CKAA/"
     },
+    "642938e1d5c9e1d3": {
+      "product_id": "642938e1d5c9e1d3",
+      "name": "Lindy 26 bag",
+      "color": "",
+      "price": "AU$16,910",
+      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073430CK5X/"
+    },
     "0344353d2307897e": {
       "product_id": "0344353d2307897e",
       "name": "Herbag Zip 31 bag",
@@ -154,13 +163,6 @@
       "color": "",
       "price": "AU$5,535",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK18/"
-    },
-    "f54f3cd627e36ec3": {
-      "product_id": "f54f3cd627e36ec3",
-      "name": "Neo Garden Voyage 41 bredies bag",
-      "color": "",
-      "price": "AU$14,590",
-      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
     },
     "27d7e3db4ebbfecb": {
       "product_id": "27d7e3db4ebbfecb",
@@ -211,12 +213,12 @@
       "price": "AU$9,285",
       "url": "https://www.hermes.com/au/en/product/arcon-slim-bag-H087032CPAB/"
     },
-    "0fb080a967a378a1": {
-      "product_id": "0fb080a967a378a1",
-      "name": "Sanglons clutch",
+    "f54f3cd627e36ec3": {
+      "product_id": "f54f3cd627e36ec3",
+      "name": "Neo Garden Voyage 41 bredies bag",
       "color": "",
-      "price": "AU$14,920",
-      "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CC89/"
+      "price": "AU$14,590",
+      "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
     },
     "e722223a9a2772bc": {
       "product_id": "e722223a9a2772bc",
@@ -224,6 +226,13 @@
       "color": "",
       "price": "AU$7,405",
       "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBM/"
+    },
+    "0fb080a967a378a1": {
+      "product_id": "0fb080a967a378a1",
+      "name": "Sanglons clutch",
+      "color": "",
+      "price": "AU$14,920",
+      "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CC89/"
     },
     "1aeea02d2e365f32": {
       "product_id": "1aeea02d2e365f32",
@@ -245,6 +254,13 @@
       "color": "",
       "price": "AU$12,490",
       "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK3Q/"
+    },
+    "23e7026ee707d217": {
+      "product_id": "23e7026ee707d217",
+      "name": "Herbag Zip 20 bag",
+      "color": "",
+      "price": "AU$4,885",
+      "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H085414CKAF/"
     },
     "7c16b49b41f2cd4a": {
       "product_id": "7c16b49b41f2cd4a",
