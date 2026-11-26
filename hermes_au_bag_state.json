@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-26T04:33:57.585869+00:00",
+  "last_checked_at": "2026-11-26T14:24:12.711517+00:00",
   "seen_ids": [
     "d4d9ad67cd3790a0",
     "0fb080a967a378a1",
@@ -26,15 +26,12 @@
     "f8e8b3ea7535fcf8",
     "efbffb22f1474ef5",
     "02802aa49caec196",
-    "642938e1d5c9e1d3",
-    "f637ec6413556ad4",
     "77cc2e2a453b6785",
     "055c204dedd8f01b",
     "f54f3cd627e36ec3",
     "1aeea02d2e365f32",
     "40fcbac9f9d46fe7",
-    "b99ff3a891cc4c25",
-    "6c3c03341c25739e"
+    "b99ff3a891cc4c25"
   ],
   "products": {
     "d4d9ad67cd3790a0": {
@@ -212,20 +209,6 @@
       "price": "AU$6,745",
       "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK37/"
     },
-    "642938e1d5c9e1d3": {
-      "product_id": "642938e1d5c9e1d3",
-      "name": "Lindy 26 bag",
-      "color": "",
-      "price": "AU$16,910",
-      "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073430CK5X/"
-    },
-    "f637ec6413556ad4": {
-      "product_id": "f637ec6413556ad4",
-      "name": "Herbag Zip 31 bag",
-      "color": "",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKAG/"
-    },
     "77cc2e2a453b6785": {
       "product_id": "77cc2e2a453b6785",
       "name": "Garden Party 36 bag",
@@ -267,13 +250,6 @@
       "color": "",
       "price": "AU$5,940",
       "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CKAI/"
-    },
-    "6c3c03341c25739e": {
-      "product_id": "6c3c03341c25739e",
-      "name": "Halzan 25 bag",
-      "color": "",
-      "price": "AU$10,060",
-      "url": "https://www.hermes.com/au/en/product/halzan-25-bag-H082027CK89/"
     }
   }
 }
