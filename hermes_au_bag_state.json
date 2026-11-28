@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-11-28T04:48:49.011390+00:00",
+  "last_checked_at": "2026-11-28T13:43:35.684177+00:00",
   "seen_ids": [
     "d4d9ad67cd3790a0",
     "0fb080a967a378a1",
@@ -7,7 +7,6 @@
     "64ebf936699d2e7d",
     "4e2a2210add07673",
     "65c21c1a4e0ca569",
-    "dcd5efd1c4e15e17",
     "22ade1175c422fea",
     "89bc19914974f9d0",
     "0ecc83d54d57f0a9",
@@ -16,7 +15,6 @@
     "ecfe6985376a8add",
     "8235395394f0bd46",
     "f8900620d57df623",
-    "49fb747a47ee9954",
     "51c5c910e99aaaff",
     "4a59d2da081a4099",
     "f8e8b3ea7535fcf8",
@@ -83,13 +81,6 @@
       "price": "AU$21,220",
       "url": "https://www.hermes.com/au/en/product/bridon-bag-H087972CKAB/"
     },
-    "dcd5efd1c4e15e17": {
-      "product_id": "dcd5efd1c4e15e17",
-      "name": "Herbag Zip 31 bag",
-      "color": "",
-      "price": "AU$5,395",
-      "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CCBM/"
-    },
     "22ade1175c422fea": {
       "product_id": "22ade1175c422fea",
       "name": "Hermès Della Cavalleria Elan bag",
@@ -145,13 +136,6 @@
       "color": "",
       "price": "AU$8,730",
       "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CKAF/"
-    },
-    "49fb747a47ee9954": {
-      "product_id": "49fb747a47ee9954",
-      "name": "24/24 - 21 bag",
-      "color": "",
-      "price": "AU$21,770",
-      "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
     },
     "51c5c910e99aaaff": {
       "product_id": "51c5c910e99aaaff",
